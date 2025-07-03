@@ -1,5 +1,6 @@
 node_modules
 dist-icons
-pngs/
-emoji-groups/
+public
+pngs
+emoji-groups
 .env.aoai

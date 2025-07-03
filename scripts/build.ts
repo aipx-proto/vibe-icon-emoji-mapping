@@ -1,36 +1,24 @@
-import { exec } from "child_process";
 import { mkdirSync } from "fs";
 import { readFile, readdir, rm, writeFile } from "fs/promises";
 import { resolve } from "path";
 import { filter, from, lastValueFrom, mergeMap, toArray } from "rxjs";
-import { promisify } from "util";
 import type { IconIndex, IconOption, MetadataMap } from "../typings/icon-index";
 import { getMostSensibleIconSize } from "./utils/get-sensible-size";
 import { displayNameToSourceAssetSVGFilename, displayNameToVibeIconSVGFilename } from "./utils/normalize-name";
 import { buildLog, logEntry } from "./utils/build-log";
-import { progressSpinner, updateProgress } from "./utils/progress-bar";
+import { updateProgress } from "./utils/progress-bar";
 
-const execAsync = promisify(exec);
 const outDir = resolve("dist-icons");
 
 main();
-
-// TODO further compress the light index. to include size/style suffix
-// Compute file name from display name
-// Only support fill/regular per size
 
 async function main() {
   console.log("Starting icon build process...");
   logEntry("main", "info", "Build process started");
 
-  console.log("Fetching repository assets...");
-  const commitId = await fetchRepoAssets();
-  // const commitId = "1234567890"; // to test locally
-  buildLog.commit = commitId;
-  logEntry("fetch", "info", `Repository assets fetched successfully. Commit: ${commitId}`);
-
+  // Assume assets are already present in dist-icons/assets
   console.log("Building icon index...");
-  const { iconIndex, metadata, iconDirMap } = await buildIconIndex(commitId);
+  const { iconIndex, metadata, iconDirMap } = await buildIconIndex();
   buildLog.summary.totalIcons = Object.keys(iconIndex.icons).length;
   buildLog.summary.processedIcons = Object.keys(iconIndex.icons).length;
 
@@ -71,44 +59,8 @@ async function main() {
   console.log(`Size stats: ${JSON.stringify(sizeStats, null, 2)}`);
 }
 
-async function fetchRepoAssets(): Promise<string> {
-  // download the entire folder content from https://github.com/microsoft/fluentui-system-icons/tree/main/assets
-  // save them to outDir/fluentui-system-icons/assets
 
-  // Create temp directory if it doesn't exist
-  try {
-    await rm(outDir, { recursive: true });
-  } catch {}
-
-  await mkdirSync(outDir, { recursive: true });
-
-  // Clone the repository with sparse checkout to get only the assets folder
-  const commands = [
-    `git clone --filter=blob:none --sparse https://github.com/microsoft/fluentui-system-icons.git ${outDir}`,
-    `cd ${outDir} && git sparse-checkout init --cone`,
-    `cd ${outDir} && git sparse-checkout set assets`,
-    `cd ${outDir} && git rev-parse HEAD`,
-  ];
-
-  let stdout = "";
-  for (const command of commands) {
-    const spinner = progressSpinner(command);
-    const { stdout: commandStdout } = await execAsync(command);
-    stdout = commandStdout;
-    spinner();
-  }
-
-  const commitId = stdout.trim();
-
-  console.log(`Repository assets fetched successfully. Commit: ${commitId}`);
-
-  // remove the .git directory to clean up
-  await rm(resolve(outDir, ".git"), { recursive: true });
-
-  return commitId;
-}
-
-async function buildIconIndex(commitId: string): Promise<{
+async function buildIconIndex(): Promise<{
   iconIndex: IconIndex;
   metadata: MetadataMap;
   iconDirMap: Map<string, string>;
@@ -125,7 +77,6 @@ async function buildIconIndex(commitId: string): Promise<{
 
   const icons$ = from(assetFolders).pipe(
     mergeMap(async (folder) => {
-
       // throw out the rtl, ltr, and temp icons - the are duplicates and don't parse the same as the regular icons
       if (folder.includes(" RTL") || folder.includes(" LTR") || folder.includes(" Temp ")) {
         logEntry('processing', 'warn', `Skipping folder ${folder}: contains RTL, LTR, or Temp`);
@@ -227,7 +178,6 @@ async function buildIconIndex(commitId: string): Promise<{
 
   return {
     iconIndex: {
-      commit: commitId,
       icons: Object.fromEntries(
         iconEntries
           .filter((entry) => entry !== null)
@@ -240,6 +190,7 @@ async function buildIconIndex(commitId: string): Promise<{
     iconDirMap,
   };
 }
+
 
 async function compileIconSvgs(iconIndex: IconIndex, metadata: MetadataMap, iconDirMap: Map<string, string>) {
   // We only select a single most sensible icon size with this order:
@@ -265,7 +216,7 @@ async function compileIconSvgs(iconIndex: IconIndex, metadata: MetadataMap, icon
   // Create empty public directory if it doesn't exist
   try {
     await rm(publicDir, { recursive: true });
-  } catch {}
+  } catch { }
   mkdirSync(publicDir, { recursive: true });
 
   let progress = 0;

@@ -2,7 +2,8 @@
   "name": "vibe-icon-emoji-mapping",
   "version": "0.0.1",
   "scripts": {
-    "build:clone": "rm -rf dist-icons && tsx scripts/build.ts",
+    "build:clone": "rm -rf dist-icons && tsx scripts/clone.ts",
+    "build:svg": "tsx scripts/build.ts",
     "build:png": "rm -rf pngs && tsx scripts/icon-to-emoji-llm/svg-to-png.ts",
     "build:assign": "tsx scripts/icon-to-emoji-llm/assign-emoji.ts",
     "build:map": "tsx scripts/icon-to-emoji-llm/map-emoji.ts"
