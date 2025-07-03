@@ -1,0 +1,3757 @@
+{
+  "generated": "2025-07-02T23:22:51.694Z",
+  "totalTies": 444,
+  "note": "Only contains primary emoji conflicts (primary vs primary). Alternative emoji conflicts are not included. Sorted by emoji length (shorter first), then alphabetically within each length group. To manually override tie-breaking, copy this file to 'emoji-ties-manually-broken.json' and reorder the arrays - the first item in each array will be used as the winner.",
+  "ties": {
+    "¶": [
+      "text-paragraph-direction-left",
+      "text-paragraph-direction-right",
+      "text-paragraph-direction",
+      "text-paragraph"
+    ],
+    "@": [
+      "mention",
+      "mention-arrow-down"
+    ],
+    "⇄": [
+      "arrow-fit-in",
+      "text-align-distributed"
+    ],
+    "⇅": [
+      "elevator",
+      "dual-screen-vertical-scroll",
+      "arrow-autofit-height",
+      "arrow-autofit-height-dotted",
+      "text-align-distributed-vertical"
+    ],
+    "∑": [
+      "autosum",
+      "gesture"
+    ],
+    "≡": [
+      "line-horizontal-4-search",
+      "line-horizontal-5-error",
+      "navigation",
+      "list",
+      "line-horizontal-5",
+      "line-horizontal-4",
+      "line-style-sketch",
+      "line-style",
+      "line-thickness"
+    ],
+    "⋮": [
+      "more-vertical",
+      "text-bullet-list-90"
+    ],
+    "⋯": [
+      "line-horizontal-1",
+      "more-horizontal",
+      "dual-screen-pagination"
+    ],
+    "⌘": [
+      "key-command",
+      "clover"
+    ],
+    "⌚": [
+      "smartwatch",
+      "smartwatch-dot",
+      "server-multiple"
+    ],
+    "⎯": [
+      "line-horizontal-3",
+      "road"
+    ],
+    "⎸": [
+      "align-left",
+      "align-start-horizontal",
+      "align-start-vertical"
+    ],
+    "⏩": [
+      "fast-forward",
+      "chevron-double-right",
+      "next",
+      "play-multiple",
+      "play-settings"
+    ],
+    "⏪": [
+      "rewind",
+      "chevron-double-left",
+      "replay"
+    ],
+    "⏫": [
+      "chevron-double-up",
+      "chevron-up",
+      "double-swipe-up",
+      "text-direction-rotate-270-right",
+      "text-direction-rotate-315-right",
+      "text-direction-rotate-90-left"
+    ],
+    "⏬": [
+      "arrow-circle-down-double",
+      "chevron-double-down",
+      "arrow-split",
+      "double-swipe-down",
+      "text-direction-vertical",
+      "text-direction-rotate-45-right",
+      "text-direction-rotate-90-right"
+    ],
+    "⏰": [
+      "clock-alarm",
+      "lottery",
+      "time-picker",
+      "dual-screen-clock"
+    ],
+    "⏳": [
+      "hourglass-half",
+      "hourglass-one-quarter",
+      "hourglass"
+    ],
+    "│": [
+      "divider-short",
+      "divider-tall"
+    ],
+    "◧": [
+      "window-column-one-fourth-left-focus-left",
+      "window-header-vertical",
+      "layout-row-two-focus-top",
+      "layout-row-two-split-top-focus-top-right"
+    ],
+    "◨": [
+      "window-column-one-fourth-left-focus-top",
+      "layout-row-two-settings",
+      "layout-row-two-split-top"
+    ],
+    "♿": [
+      "accessibility-checkmark",
+      "layout-column-one-third-right",
+      "accessibility-more",
+      "accessibility-question-mark",
+      "layout-column-three-focus-left",
+      "layout-column-three-focus-right",
+      "accessibility",
+      "accessibility-error",
+      "layout-column-one-third-right-hint",
+      "layout-column-three-focus-center"
+    ],
+    "⚡": [
+      "flash",
+      "flash-add",
+      "flash-checkmark",
+      "flash-off",
+      "flash-auto",
+      "flash-settings",
+      "flash-sparkle",
+      "flash-play",
+      "arrow-forward-down-lightning",
+      "flash-flow"
+    ],
+    "⚪": [
+      "presence-unknown",
+      "circle-edit"
+    ],
+    "⚫": [
+      "presence-busy",
+      "wifi-4",
+      "data-scatter"
+    ],
+    "⚾": [
+      "circle-shadow",
+      "sport-baseball",
+      "circle-highlight"
+    ],
+    "⛅": [
+      "weather-partly-cloudy-day",
+      "weather-cloudy"
+    ],
+    "⛶": [
+      "arrow-expand",
+      "scale-fill"
+    ],
+    "⛺": [
+      "tent",
+      "autocorrect"
+    ],
+    "✅": [
+      "presence-available",
+      "checkmark-circle",
+      "checkmark",
+      "task-list-add",
+      "checkmark-starburst",
+      "braces-checkmark",
+      "checkmark-underline-circle",
+      "tasks-app",
+      "checkmark-circle-warning",
+      "checkmark-lock",
+      "shifts-availability",
+      "checkmark-note"
+    ],
+    "✋": [
+      "hand-left",
+      "hand-right",
+      "hand-left-chat",
+      "hand-right-off"
+    ],
+    "✨": [
+      "sparkle",
+      "sparkle-action",
+      "prompt",
+      "calendar-sparkle",
+      "sparkle-circle",
+      "sparkle-info",
+      "flow-sparkle"
+    ],
+    "❌": [
+      "presence-offline",
+      "dismiss",
+      "dismiss-circle",
+      "dismiss-square-multiple",
+      "dismiss-square",
+      "braces-dismiss",
+      "dual-screen-dismiss",
+      "chevron-down-up",
+      "text-subscript"
+    ],
+    "❎": [
+      "diamond-dismiss",
+      "share-screen-stop"
+    ],
+    "❓": [
+      "question",
+      "question-circle"
+    ],
+    "❗": [
+      "important",
+      "error-circle"
+    ],
+    "➕": [
+      "add",
+      "symbols",
+      "add-circle",
+      "doctor",
+      "add-square",
+      "location-add",
+      "add-subtract-circle",
+      "add-square-multiple",
+      "text-expand",
+      "dual-screen-add",
+      "math-symbols"
+    ],
+    "➖": [
+      "line-horizontal-2-dashes-solid",
+      "presence-dnd",
+      "subtract",
+      "slide-text-title",
+      "subtract-circle-arrow-back",
+      "line-horizontal-1-dash-dot-dash",
+      "text-color-accent",
+      "dual-screen-status-bar",
+      "port-usb-a",
+      "port-micro-usb",
+      "port-usb-c",
+      "border-inside"
+    ],
+    "⧉": [
+      "shape-intersect",
+      "column",
+      "center-vertical"
+    ],
+    "⬛": [
+      "frame",
+      "window-header-horizontal",
+      "system",
+      "table-cells-merge",
+      "table-cells-split",
+      "rhombus",
+      "window"
+    ],
+    "⬜": [
+      "checkbox-unchecked",
+      "stop",
+      "maximize",
+      "tab-shield-dismiss",
+      "diamond",
+      "window-inprivate"
+    ],
+    "⬡": [
+      "hexagon",
+      "hexagon-sparkle"
+    ],
+    "⭐": [
+      "star",
+      "star-one-quarter",
+      "star-three-quarter",
+      "star-half",
+      "star-add",
+      "star-edit",
+      "calendar-star",
+      "star-checkmark",
+      "star-dismiss",
+      "star-arrow-back",
+      "star-arrow-right-end",
+      "star-settings",
+      "star-arrow-right-start",
+      "star-off",
+      "star-prohibited",
+      "star-line-horizontal-3"
+    ],
+    "⭕": [
+      "radio-button",
+      "circle",
+      "circle-hint",
+      "more-circle",
+      "circle-sparkle",
+      "circle-hint-half-vertical",
+      "circle-multiple-hint-checkmark",
+      "circle-multiple-subtract-checkmark"
+    ],
+    "⭘": [
+      "circle-small",
+      "circle-multiple-concentric",
+      "oval"
+    ],
+    "⭮": [
+      "circle-hint-cursor",
+      "circle-hint-dismiss"
+    ],
+    "⭱": [
+      "swipe-up",
+      "component-2-double-tap-swipe-up"
+    ],
+    "⭳": [
+      "swipe-down",
+      "arrow-circle-down-split",
+      "component-2-double-tap-swipe-down"
+    ],
+    "☰": [
+      "text-column-one",
+      "text-column-one-semi-narrow",
+      "text-column-one-wide",
+      "text-column-wide",
+      "text-column-one-narrow",
+      "text-column-one-wide-lightning",
+      "row-triple",
+      "text-align-center",
+      "text-align-justify-low-rotate-90",
+      "text-align-justify-rotate-90",
+      "text-align-left-rotate-90",
+      "text-align-right-rotate-90",
+      "text-align-distributed-evenly",
+      "group-list"
+    ],
+    "〰️": [
+      "reorder",
+      "catch-up",
+      "ink-stroke",
+      "haptic-strong",
+      "bezier-curve-square",
+      "haptic-weak",
+      "dual-screen-vibrate",
+      "stream",
+      "re-order",
+      "data-waterfall",
+      "spacebar"
+    ],
+    "🄣": [
+      "code-ts-rectangle",
+      "code-ts"
+    ],
+    "↔️": [
+      "arrow-bidirectional-left-right",
+      "arrows-bidirectional",
+      "layout-column-two-split-left-focus-bottom-left",
+      "auto-fit-width",
+      "table-resize-column",
+      "arrow-fit",
+      "scale-fit",
+      "arrow-autofit-width"
+    ],
+    "↕️": [
+      "arrow-bidirectional-up-down",
+      "layout-column-two-split-left-focus-right",
+      "auto-fit-height",
+      "table-resize-row"
+    ],
+    "↖️": [
+      "arrow-up-left",
+      "arrow-circle-up-left",
+      "contract-up-right",
+      "expand-up-left"
+    ],
+    "↗️": [
+      "arrow-up-right",
+      "arrow-up-right-dashes",
+      "arrow-circle-up-right",
+      "open-folder",
+      "arrow-maximize",
+      "arrow-outline-down-left",
+      "arrow-square-up-right",
+      "arrow-enter-up",
+      "arrow-flow-up-right",
+      "arrow-flow-up-right-rectangle-multiple",
+      "expand-up-right",
+      "compose"
+    ],
+    "↘️": [
+      "arrow-down-right",
+      "layout-column-two-split-right-focus-left",
+      "arrow-turn-left-down",
+      "arrow-circle-down-right",
+      "arrow-minimize",
+      "arrow-step-in-diagonal-down-left",
+      "contract-down-left"
+    ],
+    "↙️": [
+      "arrow-down-left",
+      "layout-column-two-split-right-focus-bottom-right",
+      "arrow-next"
+    ],
+    "↩️": [
+      "arrow-hook-down-left",
+      "arrow-hook-up-left",
+      "arrow-redo",
+      "arrow-turn-down-left",
+      "arrow-turn-right-down",
+      "arrow-turn-up-left",
+      "rotate-left",
+      "arrow-forward",
+      "arrow-reset",
+      "arrow-reply",
+      "arrow-reply-all",
+      "arrow-reply-down",
+      "arrow-enter-left",
+      "arrow-step-back",
+      "arrow-undo",
+      "text-arrow-down-right-column",
+      "text-wrap",
+      "convert-range"
+    ],
+    "↪️": [
+      "arrow-hook-down-right",
+      "arrow-hook-up-right",
+      "arrow-turn-down-right",
+      "arrow-turn-right-up",
+      "rotate-right",
+      "swipe-right",
+      "arrow-step-over"
+    ],
+    "⌨️": [
+      "keyboard-123",
+      "keyboard-layout-split",
+      "keyboard",
+      "keyboard-dock",
+      "keyboard-layout-float",
+      "keyboard-layout-one-handed-left",
+      "keyboard-mouse",
+      "serial-port",
+      "table-stack-above",
+      "table-stack-below",
+      "panel-top-gallery",
+      "table-stack-left",
+      "table-stack-right",
+      "control-button"
+    ],
+    "⏭️": [
+      "previous-frame",
+      "next-frame"
+    ],
+    "⏮️": [
+      "previous",
+      "arrow-previous",
+      "flip-vertical"
+    ],
+    "⏯️": [
+      "play-circle-hint-half",
+      "video-clip-multiple",
+      "play-circle-hint",
+      "play-circle-sparkle",
+      "video-play-pause"
+    ],
+    "⏱️": [
+      "top-speed",
+      "ratio-one-to-one"
+    ],
+    "⏲️": [
+      "timer",
+      "timer-10",
+      "timer-2",
+      "timer-3",
+      "timer-off",
+      "shifts-30-minutes"
+    ],
+    "⏸️": [
+      "pause",
+      "pause-circle",
+      "pipeline",
+      "pipeline-play",
+      "pause-settings",
+      "document-one-page-columns",
+      "pipeline-add",
+      "re-order-vertical",
+      "pause-off",
+      "pipeline-arrow-curve-down",
+      "subtract-circle-arrow-forward",
+      "align-space-evenly-horizontal",
+      "column-arrow-right",
+      "circle-eraser",
+      "column-edit",
+      "flip-horizontal",
+      "align-center-horizontal",
+      "column-triple",
+      "column-triple-edit",
+      "textbox-align-bottom-left",
+      "textbox-align-bottom-rotate-90",
+      "textbox-align-center",
+      "textbox-align-middle",
+      "textbox-align-middle-right",
+      "textbox-align-top-left",
+      "textbox-align-top-rotate-90",
+      "align-space-around-vertical",
+      "align-space-between-vertical",
+      "border-left-right",
+      "layout-column-two",
+      "layout-row-four-focus-center-bottom",
+      "line-horizontal-1-dashes"
+    ],
+    "⏹️": [
+      "record-stop",
+      "checkbox-indeterminate",
+      "subtract-circle",
+      "subtract-square",
+      "align-space-fit-vertical"
+    ],
+    "⏺️": [
+      "record",
+      "circle-line",
+      "button"
+    ],
+    "▶️": [
+      "ios-chevron-right",
+      "caret-right",
+      "play",
+      "triangle-right",
+      "video-clip",
+      "play-circle",
+      "resize-video",
+      "video-clip-optimize",
+      "video-clip-wand",
+      "navigation-play"
+    ],
+    "◀️": [
+      "ios-arrow",
+      "caret-left",
+      "triangle-left"
+    ],
+    "◻️": [
+      "border-bottom",
+      "border-bottom-thick",
+      "border-outside",
+      "border-outside-thick",
+      "border-right",
+      "border-top",
+      "border-top-bottom",
+      "border-top-bottom-double",
+      "border-top-bottom-thick",
+      "resize",
+      "grid-kanban"
+    ],
+    "◼️": [
+      "resize-small",
+      "data-treemap",
+      "layout-row-two"
+    ],
+    "☀️": [
+      "weather-sunny",
+      "brightness-high",
+      "brightness-low"
+    ],
+    "☁️": [
+      "cloud",
+      "cloud-words",
+      "cloud-arrow-down",
+      "cloud-arrow-up",
+      "cloud-add",
+      "cloud-checkmark",
+      "cloud-arrow-right",
+      "cloud-archive",
+      "cloud-beaker",
+      "cloud-cube",
+      "cloud-database",
+      "cloud-dismiss",
+      "cloud-error",
+      "cloud-bidirectional",
+      "cloud-desktop",
+      "cloud-edit",
+      "cloud-link",
+      "cloud-swap",
+      "cloud-sync",
+      "cloud-flow"
+    ],
+    "☑️": [
+      "checkbox-checked",
+      "checkbox-1",
+      "checkbox-arrow-right",
+      "checkbox-checked-sync",
+      "checkbox-2",
+      "checkbox-warning",
+      "checkbox-person",
+      "select-all-on",
+      "checkmark-circle-square",
+      "checkmark-square",
+      "scan-type-checkmark"
+    ],
+    "♻️": [
+      "recycle",
+      "camera-switch"
+    ],
+    "♿⋯": [
+      "accessibility-more",
+      "layout-column-three-focus-left"
+    ],
+    "♿❓": [
+      "accessibility-question-mark",
+      "layout-column-three-focus-right"
+    ],
+    "♿❗": [
+      "accessibility-error",
+      "layout-column-three-focus-center"
+    ],
+    "⚖️": [
+      "scales",
+      "dual-screen-mirror"
+    ],
+    "⚗️": [
+      "beaker",
+      "beaker-empty",
+      "beaker-add",
+      "beaker-dismiss",
+      "beaker-settings",
+      "beaker-edit"
+    ],
+    "⚙️": [
+      "settings",
+      "settings-cog-multiple",
+      "calendar-settings",
+      "dual-screen-settings",
+      "settings-chat",
+      "launcher-settings"
+    ],
+    "⚠️": [
+      "warning",
+      "triangle",
+      "triangle-up",
+      "warning-lock-open",
+      "warning-shield",
+      "error-circle-settings"
+    ],
+    "✂️": [
+      "cut",
+      "screen-cut",
+      "crop-sparkle",
+      "crop",
+      "document-page-break"
+    ],
+    "✈️": [
+      "airplane",
+      "layout-column-three"
+    ],
+    "✉️": [
+      "mail",
+      "mail-read",
+      "mail-add",
+      "mail-all-read",
+      "mail-copy",
+      "mail-dismiss",
+      "mail-edit",
+      "mail-alert",
+      "mail-checkmark",
+      "mail-error",
+      "mail-all-unread",
+      "mail-fish-hook",
+      "mail-attach",
+      "mail-link",
+      "mail-data-bar",
+      "mail-list",
+      "mail-pause",
+      "mail-clock",
+      "mail-multiple",
+      "mail-open-person",
+      "mail-briefcase"
+    ],
+    "✏️": [
+      "edit",
+      "drafts",
+      "status",
+      "pen",
+      "signature",
+      "whiteboard-off",
+      "edit-off",
+      "pen-sparkle",
+      "whiteboard",
+      "edit-prohibited",
+      "pen-dismiss",
+      "pen-off",
+      "edit-lock",
+      "pen-prohibited",
+      "edit-arrow-back",
+      "edit-settings",
+      "draw-text",
+      "pen-sync",
+      "edit-line-horizontal-3",
+      "text-clear-formatting",
+      "text-edit-style",
+      "text-edit-style-character-a",
+      "text-edit-style-character-ga",
+      "color-line",
+      "edit-person",
+      "clear-formatting"
+    ],
+    "✒️": [
+      "calligraphy-pen",
+      "calligraphy-pen-checkmark",
+      "calligraphy-pen-error",
+      "calligraphy-pen-question-mark"
+    ],
+    "✖️": [
+      "braces-variable",
+      "text-superscript"
+    ],
+    "❤️": [
+      "heart-circle",
+      "heart-circle-hint",
+      "heart-off"
+    ],
+    "➡️": [
+      "arrow-right",
+      "keyboard-tab",
+      "arrow-export",
+      "arrow-import",
+      "chevron-circle-right",
+      "chevron-right",
+      "arrow-circle-right",
+      "location-add-right",
+      "arrow-move",
+      "location-arrow-right",
+      "dual-screen-span",
+      "arrow-step-in-right",
+      "arrow-enter",
+      "arrow-exit",
+      "stream-input",
+      "stream-output",
+      "table-move-right",
+      "text-first-line",
+      "text-hanging",
+      "arrow-wrap",
+      "arrow-forward-down-person",
+      "dual-screen-arrow-right",
+      "text-indent-increase",
+      "padding-right",
+      "gather"
+    ],
+    "⤴️": [
+      "arrow-curve-up-left",
+      "arrow-curve-up-right",
+      "dock",
+      "arrow-turn-down-up",
+      "arrow-turn-left-up",
+      "arrow-turn-up-down",
+      "directions",
+      "arrow-autofit-up"
+    ],
+    "⤵️": [
+      "arrow-curve-down-left",
+      "arrow-curve-down-right",
+      "arrow-turn-left-right",
+      "arrow-turn-right",
+      "arrow-turn-right-left",
+      "arrow-autofit-down"
+    ],
+    "⬅️": [
+      "arrow-left",
+      "presence-oof",
+      "chevron-circle-left",
+      "chevron-left",
+      "arrow-circle-left",
+      "location-add-left",
+      "location-arrow-left",
+      "arrow-step-in-left",
+      "table-move-left",
+      "text-indent-decrease",
+      "padding-left"
+    ],
+    "⬆️": [
+      "arrow-sort",
+      "arrow-sort-up",
+      "arrow-up",
+      "keyboard-shift",
+      "chevron-circle-up",
+      "arrow-export-up",
+      "arrow-circle-up",
+      "location-add-up",
+      "arrow-circle-up-sparkle",
+      "location-arrow-up",
+      "arrow-up-square-settings",
+      "arrow-between-up",
+      "arrow-up-exclamation",
+      "keyboard-shift-uppercase",
+      "arrow-step-out",
+      "arrow-sort-up-lines",
+      "padding-top",
+      "table-move-above",
+      "text-indent-decrease-rotate-90",
+      "arrow-collapse-all",
+      "text-add-space-after",
+      "arrow-maximize-vertical",
+      "text-indent-increase-rotate-270",
+      "arrow-upload",
+      "dual-screen-arrow-up"
+    ],
+    "⬇️": [
+      "arrow-down",
+      "arrow-sort-down",
+      "layout-column-two-split-left-focus-top-left",
+      "chevron-circle-down",
+      "chevron-down",
+      "arrow-download",
+      "arrow-circle-down",
+      "arrow-between-down",
+      "arrow-down-exclamation",
+      "arrow-expand-all",
+      "layout-column-two-split-left",
+      "arrow-step-in",
+      "arrow-move-inward",
+      "arrow-square-down",
+      "arrow-square",
+      "arrow-sort-down-lines",
+      "padding-down",
+      "table-move-below",
+      "text-indent-decrease-rotate-270",
+      "layout-column-two-split-right-focus-top-right",
+      "text-indent-increase-rotate-90",
+      "text-add-space-before",
+      "arrow-minimize-vertical",
+      "dual-screen-update",
+      "markdown"
+    ],
+    "🌉": [
+      "space-3d",
+      "text-position-behind",
+      "text-position-front",
+      "text-position-line",
+      "text-position-square",
+      "text-position-square-left",
+      "text-position-square-right",
+      "text-position-through",
+      "text-position-tight",
+      "text-position-top-bottom"
+    ],
+    "🌊": [
+      "water",
+      "weather-haze"
+    ],
+    "🌍": [
+      "earth",
+      "earth-leaf"
+    ],
+    "🌐": [
+      "globe",
+      "globe-shield",
+      "globe-add",
+      "globe-location",
+      "globe-search",
+      "globe-sync",
+      "globe-desktop",
+      "globe-person",
+      "globe-star",
+      "globe-warning",
+      "globe-arrow-forward",
+      "globe-arrow-up",
+      "globe-prohibited",
+      "globe-video",
+      "globe-error",
+      "globe-clock",
+      "globe-surface",
+      "resize-table",
+      "text-proofing-tools-zi",
+      "local-language"
+    ],
+    "🌙": [
+      "weather-moon",
+      "sleep",
+      "weather-partly-cloudy-night",
+      "weather-snow-shower-night",
+      "weather-moon-off"
+    ],
+    "🌳": [
+      "tree-deciduous",
+      "plant-ragweed"
+    ],
+    "🌿": [
+      "branch-compare",
+      "branch",
+      "branch-fork",
+      "branch-request-closed",
+      "branch-fork-link",
+      "branch-request",
+      "branch-fork-hint",
+      "organization-horizontal",
+      "branch-request-draft"
+    ],
+    "🍃": [
+      "leaf-one",
+      "leaf-three",
+      "leaf-two"
+    ],
+    "🍔": [
+      "table-split",
+      "poll-horizontal"
+    ],
+    "🍜": [
+      "bowl-chopsticks",
+      "inprivate-account"
+    ],
+    "🍴": [
+      "food",
+      "spatula-spoon"
+    ],
+    "🍷": [
+      "drink-wine",
+      "dishwasher"
+    ],
+    "🎁": [
+      "gift",
+      "gift-card",
+      "gift-card-add",
+      "gift-card-multiple",
+      "gift-card-arrow-right",
+      "gift-card-money"
+    ],
+    "🎒": [
+      "backpack",
+      "backpack-add"
+    ],
+    "🎓": [
+      "hat-graduation",
+      "hat-graduation-add",
+      "hat-graduation-sparkle",
+      "certificate"
+    ],
+    "🎤": [
+      "mic",
+      "mic-off",
+      "mic-prohibited",
+      "mic-pulse-off",
+      "mic-link",
+      "mic-sparkle",
+      "mic-pulse",
+      "mic-sync",
+      "mic-record",
+      "mic-settings"
+    ],
+    "🎧": [
+      "headphones",
+      "headphones-sound-wave",
+      "headset",
+      "headset-add"
+    ],
+    "🎨": [
+      "color",
+      "paint-bucket-brush",
+      "paint-bucket"
+    ],
+    "🎬": [
+      "movies-and-tv",
+      "calendar-pattern",
+      "video-clip-off"
+    ],
+    "🎮": [
+      "games",
+      "game-chat",
+      "xbox-controller",
+      "xbox-controller-error"
+    ],
+    "🎯": [
+      "target",
+      "my-location",
+      "point-scan",
+      "radar",
+      "location-target-square",
+      "radar-checkmark",
+      "target-arrow",
+      "radar-rectangle-multiple",
+      "target-sparkle",
+      "target-edit",
+      "target-add",
+      "target-dismiss",
+      "search-visual",
+      "navigation-location-target"
+    ],
+    "🎵": [
+      "music-note-1",
+      "music-note-2-play",
+      "music-note-off-1"
+    ],
+    "🎶": [
+      "music-note-2",
+      "music-note-off-2"
+    ],
+    "🏁": [
+      "flag-checkered",
+      "transparency-square",
+      "layout-cell-four-focus-bottom-left",
+      "layout-cell-four-focus-bottom-right",
+      "layout-cell-four-focus-top-left",
+      "layout-cell-four-focus-top-right",
+      "fast-acceleration",
+      "scan-qr-code"
+    ],
+    "🏆": [
+      "trophy",
+      "trophy-lock",
+      "trophy-off"
+    ],
+    "🏉": [
+      "sport-hockey",
+      "sport"
+    ],
+    "🏠": [
+      "home",
+      "home-add",
+      "home-empty",
+      "home-checkmark",
+      "home-heart",
+      "home-person",
+      "home-garage",
+      "home-database",
+      "home-split",
+      "home-more"
+    ],
+    "🏢": [
+      "building",
+      "building-multiple",
+      "building-people",
+      "building-swap",
+      "building-checkmark",
+      "building-home",
+      "building-cloud",
+      "building-desktop",
+      "fax"
+    ],
+    "🏦": [
+      "building-bank",
+      "building-bank-link",
+      "building-bank-toolbox"
+    ],
+    "🏭": [
+      "building-factory",
+      "building-government",
+      "building-government-search"
+    ],
+    "🏴": [
+      "real-estate",
+      "fluent"
+    ],
+    "🐇": [
+      "animal-rabbit",
+      "animal-rabbit-off"
+    ],
+    "🐞": [
+      "bug",
+      "bug-prohibited",
+      "bug-arrow-counterclockwise"
+    ],
+    "👆": [
+      "hand-draw",
+      "hand-point",
+      "tap-double",
+      "tap-single"
+    ],
+    "👋": [
+      "hand-wave",
+      "emoji-hand"
+    ],
+    "👍": [
+      "thumb-like-dislike",
+      "thumb-like",
+      "scan-thumb-up"
+    ],
+    "👏": [
+      "hand-multiple",
+      "hand-open-heart"
+    ],
+    "👑": [
+      "crown",
+      "crown-subtract"
+    ],
+    "👛": [
+      "wallet-credit-card",
+      "wallet",
+      "window-inprivate-account",
+      "window-shield",
+      "window-location-target",
+      "window-settings",
+      "window-play"
+    ],
+    "👤": [
+      "person-circle",
+      "person-square",
+      "person-available",
+      "person-edit",
+      "person-error",
+      "person",
+      "person-head-hint",
+      "person-heart",
+      "person-home",
+      "person-info",
+      "person-key",
+      "person-lightbulb",
+      "person-lightning",
+      "person-chat",
+      "person-delete",
+      "person-square-add",
+      "people-add",
+      "person-briefcase",
+      "person-call",
+      "person-clock",
+      "person-star",
+      "person-wrench",
+      "person-square-checkmark",
+      "person-desktop",
+      "person-subtract",
+      "person-swap",
+      "person-voice",
+      "person-warning",
+      "people-checkmark",
+      "people-edit",
+      "people-call",
+      "people-chat",
+      "people-error",
+      "person-sync",
+      "person-tag",
+      "person-support",
+      "people-eye",
+      "person-tentative"
+    ],
+    "👥": [
+      "people",
+      "people-team",
+      "people-queue",
+      "people-team-add",
+      "people-team-delete",
+      "people-audience",
+      "people-community",
+      "person-board",
+      "person-board-add",
+      "people-team-toolbox",
+      "people-community-add",
+      "people-subtract",
+      "people-swap",
+      "people-sync",
+      "people-toolbox"
+    ],
+    "💎": [
+      "premium",
+      "premium-person"
+    ],
+    "💓": [
+      "heart-pulse",
+      "heart-pulse-checkmark",
+      "heart-pulse-warning",
+      "heart-pulse-error"
+    ],
+    "💡": [
+      "lightbulb",
+      "lightbulb-checkmark",
+      "lightbulb-filament",
+      "lightbulb-person",
+      "lightbulb-circle",
+      "laser-tool"
+    ],
+    "💨": [
+      "weather-squalls",
+      "reading-list",
+      "reading-list-add",
+      "dust",
+      "filter",
+      "filter-add",
+      "filter-dismiss",
+      "filter-sync"
+    ],
+    "💬": [
+      "chat-multiple",
+      "chat",
+      "comment-multiple",
+      "chat-empty",
+      "comment",
+      "channel",
+      "chat-add",
+      "comment-add",
+      "comment-multiple-checkmark",
+      "chat-multiple-checkmark",
+      "chat-warning",
+      "comment-edit",
+      "chat-arrow-back",
+      "chat-arrow-back-down",
+      "chat-arrow-double-back",
+      "chat-multiple-heart",
+      "chat-off",
+      "comment-checkmark",
+      "comment-dismiss",
+      "comment-error",
+      "chat-bubbles-question",
+      "chat-dismiss",
+      "chat-help",
+      "chat-lock",
+      "comment-arrow-left",
+      "comment-arrow-right",
+      "comment-lightning",
+      "comment-multiple-link",
+      "chat-settings",
+      "chat-sparkle",
+      "chat-mail",
+      "comment-note",
+      "chat-cursor",
+      "chat-video",
+      "comment-badge",
+      "comment-link",
+      "chat-history",
+      "comment-multiple-mention",
+      "slide-text",
+      "comment-mention",
+      "comment-quote",
+      "chat-multiple-minus",
+      "comment-text",
+      "comment-off",
+      "slide-text-edit",
+      "slide-text-title-edit",
+      "board-games",
+      "slide-text-cursor",
+      "tooltip-quote",
+      "slide-text-person",
+      "slide-text-sparkle",
+      "channel-add",
+      "slide-text-title-add",
+      "slide-text-title-checkmark",
+      "channel-alert",
+      "channel-arrow-left",
+      "channel-dismiss",
+      "channel-subtract",
+      "teardrop-bottom-right"
+    ],
+    "💱": [
+      "currency-dollar-euro",
+      "currency-dollar-rupee"
+    ],
+    "💳": [
+      "payment",
+      "credit-card-clock",
+      "subtitles",
+      "credit-card-person",
+      "credit-card-toolbox",
+      "desk-sparkle",
+      "desk",
+      "desk-multiple",
+      "contact-card",
+      "contact-card-group",
+      "check",
+      "contact-card-link",
+      "contact-card-ribbon",
+      "card-ui",
+      "device-meeting-room-remote"
+    ],
+    "💵": [
+      "money",
+      "money-calculator",
+      "money-dismiss",
+      "money-off",
+      "money-settings",
+      "money-hand"
+    ],
+    "💻": [
+      "laptop",
+      "laptop-multiple",
+      "laptop-briefcase",
+      "laptop-settings",
+      "laptop-shield",
+      "laptop-person",
+      "laptop-dismiss",
+      "phone-laptop",
+      "window-console",
+      "window-dev-edit",
+      "window-dev-tools",
+      "code-block",
+      "virtual-network-toolbox",
+      "code-block-edit"
+    ],
+    "💾": [
+      "save",
+      "save-arrow-right",
+      "save-multiple",
+      "save-edit",
+      "save-search",
+      "document-save",
+      "save-image",
+      "save-sync",
+      "memory",
+      "network-adapter",
+      "voicemail"
+    ],
+    "📁": [
+      "folder",
+      "folder-add",
+      "folder-briefcase",
+      "folder-document",
+      "folder-sync",
+      "folder-arrow-left",
+      "folder-arrow-right",
+      "folder-arrow-up",
+      "folder-list",
+      "folder-open",
+      "folder-open-down",
+      "folder-globe",
+      "folder-link",
+      "folder-open-vertical",
+      "folder-lightning",
+      "folder-mail",
+      "folder-multiple",
+      "folder-search",
+      "folder-prohibited",
+      "folder-people",
+      "folder-person",
+      "folder-swap"
+    ],
+    "📄": [
+      "receipt",
+      "document-one-page",
+      "document-one-page-multiple",
+      "document-border",
+      "document-copy",
+      "document-queue",
+      "document-queue-multiple",
+      "document-add",
+      "document-bullet-list",
+      "document-bullet-list-multiple",
+      "document-split-hint",
+      "document-arrow-down",
+      "document-arrow-up",
+      "document-checkmark",
+      "document-border-print",
+      "document-text",
+      "document",
+      "document-100",
+      "document-contract",
+      "document-multiple",
+      "document-one-page-multiple-sparkle",
+      "document-one-page-sparkle",
+      "document-one-page-add",
+      "reading-mode-mobile",
+      "document-briefcase",
+      "document-catch-up",
+      "document-chevron-double",
+      "document-landscape",
+      "document-search",
+      "receipt-add",
+      "document-error",
+      "document-footer-dismiss",
+      "document-key",
+      "document-table-search",
+      "text-grammar-arrow-left",
+      "text-grammar-arrow-right",
+      "document-heart",
+      "document-one-page-beaker",
+      "document-print",
+      "document-settings",
+      "document-signature",
+      "document-table-checkmark",
+      "document-bullet-list-arrow-left",
+      "document-bullet-list-clock",
+      "document-flowchart",
+      "document-lock",
+      "document-table-arrow-right",
+      "text-grammar-checkmark",
+      "text-grammar-dismiss",
+      "text-grammar-error",
+      "document-arrow-left",
+      "document-arrow-right",
+      "document-java",
+      "document-one-page-link",
+      "document-table-cube",
+      "text-grammar-settings",
+      "document-queue-add",
+      "document-ribbon",
+      "document-sparkle",
+      "receipt-cube",
+      "text-grammar-lightning",
+      "text-grammar-wand",
+      "calendar-template",
+      "document-heart-pulse",
+      "document-javascript",
+      "document-lightning",
+      "document-sync",
+      "document-table",
+      "document-table-truck",
+      "receipt-search",
+      "document-folder",
+      "document-fs",
+      "document-globe",
+      "document-header-arrow-down",
+      "document-pill",
+      "receipt-money",
+      "document-link",
+      "document-mention",
+      "document-pdf",
+      "document-target",
+      "receipt-bag",
+      "receipt-sparkles",
+      "document-header",
+      "document-header-dismiss",
+      "document-header-footer",
+      "document-prohibited",
+      "document-rb",
+      "document-sass",
+      "document-toolbox",
+      "document-question-mark",
+      "document-bullet-list-off",
+      "document-js",
+      "document-number-1",
+      "document-ts",
+      "document-multiple-prohibited",
+      "document-vb",
+      "receipt-play",
+      "document-multiple-percent",
+      "document-text-extract",
+      "document-text-link",
+      "document-text-toolbox",
+      "document-yml",
+      "document-dismiss",
+      "document-percent",
+      "document-person",
+      "document-data",
+      "document-data-lock",
+      "document-endnote",
+      "document-width",
+      "document-multiple-sync",
+      "document-py",
+      "document-cs",
+      "document-css",
+      "document-cube",
+      "document-database",
+      "document-data-link",
+      "sim"
+    ],
+    "📅": [
+      "calendar",
+      "calendar-date",
+      "store-microsoft",
+      "calendar-arrow-counterclockwise",
+      "calendar-multiple",
+      "calendar-arrow-repeat-all",
+      "calendar-edit",
+      "calendar-arrow-down",
+      "calendar-arrow-right",
+      "calendar-day",
+      "calendar-empty",
+      "calendar-note",
+      "calendar-error",
+      "calendar-info",
+      "calendar-lock",
+      "calendar-eye",
+      "calendar-mention",
+      "calendar-play",
+      "calendar-link",
+      "calendar-mail",
+      "calendar-checkmark",
+      "calendar-record",
+      "calendar-add",
+      "calendar-cancel",
+      "calendar-person",
+      "calendar-phone",
+      "calendar-reply",
+      "calendar-assistant",
+      "calendar-clock",
+      "calendar-question-mark",
+      "calendar-agenda",
+      "calendar-chat",
+      "calendar-data-bar",
+      "calendar-3-day",
+      "calendar-week-numbers",
+      "calendar-week-start",
+      "calendar-work-week"
+    ],
+    "📈": [
+      "arrow-trending-lines",
+      "arrow-trending",
+      "data-area",
+      "data-trending",
+      "arrow-trending-checkmark",
+      "arrow-trending-settings",
+      "arrow-trending-sparkle",
+      "arrow-trending-wrench",
+      "arrow-trending-text",
+      "pulse",
+      "pulse-square",
+      "select-object-skew",
+      "select-object-skew-edit",
+      "select-object-skew-dismiss"
+    ],
+    "📊": [
+      "data-usage",
+      "data-histogram",
+      "chart-multiple",
+      "poll",
+      "textbox-rotate-90",
+      "data-usage-checkmark",
+      "data-usage-edit",
+      "data-usage-settings",
+      "data-usage-sparkle",
+      "poll-off",
+      "data-usage-toolbox",
+      "align-center-vertical"
+    ],
+    "📋": [
+      "clipboard-3-day",
+      "clipboard",
+      "clipboard-task",
+      "clipboard-text",
+      "clipboard-task-list",
+      "text-bullet-list",
+      "text-bullet-list-tree",
+      "clipboard-bullet-list",
+      "clipboard-edit",
+      "clipboard-number-123",
+      "clipboard-search",
+      "form",
+      "form-multiple",
+      "clipboard-task-add",
+      "copy",
+      "clipboard-settings",
+      "clipboard-text-edit",
+      "copy-add",
+      "form-new",
+      "form-sparkle",
+      "clipboard-paste",
+      "textbox",
+      "textbox-checkmark",
+      "clipboard-arrow-right",
+      "clipboard-code",
+      "clipboard-pulse",
+      "clipboard-error",
+      "copy-arrow-right",
+      "clipboard-brush",
+      "clipboard-heart",
+      "textbox-more",
+      "textbox-settings",
+      "clipboard-day",
+      "clipboard-image",
+      "clipboard-checkmark",
+      "clipboard-link",
+      "clipboard-month",
+      "clipboard-data-bar",
+      "clipboard-letter",
+      "clipboard-more",
+      "clipboard-math-formula",
+      "clipboard-note",
+      "copy-select",
+      "clipboard-clock",
+      "text-list-roman-numeral-uppercase",
+      "text-list-roman-numeral-lowercase"
+    ],
+    "📌": [
+      "pin",
+      "pin-off",
+      "pin-globe"
+    ],
+    "📍": [
+      "location",
+      "location-checkmark",
+      "location-dismiss",
+      "location-live",
+      "location-off",
+      "location-ripple",
+      "location-settings",
+      "plant-cattail"
+    ],
+    "📎": [
+      "attach",
+      "attach-arrow-right",
+      "attach-text"
+    ],
+    "📑": [
+      "clipboard-multiple",
+      "book-template",
+      "phone-multiple-settings",
+      "phone-multiple"
+    ],
+    "📒": [
+      "book-default",
+      "book-add",
+      "book-dismiss",
+      "book-search",
+      "notebook-add",
+      "book-arrow-clockwise",
+      "book-exclamation-mark",
+      "book-theta",
+      "book-letter",
+      "book-star",
+      "book-question-mark",
+      "notebook",
+      "notebook-section",
+      "notebook-subsection",
+      "book-clock",
+      "book-number",
+      "notebook-arrow-curve-down",
+      "book-coins",
+      "book-pulse",
+      "notebook-error",
+      "notebook-lightning",
+      "book-contacts",
+      "book-database",
+      "book-compass",
+      "notebook-eye",
+      "notebook-question-mark",
+      "notebook-section-arrow-right",
+      "notebook-sync"
+    ],
+    "📖": [
+      "book-open",
+      "immersive-reader",
+      "book-open-globe",
+      "book-open-lightbulb",
+      "class",
+      "book-open-microphone",
+      "book",
+      "learning-app",
+      "book-toolbox"
+    ],
+    "📝": [
+      "notepad",
+      "notepad-edit",
+      "text-bullet-list-square",
+      "notepad-sparkle",
+      "code-text-edit",
+      "document-edit",
+      "notepad-person-off",
+      "text-bullet-list-square-edit",
+      "notepad-person",
+      "text-bullet-list-add",
+      "text-bullet-list-checkmark",
+      "text-bullet-list-dismiss",
+      "text-bullet-list-square-clock",
+      "text-bullet-list-square-warning",
+      "text-box-settings",
+      "text-bullet-list-square-person",
+      "text-bullet-list-square-search",
+      "text-bullet-list-square-settings",
+      "text-bullet-list-square-shield",
+      "text-bullet-list-square-sparkle",
+      "text-bullet-list-square-toolbox",
+      "task-list-square-add",
+      "task-list-square-sparkle",
+      "scratchpad",
+      "task-list-square-database",
+      "task-list-square-person",
+      "task-list-square-settings",
+      "code-text",
+      "text-continuous",
+      "text-collapse",
+      "text-density",
+      "text-description",
+      "scan-text"
+    ],
+    "📞": [
+      "call-add",
+      "call-checkmark",
+      "slide-text-call",
+      "call-connecting",
+      "call-dismiss",
+      "call-outbound",
+      "call",
+      "call-rectangle-landscape",
+      "call-square",
+      "call-transfer",
+      "call-warning",
+      "call-park",
+      "call-pause",
+      "video-person-call",
+      "hard-drive-call"
+    ],
+    "📡": [
+      "live",
+      "sound-source"
+    ],
+    "📣": [
+      "megaphone-circle",
+      "megaphone",
+      "megaphone-loud"
+    ],
+    "📤": [
+      "mail-inbox-arrow-up",
+      "tray-item-remove",
+      "mail-inbox-arrow-right",
+      "share",
+      "share-multiple",
+      "panel-bottom-expand",
+      "panel-top-contract",
+      "share-ios",
+      "share-screen-start",
+      "diagram",
+      "calendar-today",
+      "call-forward",
+      "mail-arrow-clockwise",
+      "phone-update-checkmark",
+      "send-copy"
+    ],
+    "📥": [
+      "mail-inbox",
+      "mail-inbox-arrow-down",
+      "mail-inbox-add",
+      "tray-item-add",
+      "panel-bottom-contract",
+      "panel-top-expand",
+      "share-close-tray",
+      "call-inbound",
+      "drawer",
+      "drawer-add",
+      "mail-inbox-checkmark",
+      "mail-inbox-dismiss",
+      "drawer-arrow-download",
+      "drawer-dismiss",
+      "drawer-subtract",
+      "mail-inbox-all",
+      "drawer-play",
+      "mail-inbox-person"
+    ],
+    "📦": [
+      "box",
+      "box-arrow-left",
+      "cube",
+      "cube-multiple",
+      "box-arrow-up",
+      "box-checkmark",
+      "cube-add",
+      "cube-checkmark",
+      "box-edit",
+      "box-search",
+      "box-toolbox",
+      "cube-sync",
+      "box-dismiss",
+      "building-retail-more",
+      "cube-arrow-curve-down",
+      "cube-rotate",
+      "cube-link",
+      "cube-tree",
+      "document-bullet-list-cube",
+      "cube-quick"
+    ],
+    "📧": [
+      "mail-arrow-double-back",
+      "mail-arrow-down",
+      "mail-arrow-forward",
+      "mail-arrow-up"
+    ],
+    "📩": [
+      "mail-template",
+      "send",
+      "send-beaker",
+      "send-person",
+      "send-clock"
+    ],
+    "📪": [
+      "mail-off",
+      "mail-prohibited",
+      "mail-rewind",
+      "mail-unread",
+      "mail-warning",
+      "mail-settings",
+      "mail-shield"
+    ],
+    "📬": [
+      "mail-read-multiple",
+      "mail-read-briefcase"
+    ],
+    "📰": [
+      "news",
+      "preview-link",
+      "slide-text-multiple",
+      "slide-content",
+      "slide-search",
+      "slide-record",
+      "calculator-multiple"
+    ],
+    "📱": [
+      "phone",
+      "view-desktop-mobile",
+      "server",
+      "phone-add",
+      "phone-page-header",
+      "phone-briefcase",
+      "phone-edit",
+      "style-guide",
+      "phone-checkmark",
+      "phone-dismiss",
+      "server-link",
+      "server-play",
+      "phone-arrow-right",
+      "phone-chat",
+      "phone-pagination",
+      "phone-eraser",
+      "phone-speaker",
+      "phone-person",
+      "phone-screen-time",
+      "phone-status-bar",
+      "phone-link-setup",
+      "phone-lock",
+      "phone-key",
+      "phone-subtract",
+      "phone-span-in",
+      "phone-span-out"
+    ],
+    "📲": [
+      "phone-update",
+      "phone-vertical-scroll",
+      "phone-footer-arrow-down",
+      "phone-header-arrow-up",
+      "phone-tablet"
+    ],
+    "📳": [
+      "phone-vibrate",
+      "phone-shake"
+    ],
+    "📴": [
+      "call-end",
+      "call-exclamation",
+      "call-missed"
+    ],
+    "📶": [
+      "cellular-data-1",
+      "cellular-off",
+      "wifi-1",
+      "wifi-off",
+      "cellular-3g",
+      "cellular-4g",
+      "cellular-5g",
+      "cellular-data-2",
+      "cellular-warning",
+      "data-bar-vertical-ascending",
+      "cellular-data-3",
+      "data-bar-vertical",
+      "wifi-lock",
+      "device-eq",
+      "data-bar-vertical-edit",
+      "rss",
+      "wifi-warning",
+      "payment-wireless",
+      "wifi-2",
+      "wifi-settings",
+      "data-bar-horizontal-descending",
+      "data-bar-horizontal",
+      "data-bar-vertical-star",
+      "cellular-data-4",
+      "data-bar-vertical-add",
+      "data-bar-vertical-arrow-down",
+      "network-check",
+      "cast-multiple",
+      "cellular-data-5",
+      "read-aloud",
+      "wifi-3"
+    ],
+    "📷": [
+      "camera",
+      "camera-dome",
+      "scan-camera",
+      "camera-add",
+      "camera-arrow-up",
+      "camera-sparkles",
+      "camera-edit",
+      "camera-off"
+    ],
+    "📹": [
+      "video",
+      "video-multiple",
+      "video-security",
+      "meet-now",
+      "video-add",
+      "video-bluetooth",
+      "video-recording",
+      "video-chat",
+      "video-link",
+      "video-prohibited",
+      "video-usb",
+      "video-settings",
+      "video-switch",
+      "video-sync"
+    ],
+    "🔀": [
+      "arrow-routing",
+      "arrow-routing-rectangle-multiple",
+      "arrow-shuffle",
+      "merge",
+      "arrow-paragraph",
+      "stream-input-output",
+      "remote",
+      "arrow-join",
+      "text-line-spacing",
+      "table-delete-column",
+      "table-delete-row",
+      "drive-train"
+    ],
+    "🔁": [
+      "arrow-repeat-all",
+      "arrow-turn-bidirectional-down-right",
+      "arrow-sprint",
+      "arrow-repeat-all-off",
+      "arrow-counterclockwise-dashes",
+      "crop-interim",
+      "arrow-swap",
+      "table-switch",
+      "arrow-autofit-content"
+    ],
+    "🔃": [
+      "arrow-circle-down-up",
+      "pivot"
+    ],
+    "🔄": [
+      "arrow-sync",
+      "arrow-sync-circle",
+      "arrow-rotate-clockwise",
+      "arrow-rotate-counterclockwise",
+      "arrow-clockwise",
+      "arrow-clockwise-dashes-settings",
+      "arrow-counterclockwise",
+      "arrow-sync-checkmark",
+      "arrow-clockwise-dashes",
+      "approvals-app",
+      "arrow-sync-dismiss",
+      "calendar-sync",
+      "crop-arrow-rotate",
+      "remix-add",
+      "arrow-counterclockwise-info",
+      "skip-back-10",
+      "skip-forward-10",
+      "desktop-tower",
+      "skip-back-15",
+      "skip-forward-15",
+      "skip-forward-30",
+      "text-direction-horizontal-left",
+      "text-direction-horizontal-right",
+      "orientation",
+      "square-dovetail-joint",
+      "square-multiple",
+      "ink-stroke-arrow-down",
+      "ink-stroke-arrow-up-down",
+      "skip-forward-tab",
+      "card-ui-portrait-flip"
+    ],
+    "🔇": [
+      "live-off",
+      "speaker-mute",
+      "speaker-off",
+      "megaphone-off",
+      "translate-off"
+    ],
+    "🔈": [
+      "speaker-0",
+      "speaker-edit",
+      "speaker-usb",
+      "speaker-settings",
+      "speaker-bluetooth"
+    ],
+    "🔊": [
+      "speaker-2",
+      "speaker-box",
+      "dual-screen-speaker",
+      "sound-wave-circle-sparkle",
+      "sound-wave-circle"
+    ],
+    "🔋": [
+      "battery-0",
+      "battery-10",
+      "battery-2",
+      "battery-3",
+      "battery-4",
+      "battery-5",
+      "battery-1",
+      "battery-7",
+      "battery-9",
+      "battery-8",
+      "slide-transition"
+    ],
+    "🔌": [
+      "battery-6",
+      "connector",
+      "plug-connected",
+      "plug-connected-add",
+      "plug-disconnected",
+      "dumbbell",
+      "plug-connected-checkmark",
+      "plug-connected-settings",
+      "walkie-talkie",
+      "storage"
+    ],
+    "🔍": [
+      "search",
+      "zoom-in",
+      "zoom-out",
+      "calendar-search",
+      "search-info",
+      "search-settings",
+      "search-shield",
+      "search-sparkle",
+      "lasso",
+      "screenshot-record"
+    ],
+    "🔎": [
+      "search-square",
+      "barcode-scanner-add",
+      "barcode-scanner-dismiss",
+      "barcode-scanner"
+    ],
+    "🔑": [
+      "key",
+      "key-multiple",
+      "key-reset",
+      "voicemail-arrow-back",
+      "voicemail-arrow-forward",
+      "voicemail-shield",
+      "voicemail-arrow-subtract",
+      "voicemail-subtract"
+    ],
+    "🔒": [
+      "lock-closed",
+      "lock-closed-key",
+      "lock-shield",
+      "calendar-toolbox",
+      "lock-closed-ribbon",
+      "lock-multiple",
+      "dual-screen-lock",
+      "password-clock",
+      "password-reset",
+      "password"
+    ],
+    "🔓": [
+      "lock-open",
+      "decimal-arrow-left",
+      "decimal-arrow-right"
+    ],
+    "🔔": [
+      "alert",
+      "layout-column-four-focus-center-left",
+      "alert-badge",
+      "alert-on",
+      "alert-urgent",
+      "layout-column-four-focus-center-right",
+      "layout-column-four-focus-right",
+      "layout-column-one-third-left",
+      "alert-snooze",
+      "layout-column-four",
+      "badge",
+      "iot-alert",
+      "dual-screen-closed-alert"
+    ],
+    "🔕": [
+      "alert-off",
+      "layout-column-four-focus-left"
+    ],
+    "🔖": [
+      "bookmark",
+      "bookmark-multiple",
+      "bookmark-add",
+      "bookmark-off",
+      "bookmark-search"
+    ],
+    "🔗": [
+      "link",
+      "link-multiple",
+      "link-add",
+      "link-dismiss",
+      "link-edit",
+      "link-settings",
+      "link-toolbox",
+      "open",
+      "link-person",
+      "molecule",
+      "channel-share",
+      "protocol-handler",
+      "table-checker",
+      "share-android",
+      "flow",
+      "row-child",
+      "fluid",
+      "organization",
+      "flowchart"
+    ],
+    "🔠": [
+      "text-baseline",
+      "text-case-title",
+      "text-header-1",
+      "text-header-1-lines",
+      "text-header-1-lines-caret",
+      "font-decrease",
+      "text-t-tag",
+      "text-underline-double",
+      "font-increase",
+      "text",
+      "text-font",
+      "text-font-size",
+      "font-space-tracking-in",
+      "font-space-tracking-out"
+    ],
+    "🔡": [
+      "text-case-lowercase",
+      "text-change-case",
+      "text-header-2-lines",
+      "text-header-2-lines-caret",
+      "text-header-2",
+      "text-sort-descending",
+      "text-t",
+      "text-footnote"
+    ],
+    "🔢": [
+      "text-number-format",
+      "text-header-4",
+      "text-header-4-lines-caret",
+      "text-header-5",
+      "text-header-6",
+      "dialpad",
+      "fps-120",
+      "fps-240",
+      "fps-30",
+      "fps-60",
+      "fps-960",
+      "text-word-count",
+      "grid-dots",
+      "text-number-list-rotate-270",
+      "text-number-list-rotate-90",
+      "dialpad-off",
+      "dialpad-question-mark"
+    ],
+    "🔣": [
+      "text-header-3-lines-caret",
+      "text-header-3-lines"
+    ],
+    "🔤": [
+      "text-abc-underline-double",
+      "text-proofing-tools",
+      "text-proofing-tools-abc",
+      "text-case-uppercase",
+      "text-add",
+      "text-add-t",
+      "translate",
+      "translate-auto",
+      "text-header-3",
+      "text-more",
+      "text-sort-ascending",
+      "text-whole-word",
+      "scan-type"
+    ],
+    "🔥": [
+      "fire",
+      "fireplace"
+    ],
+    "🔦": [
+      "flashlight",
+      "flashlight-off"
+    ],
+    "🔧": [
+      "wrench",
+      "wrench-settings"
+    ],
+    "🔨": [
+      "gavel",
+      "gavel-prohibited"
+    ],
+    "🔲": [
+      "page-fit",
+      "screenshot",
+      "app-folder",
+      "border-all",
+      "share-screen-person-overlay-inside",
+      "border-left",
+      "keyboard-layout-resize",
+      "grid",
+      "resize-large",
+      "dock-row",
+      "grid-circles",
+      "glance-horizontal-sparkle",
+      "glance-horizontal-sparkles",
+      "sub-grid",
+      "select-object",
+      "document-fit",
+      "glance",
+      "glance-default",
+      "glance-horizontal",
+      "mobile-optimized",
+      "diversity",
+      "document-footer",
+      "panel-bottom",
+      "hdr"
+    ],
+    "🔳": [
+      "qr-code",
+      "border-bottom-double",
+      "border-none",
+      "scan-dash",
+      "app-title"
+    ],
+    "🔵": [
+      "bluetooth",
+      "bluetooth-connected",
+      "bluetooth-searching",
+      "bluetooth-disabled"
+    ],
+    "🔺": [
+      "cone",
+      "scan-object"
+    ],
+    "🔼": [
+      "chevron-up-down",
+      "double-tap-swipe-up"
+    ],
+    "🔽": [
+      "triangle-down",
+      "double-tap-swipe-down",
+      "arrow-outline-up-right"
+    ],
+    "🕒": [
+      "clock",
+      "shifts",
+      "presence-away",
+      "shifts-open",
+      "shifts-activity",
+      "clock-arrow-download",
+      "time-and-weather",
+      "clock-sparkle",
+      "clock-bill",
+      "clock-dismiss",
+      "clock-lock",
+      "clock-pause",
+      "clock-toolbox",
+      "shifts-checkmark",
+      "shifts-add",
+      "shifts-prohibited",
+      "shifts-question-mark",
+      "shifts-team",
+      "flowchart-circle"
+    ],
+    "🕘": [
+      "history",
+      "history-dismiss"
+    ],
+    "🕛": [
+      "shifts-day",
+      "access-time"
+    ],
+    "🗔": [
+      "picture-in-picture-enter",
+      "picture-in-picture-exit",
+      "picture-in-picture",
+      "window-column-one-fourth-left",
+      "tab-desktop-arrow-left",
+      "tab-desktop-multiple-add",
+      "tab-desktop-search",
+      "tab-desktop-new-page",
+      "tab-desktop-image",
+      "tab-desktop-link",
+      "tab-desktop-multiple-sparkle",
+      "table-copy",
+      "breakout-room",
+      "tab-desktop-clock",
+      "tablet-laptop",
+      "tab-desktop",
+      "tab-desktop-arrow-clockwise",
+      "tab-desktop-bottom",
+      "tab-desktop-copy",
+      "tab-desktop-multiple",
+      "tab-desktop-multiple-bottom",
+      "tablet"
+    ],
+    "🤖": [
+      "bot",
+      "bot-add",
+      "bot-sparkle",
+      "production",
+      "production-checkmark",
+      "engine",
+      "usb-plug",
+      "ram"
+    ],
+    "🥤": [
+      "drink-to-go",
+      "design-ideas"
+    ],
+    "🥪": [
+      "align-space-evenly-vertical",
+      "layout-row-four-focus-bottom",
+      "insert",
+      "timeline",
+      "align-distribute-bottom",
+      "align-distribute-top",
+      "align-space-around-horizontal",
+      "align-space-between-horizontal",
+      "layout-column-two-split-right"
+    ],
+    "🦠": [
+      "mold",
+      "braces"
+    ],
+    "🦷": [
+      "dentist",
+      "seat",
+      "seat-add"
+    ],
+    "🦻": [
+      "communication-person",
+      "communication-shield",
+      "communication"
+    ],
+    "🧊": [
+      "box-multiple-arrow-left",
+      "box-multiple-arrow-right",
+      "box-multiple-search",
+      "box-multiple-checkmark",
+      "box-multiple"
+    ],
+    "🧑": [
+      "person-add",
+      "people-search",
+      "person-account",
+      "person-accounts",
+      "people-settings",
+      "person-alert",
+      "people-star",
+      "person-alert-off",
+      "person-arrow-back",
+      "person-arrow-left",
+      "person-arrow-right",
+      "person-5",
+      "person-6",
+      "person-standing",
+      "person-lock",
+      "person-link",
+      "person-mail",
+      "person-prohibited",
+      "person-question-mark",
+      "person-passkey",
+      "person-money",
+      "person-phone",
+      "person-note",
+      "person-pill",
+      "person-search",
+      "person-ribbon",
+      "person-settings",
+      "person-shield",
+      "person-sound-spatial"
+    ],
+    "🧠": [
+      "brain",
+      "brain-circuit",
+      "brain-sparkle"
+    ],
+    "🧩": [
+      "puzzle-piece",
+      "puzzle-cube",
+      "puzzle-cube-piece",
+      "puzzle-piece-shield",
+      "apps",
+      "apps-add-in",
+      "apps-add-in-off",
+      "apps-settings",
+      "apps-shield",
+      "steps",
+      "tetris-app",
+      "hexagon-three"
+    ],
+    "🧬": [
+      "iot",
+      "pair",
+      "surface-earbuds"
+    ],
+    "🧭": [
+      "compass-northwest",
+      "location-arrow"
+    ],
+    "🧮": [
+      "calculator",
+      "calculator-arrow-clockwise",
+      "math-formula",
+      "math-formula-sparkle"
+    ],
+    "🧰": [
+      "briefcase",
+      "briefcase-medical",
+      "briefcase-off",
+      "briefcase-person",
+      "briefcase-search",
+      "vault"
+    ],
+    "🧱": [
+      "list-bar",
+      "list-bar-tree",
+      "list-bar-tree-offset",
+      "extended-dock"
+    ],
+    "🧲": [
+      "zoom-fit",
+      "data-funnel"
+    ],
+    "🧴": [
+      "city",
+      "usb-stick",
+      "drink-bottle",
+      "spray-can"
+    ],
+    "🧹": [
+      "broom",
+      "broom-sparkle",
+      "paint-brush",
+      "paint-brush-arrow-down",
+      "paint-brush-arrow-up",
+      "paint-brush-sparkle",
+      "paint-brush-subtract",
+      "classification"
+    ],
+    "🩹": [
+      "patch",
+      "eraser",
+      "eraser-medium",
+      "eraser-segment",
+      "eraser-small"
+    ],
+    "🪜": [
+      "eraser-tool",
+      "step"
+    ],
+    "🪞": [
+      "split-hint",
+      "split-vertical"
+    ],
+    "🪟": [
+      "panel-left",
+      "panel-left-header",
+      "panel-left-text",
+      "panel-right",
+      "panel-left-text-dismiss",
+      "table-bottom-row",
+      "panel-left-add",
+      "panel-left-header-add",
+      "panel-left-text-add",
+      "panel-right-add",
+      "panel-left-header-key",
+      "panel-left-key",
+      "panel-left-contract",
+      "panel-left-expand",
+      "panel-right-contract",
+      "panel-right-expand",
+      "panel-right-gallery",
+      "panel-right-cursor",
+      "panel-left-focus-right",
+      "rename"
+    ],
+    "🪣": [
+      "color-background",
+      "color-fill",
+      "text-underline",
+      "inking-tool-accent"
+    ],
+    "🪧": [
+      "kiosk",
+      "street-sign",
+      "align-end-vertical"
+    ],
+    "🪪": [
+      "patient",
+      "guest",
+      "guest-add",
+      "document-margins",
+      "video-background-effect-horizontal",
+      "video-background-effect",
+      "layout-row-three-focus-center",
+      "layout-row-four",
+      "layout-row-four-focus-center-top",
+      "layout-row-four-focus-top",
+      "layout-row-three",
+      "layout-row-three-focus-bottom",
+      "layout-row-three-focus-top",
+      "layout-row-two-focus-bottom",
+      "layout-row-two-focus-top-settings"
+    ],
+    "🙂": [
+      "emoji-add",
+      "emoji",
+      "emoji-smile-slight",
+      "emoji-hint",
+      "sticker-add",
+      "sticker"
+    ],
+    "🙈": [
+      "eye-off",
+      "scan-thumb-up-off",
+      "scan-type-off",
+      "closed-caption-off"
+    ],
+    "🚗": [
+      "vehicle-car",
+      "vehicle-car-profile",
+      "vehicle-car-collision",
+      "vehicle-car-parking"
+    ],
+    "🚚": [
+      "vehicle-truck-bag",
+      "vehicle-truck-profile",
+      "vehicle-truck-checkmark",
+      "vehicle-truck-cube"
+    ],
+    "🚪": [
+      "conference-room",
+      "door-arrow-left",
+      "door-arrow-right",
+      "sign-out",
+      "door",
+      "door-tag"
+    ],
+    "🚫": [
+      "prohibited",
+      "presence-blocked",
+      "prohibited-multiple",
+      "globe-off",
+      "prohibited-note",
+      "radio-button-off",
+      "image-multiple-off",
+      "image-off",
+      "cloud-off",
+      "arrow-download-off",
+      "arrow-shuffle-off",
+      "code-text-off",
+      "beaker-off",
+      "arrow-sync-off",
+      "video-person-off",
+      "circle-off",
+      "eye-tracking-off",
+      "video-person-sparkle-off",
+      "video-person-star-off",
+      "arrow-wrap-off",
+      "cursor-hover-off",
+      "ribbon-off",
+      "cursor-prohibited",
+      "window-ad-off",
+      "open-off",
+      "eyedropper-off",
+      "hdr-off",
+      "crop-interim-off",
+      "drink-bottle-off",
+      "text-wrap-off",
+      "equal-off"
+    ],
+    "🛞": [
+      "gauge",
+      "gauge-add"
+    ],
+    "🛫": [
+      "airplane-take-off",
+      "layout-column-two-focus-right"
+    ],
+    "🛬": [
+      "airplane-landing",
+      "layout-column-two-focus-left"
+    ],
+    "🟠": [
+      "scan-person",
+      "equal-circle"
+    ],
+    "🟦": [
+      "table-cell-add",
+      "table-cell-center-search",
+      "table-cell-center-edit",
+      "table-cell-center-link",
+      "table-cell-center-arrow-repeat-all",
+      "table-cell-center",
+      "square-hint-apps",
+      "square-shadow",
+      "square-hint-arrow-back",
+      "dual-screen",
+      "dual-screen-group",
+      "dual-screen-header",
+      "shape-exclude",
+      "shape-union",
+      "scan-table",
+      "full-screen-maximize",
+      "full-screen-minimize",
+      "shape-subtract",
+      "layout-cell-four"
+    ],
+    "🟨": [
+      "code-js",
+      "code-js-rectangle",
+      "javascript"
+    ],
+    "🟫": [
+      "table-freeze-column-and-row",
+      "table-cell-edit",
+      "rectangle-portrait",
+      "rectangle-landscape",
+      "rectangle-landscape-hint-copy",
+      "rectangle-landscape-sparkle",
+      "rectangle-portrait-location-target",
+      "rectangle-landscape-sync",
+      "rectangle-landscape-sync-off",
+      "text-column-three",
+      "text-column-two",
+      "text-column-two-left",
+      "text-column-two-right",
+      "uninstall-app",
+      "column-double-compare",
+      "column-single",
+      "align-straighten",
+      "align-bottom"
+    ],
+    "🆎": [
+      "text-field",
+      "gif"
+    ],
+    "ℹ️": [
+      "info",
+      "info-sparkle",
+      "info-shield"
+    ],
+    "🆚": [
+      "code-vb-rectangle",
+      "code-vb"
+    ],
+    "#️⃣": [
+      "document-page-bottom-center",
+      "document-page-bottom-left",
+      "document-page-bottom-right",
+      "document-page-number",
+      "document-page-top-center",
+      "document-page-top-left",
+      "document-page-top-right",
+      "number-symbol",
+      "number-symbol-dismiss",
+      "number-symbol-square",
+      "code-cs-rectangle",
+      "code-cs",
+      "code-fs",
+      "code-fs-rectangle"
+    ],
+    "↗️⬛": [
+      "arrow-square-up-right",
+      "arrow-flow-up-right-rectangle-multiple",
+      "expand-up-right"
+    ],
+    "</>": [
+      "code-circle",
+      "code"
+    ],
+    "♿✔️": [
+      "accessibility-checkmark",
+      "layout-column-one-third-right"
+    ],
+    "✏️⛔": [
+      "edit-prohibited",
+      "pen-prohibited"
+    ],
+    "✏️❌": [
+      "pen-dismiss",
+      "clear-formatting"
+    ],
+    "❌◼️": [
+      "dismiss-square-multiple",
+      "dismiss-square"
+    ],
+    "⬇️❗": [
+      "arrow-down-exclamation",
+      "layout-column-two-split-left"
+    ],
+    "⭐🚫": [
+      "star-off",
+      "star-prohibited"
+    ],
+    "⭕✔️": [
+      "circle-multiple-hint-checkmark",
+      "circle-multiple-subtract-checkmark"
+    ],
+    "🌦️": [
+      "weather-rain-showers-day",
+      "weather-snow-shower-day"
+    ],
+    "🌧️": [
+      "weather-rain",
+      "weather-drizzle",
+      "weather-rain-showers-night",
+      "thinking"
+    ],
+    "🌨️": [
+      "weather-snow",
+      "weather-hail-day",
+      "weather-hail-night",
+      "weather-rain-snow"
+    ],
+    "🌬️": [
+      "weather-blowing-snow",
+      "weather-duststorm"
+    ],
+    "🎖️": [
+      "reward",
+      "ribbon-star",
+      "ribbon",
+      "ribbon-add"
+    ],
+    "🎚️": [
+      "options",
+      "data-whisker",
+      "text-align-center-rotate-270",
+      "text-align-center-rotate-90",
+      "text-align-justify",
+      "text-align-justify-low",
+      "text-align-justify-low-90",
+      "text-align-justify-low-rotate-270",
+      "text-align-justify-rotate-270",
+      "text-align-left",
+      "text-align-left-rotate-270",
+      "text-align-right",
+      "text-align-right-rotate-270",
+      "document-landscape-data",
+      "align-distribute-left"
+    ],
+    "🎞️": [
+      "filmstrip-play",
+      "filmstrip",
+      "filmstrip-split",
+      "align-stretch-horizontal",
+      "align-stretch-vertical",
+      "align-top"
+    ],
+    "🎤⛔": [
+      "mic-prohibited",
+      "mic-pulse-off"
+    ],
+    "🏳️": [
+      "flag",
+      "flag-clock",
+      "flag-off"
+    ],
+    "🏷️": [
+      "tag",
+      "tag-edit",
+      "tag-add",
+      "tag-multiple",
+      "tag-dismiss",
+      "tag-lock-accent",
+      "tag-error",
+      "tag-off",
+      "tag-lock",
+      "tag-question-mark",
+      "tag-search",
+      "tag-reset",
+      "tag-percent",
+      "tag-circle"
+    ],
+    "👁️": [
+      "eye-lines",
+      "eye-tracking"
+    ],
+    "👤❗": [
+      "person-error",
+      "people-error"
+    ],
+    "👤➕": [
+      "person-square-add",
+      "people-add"
+    ],
+    "👥➕": [
+      "people-team-add",
+      "person-board-add",
+      "people-community-add"
+    ],
+    "💨➕": [
+      "reading-list-add",
+      "filter-add"
+    ],
+    "💬✨": [
+      "chat-sparkle",
+      "slide-text-sparkle"
+    ],
+    "💬❌": [
+      "comment-dismiss",
+      "chat-dismiss",
+      "channel-dismiss"
+    ],
+    "💬❓": [
+      "chat-bubbles-question",
+      "chat-help"
+    ],
+    "💬❗": [
+      "chat-warning",
+      "comment-error"
+    ],
+    "💬➕": [
+      "chat-add",
+      "comment-add",
+      "channel-add",
+      "slide-text-title-add"
+    ],
+    "💬➖": [
+      "chat-multiple-minus",
+      "channel-subtract"
+    ],
+    "📄⚡": [
+      "text-grammar-lightning",
+      "document-lightning"
+    ],
+    "📄✨": [
+      "document-one-page-multiple-sparkle",
+      "document-one-page-sparkle",
+      "document-sparkle",
+      "text-grammar-wand",
+      "receipt-sparkles"
+    ],
+    "📄❌": [
+      "document-contract",
+      "document-footer-dismiss",
+      "text-grammar-dismiss",
+      "document-header-dismiss",
+      "document-dismiss"
+    ],
+    "📄❗": [
+      "document-error",
+      "text-grammar-error"
+    ],
+    "📄➕": [
+      "document-add",
+      "document-one-page-add",
+      "receipt-add",
+      "document-queue-add"
+    ],
+    "📅❗": [
+      "calendar-error",
+      "calendar-info"
+    ],
+    "📋⋯": [
+      "textbox-more",
+      "clipboard-more"
+    ],
+    "📋➕": [
+      "clipboard-task-add",
+      "copy-add",
+      "form-new"
+    ],
+    "📒❓": [
+      "book-question-mark",
+      "notebook-question-mark"
+    ],
+    "📒❗": [
+      "book-exclamation-mark",
+      "notebook-error"
+    ],
+    "📒➕": [
+      "book-add",
+      "notebook-add"
+    ],
+    "📝✨": [
+      "notepad-sparkle",
+      "text-bullet-list-square-sparkle",
+      "task-list-square-sparkle"
+    ],
+    "📝➕": [
+      "text-bullet-list-add",
+      "task-list-square-add"
+    ],
+    "📥❌": [
+      "mail-inbox-dismiss",
+      "drawer-dismiss"
+    ],
+    "📥➕": [
+      "mail-inbox-add",
+      "drawer-add"
+    ],
+    "🔑⛔": [
+      "voicemail-arrow-subtract",
+      "voicemail-subtract"
+    ],
+    "🔤✅": [
+      "text-proofing-tools",
+      "text-proofing-tools-abc"
+    ],
+    "🔤➕": [
+      "text-add",
+      "text-add-t"
+    ],
+    "🔲✨": [
+      "glance-horizontal-sparkle",
+      "glance-horizontal-sparkles"
+    ],
+    "🕒➕": [
+      "clock-toolbox",
+      "shifts-add"
+    ],
+    "🕶️": [
+      "incognito",
+      "emoji-meme"
+    ],
+    "🕸️": [
+      "group",
+      "group-dismiss",
+      "group-return",
+      "connected"
+    ],
+    "🕹️": [
+      "router",
+      "joystick",
+      "transmission"
+    ],
+    "🖥️": [
+      "desktop",
+      "tv",
+      "view-desktop",
+      "desktop-mac",
+      "desktop-off",
+      "desktop-cursor",
+      "phone-desktop-add",
+      "phone-desktop",
+      "desktop-arrow-down",
+      "desktop-arrow-down-off",
+      "desktop-keyboard",
+      "video-person",
+      "tv-usb",
+      "desktop-signal",
+      "desktop-arrow-right",
+      "desktop-pulse",
+      "desktop-speaker",
+      "desktop-speaker-off",
+      "desktop-checkmark",
+      "desktop-sync",
+      "desktop-toolbox",
+      "desktop-edit",
+      "desktop-flow",
+      "tv-arrow-right",
+      "slide-play",
+      "slide-settings",
+      "projection-screen-text-sparkle",
+      "projection-screen-dismiss",
+      "projection-screen-text",
+      "cursor-hover",
+      "projection-screen",
+      "video-person-clock",
+      "slide-size",
+      "video-person-pulse",
+      "developer-board",
+      "tablet-speaker",
+      "developer-board-lightning-toolbox",
+      "developer-board-search",
+      "developer-board-lightning",
+      "device-meeting-room"
+    ],
+    "🖨️": [
+      "print",
+      "print-add",
+      "split-horizontal"
+    ],
+    "🖱️": [
+      "cursor-click",
+      "cursor"
+    ],
+    "🖼️": [
+      "image-multiple",
+      "image-border",
+      "image",
+      "filmstrip-image",
+      "image-add",
+      "image-alt-text",
+      "image-edit",
+      "image-arrow-back",
+      "image-arrow-counterclockwise",
+      "wallpaper",
+      "image-arrow-forward",
+      "image-globe",
+      "resize-image",
+      "image-circle",
+      "filmstrip-off",
+      "image-search",
+      "image-sparkle",
+      "image-copy",
+      "draw-image",
+      "document-image",
+      "image-prohibited",
+      "video-360",
+      "image-shadow",
+      "image-table",
+      "screen-search",
+      "draw-shape",
+      "image-stack",
+      "image-reflection",
+      "image-split",
+      "video-person-star",
+      "circle-image",
+      "screen-person",
+      "surface-hub",
+      "video-person-sparkle",
+      "color-background-accent",
+      "color-fill-accent",
+      "color-line-accent"
+    ],
+    "🗂️": [
+      "save-copy",
+      "slide-multiple-search",
+      "layer-diagonal",
+      "layer-diagonal-add",
+      "layer-diagonal-sparkle",
+      "content-view",
+      "content-view-gallery",
+      "table-image",
+      "slide-multiple",
+      "table-dismiss",
+      "table-cursor",
+      "table-edit",
+      "table-offset-add",
+      "table-offset-less-than-or-equal-to",
+      "table-offset-settings",
+      "collections",
+      "content-settings",
+      "collections-add",
+      "collections-empty",
+      "layer-diagonal-person",
+      "stack",
+      "stack-add",
+      "table-offset",
+      "table-freeze-column",
+      "table-freeze-row",
+      "stack-star",
+      "table-default",
+      "document-text-clock",
+      "stack-arrow-forward",
+      "table-column-top-bottom-edit",
+      "slide-add",
+      "content-view-gallery-lightning",
+      "stack-off",
+      "table-column-top-bottom-arrow-repeat-all",
+      "table-column-top-bottom-search",
+      "tabs",
+      "app-generic",
+      "board",
+      "board-split",
+      "slide-arrow-right",
+      "slide-multiple-arrow-right",
+      "table-column-top-bottom-link",
+      "dual-screen-desktop",
+      "square-add",
+      "tab-add",
+      "table-column-top-bottom",
+      "table-insert-column",
+      "album",
+      "album-add",
+      "board-heart",
+      "table-multiple",
+      "table-simple-include",
+      "square-arrow-forward",
+      "table-search",
+      "table-settings",
+      "table-simple-exclude",
+      "window-multiple-swap",
+      "slide-eraser",
+      "slide-link",
+      "tab-group",
+      "window-bullet-list-add",
+      "dual-screen-tablet",
+      "square",
+      "tab-arrow-left",
+      "tab-inprivate-account",
+      "table-simple-checkmark",
+      "select-all-off",
+      "square-hint",
+      "square-hint-hexagon",
+      "tab-in-private",
+      "tab-prohibited",
+      "window-brush",
+      "square-hint-sparkles",
+      "square-text-arrow-repeat-all",
+      "table-lightning",
+      "table-link",
+      "table-lock",
+      "table-simple",
+      "slide-hide",
+      "slide-microphone",
+      "table-simple-multiple",
+      "slide-grid",
+      "slide-layout",
+      "square-dismiss",
+      "table-insert-row",
+      "window-apps",
+      "tab",
+      "window-arrow-up",
+      "window-multiple",
+      "share-screen-person",
+      "shapes",
+      "share-screen-person-overlay",
+      "document-landscape-split",
+      "document-landscape-split-hint",
+      "window-ad-person",
+      "position-backward",
+      "position-forward",
+      "position-to-back",
+      "position-to-front",
+      "share-screen-person-p",
+      "window-ad",
+      "window-bullet-list",
+      "apps-list",
+      "apps-list-detail",
+      "navigation-briefcase",
+      "panel-separate-window",
+      "link-square",
+      "squares-nested",
+      "subtract-square-multiple",
+      "broad-activity-feed",
+      "textbox-align-bottom",
+      "textbox-align-bottom-center",
+      "textbox-align-bottom-right",
+      "textbox-align-middle-left",
+      "textbox-align-middle-rotate-90",
+      "textbox-align-top",
+      "textbox-align-top-center",
+      "textbox-align-top-right"
+    ],
+    "🗃️": [
+      "archive",
+      "archive-multiple",
+      "archive-settings",
+      "archive-arrow-back",
+      "building-retail",
+      "building-retail-money",
+      "building-retail-toolbox",
+      "building-retail-shield",
+      "app-recent",
+      "window-database"
+    ],
+    "🗄️": [
+      "layer",
+      "stack-vertical",
+      "coin-multiple",
+      "coin-stack",
+      "hard-drive",
+      "column-single-compare"
+    ],
+    "🗑️": [
+      "delete",
+      "delete-arrow-back",
+      "delete-dismiss",
+      "delete-off",
+      "delete-lines",
+      "shortpick",
+      "document-split-hint-off",
+      "bin-recycle-full",
+      "bin-recycle",
+      "square-eraser",
+      "drink-beer"
+    ],
+    "🗒️": [
+      "note",
+      "note-edit",
+      "window-text",
+      "note-pin",
+      "note-add",
+      "window-edit"
+    ],
+    "🗓️": [
+      "table-add",
+      "table-arrow-repeat-all",
+      "fixed-width",
+      "table-alt-text",
+      "table-calculator",
+      "table-arrow-up",
+      "table",
+      "table-sparkle"
+    ],
+    "🗣️": [
+      "chart-person",
+      "presenter"
+    ],
+    "🗳️": [
+      "vote",
+      "database-multiple",
+      "database-arrow-down",
+      "database-checkmark",
+      "database-person",
+      "database-warning",
+      "database-arrow-right",
+      "database-arrow-up",
+      "database-lightning",
+      "database-search",
+      "database-switch",
+      "database-link",
+      "database-plug-connected",
+      "database-window"
+    ],
+    "🗺️": [
+      "map",
+      "mountain-location-bottom",
+      "mountain-location-top",
+      "mountain-trail",
+      "gantt-chart"
+    ],
+    "🧹✨": [
+      "broom-sparkle",
+      "paint-brush-sparkle"
+    ],
+    "🩹⚫": [
+      "eraser-medium",
+      "eraser-segment",
+      "eraser-small"
+    ],
+    "🪟➕": [
+      "panel-left-add",
+      "panel-left-header-add",
+      "panel-left-text-add",
+      "panel-right-add"
+    ],
+    "🙂➕": [
+      "emoji-add",
+      "sticker-add"
+    ],
+    "🛋️": [
+      "couch",
+      "bench",
+      "align-right"
+    ],
+    "🛍️": [
+      "shopping-bag",
+      "shopping-bag-tag",
+      "shopping-bag-add",
+      "shopping-bag-arrow-left",
+      "shopping-bag-checkmark",
+      "shopping-bag-dismiss",
+      "shopping-bag-pause",
+      "shopping-bag-percent",
+      "shopping-bag-play"
+    ],
+    "🛎️": [
+      "service-bell",
+      "server-surface",
+      "server-surface-multiple",
+      "xbox-console"
+    ],
+    "🛠️": [
+      "wrench-screwdriver",
+      "window-wrench",
+      "agents-add",
+      "agents"
+    ],
+    "🛡️": [
+      "shield-checkmark",
+      "shield-dismiss",
+      "shield-error",
+      "shield-add",
+      "calendar-shield",
+      "shield-dismiss-shield",
+      "shield-lock",
+      "shield-keyhole",
+      "shield-person",
+      "shield-task",
+      "shield-globe",
+      "shield-person-add",
+      "shield-prohibited",
+      "shield-question",
+      "shield-settings",
+      "shield-arrow-right",
+      "shield",
+      "shield-badge"
+    ],
+    "🛢️": [
+      "database",
+      "database-stack",
+      "gas"
+    ],
+    "1️⃣": [
+      "number-circle-1",
+      "multiplier-1x",
+      "multiplier-1_2x",
+      "multiplier-1_5x",
+      "multiplier-1_8x"
+    ],
+    "2️⃣": [
+      "number-circle-2",
+      "multiplier-2x"
+    ],
+    "5️⃣": [
+      "number-circle-5",
+      "multiplier-_5x"
+    ],
+    "🅰️": [
+      "text-effects",
+      "text-effects-sparkle",
+      "text-font-info",
+      "road-cone",
+      "app-store",
+      "text-color"
+    ],
+    "🅾️": [
+      "code-rb-rectangle",
+      "code-rb"
+    ],
+    "⏸️✏️": [
+      "column-edit",
+      "column-triple-edit"
+    ],
+    "✏️🚫": [
+      "whiteboard-off",
+      "edit-off",
+      "pen-off"
+    ],
+    "➡️📍": [
+      "location-add-right",
+      "location-arrow-right"
+    ],
+    "⬅️📍": [
+      "location-add-left",
+      "location-arrow-left"
+    ],
+    "⬆️⬇️": [
+      "arrow-sort",
+      "arrow-maximize-vertical"
+    ],
+    "⬆️📍": [
+      "location-add-up",
+      "location-arrow-up"
+    ],
+    "🌐💻": [
+      "globe-desktop",
+      "globe-surface"
+    ],
+    "👛⚙️": [
+      "window-location-target",
+      "window-settings"
+    ],
+    "👤✔️": [
+      "person-available",
+      "person-square-checkmark",
+      "people-checkmark"
+    ],
+    "👤💡": [
+      "person-head-hint",
+      "person-lightbulb"
+    ],
+    "👤💬": [
+      "person-chat",
+      "people-chat"
+    ],
+    "👤📞": [
+      "person-call",
+      "people-call"
+    ],
+    "👥💼": [
+      "people-team-toolbox",
+      "people-toolbox"
+    ],
+    "💬✍️": [
+      "slide-text-edit",
+      "slide-text-title-edit"
+    ],
+    "💬✔️": [
+      "comment-multiple-checkmark",
+      "chat-multiple-checkmark",
+      "comment-checkmark",
+      "slide-text-title-checkmark"
+    ],
+    "💬➡️": [
+      "comment-arrow-right",
+      "comment-multiple-link",
+      "channel-arrow-left"
+    ],
+    "💬🚫": [
+      "chat-off",
+      "comment-off"
+    ],
+    "📁📄": [
+      "folder-document",
+      "folder-multiple"
+    ],
+    "📄⚙️": [
+      "document-settings",
+      "text-grammar-settings",
+      "document-target"
+    ],
+    "📄✔️": [
+      "document-checkmark",
+      "document-table-checkmark",
+      "text-grammar-checkmark"
+    ],
+    "📄➡️": [
+      "text-grammar-arrow-right",
+      "document-table-arrow-right",
+      "document-arrow-right",
+      "document-text-extract"
+    ],
+    "📄⬅️": [
+      "text-grammar-arrow-left",
+      "document-bullet-list-arrow-left",
+      "document-arrow-left"
+    ],
+    "📄⬇️": [
+      "document-arrow-down",
+      "document-header-arrow-down"
+    ],
+    "📄💻": [
+      "document-chevron-double",
+      "document-ts"
+    ],
+    "📄💾": [
+      "document-vb",
+      "sim"
+    ],
+    "📄📄": [
+      "document-folder",
+      "document-endnote"
+    ],
+    "📄📦": [
+      "document-table-cube",
+      "receipt-cube",
+      "document-cube"
+    ],
+    "📄🔍": [
+      "document-search",
+      "document-table-search",
+      "receipt-search"
+    ],
+    "📄🔒": [
+      "document-briefcase",
+      "document-lock",
+      "document-table",
+      "document-text-toolbox",
+      "document-data-lock"
+    ],
+    "📄🔗": [
+      "document-flowchart",
+      "document-one-page-link",
+      "document-link",
+      "document-text-link"
+    ],
+    "📄🚫": [
+      "document-prohibited",
+      "document-bullet-list-off",
+      "document-multiple-prohibited"
+    ],
+    "📅📝": [
+      "calendar-edit",
+      "calendar-note"
+    ],
+    "📋☑️": [
+      "clipboard-bullet-list",
+      "clipboard-edit"
+    ],
+    "📋⚙️": [
+      "clipboard-settings",
+      "textbox-settings"
+    ],
+    "📋➡️": [
+      "clipboard-arrow-right",
+      "copy-arrow-right"
+    ],
+    "📋🔢": [
+      "clipboard-number-123",
+      "clipboard-note"
+    ],
+    "📒💾": [
+      "book-coins",
+      "book-database"
+    ],
+    "📒🔄": [
+      "book-arrow-clockwise",
+      "notebook-sync"
+    ],
+    "📝⚙️": [
+      "text-box-settings",
+      "text-bullet-list-square-settings",
+      "task-list-square-settings"
+    ],
+    "📝👤": [
+      "notepad-person",
+      "text-bullet-list-square-person",
+      "task-list-square-person"
+    ],
+    "📞↗️": [
+      "call-outbound",
+      "call-transfer"
+    ],
+    "📤↗️": [
+      "share",
+      "share-multiple"
+    ],
+    "📥⬇️": [
+      "mail-inbox-arrow-down",
+      "drawer-arrow-download"
+    ],
+    "📦↩️": [
+      "box-arrow-left",
+      "cube-arrow-curve-down"
+    ],
+    "📦✔️": [
+      "box-checkmark",
+      "cube-checkmark"
+    ],
+    "📦🔗": [
+      "cube-link",
+      "cube-tree"
+    ],
+    "📱🔒": [
+      "phone-briefcase",
+      "phone-lock"
+    ],
+    "📲⬇️": [
+      "phone-update",
+      "phone-footer-arrow-down"
+    ],
+    "📶⚠️": [
+      "cellular-warning",
+      "wifi-warning"
+    ],
+    "📶🚫": [
+      "cellular-off",
+      "wifi-off",
+      "network-check"
+    ],
+    "📷🚫": [
+      "video-off",
+      "camera-off"
+    ],
+    "📹🔄": [
+      "meet-now",
+      "video-switch",
+      "video-sync"
+    ],
+    "🔄✔️": [
+      "arrow-sync-checkmark",
+      "approvals-app"
+    ],
+    "🔄🔟": [
+      "skip-back-10",
+      "skip-forward-10"
+    ],
+    "🔔💤": [
+      "alert-snooze",
+      "layout-column-four"
+    ],
+    "🔔🔊": [
+      "alert-urgent",
+      "layout-column-one-third-left"
+    ],
+    "🔔🔴": [
+      "alert-badge",
+      "layout-column-four-focus-center-right",
+      "badge"
+    ],
+    "🔔🚨": [
+      "alert-on",
+      "layout-column-four-focus-right"
+    ],
+    "🖼️✨": [
+      "image-sparkle",
+      "video-person-sparkle"
+    ],
+    "🗂️⚡": [
+      "content-view-gallery-lightning",
+      "table-lightning"
+    ],
+    "🗂️❌": [
+      "table-dismiss",
+      "tab-prohibited"
+    ],
+    "🗂️➕": [
+      "save-copy",
+      "layer-diagonal-add",
+      "table-offset-add",
+      "collections",
+      "collections-add",
+      "stack-add",
+      "slide-add",
+      "tab-add",
+      "album-add",
+      "square-arrow-forward",
+      "window-bullet-list-add"
+    ],
+    "🗂️➖": [
+      "table-offset-less-than-or-equal-to",
+      "tab-group"
+    ],
+    "🗂️⬛": [
+      "table-simple-include",
+      "table-simple-exclude"
+    ],
+    "🧑⚙️": [
+      "people-settings",
+      "person-settings"
+    ],
+    "🧑💼": [
+      "person-account",
+      "person-accounts"
+    ],
+    "🧑🔍": [
+      "people-search",
+      "person-search"
+    ],
+    "🧑🚫": [
+      "person-alert-off",
+      "person-prohibited"
+    ],
+    "🪟➡️": [
+      "panel-left-expand",
+      "panel-right-contract"
+    ],
+    "🪟⬅️": [
+      "panel-left-contract",
+      "panel-right-expand"
+    ],
+    "🪟🔑": [
+      "panel-left-header-key",
+      "panel-left-key"
+    ],
+    "🪣💧": [
+      "color-background",
+      "color-fill"
+    ],
+    "🪪⚙️": [
+      "layout-row-three",
+      "layout-row-two-focus-top-settings"
+    ],
+    "🚪➡️": [
+      "door-arrow-right",
+      "sign-out"
+    ],
+    "🛡️❌": [
+      "shield-dismiss",
+      "shield-dismiss-shield"
+    ],
+    "🛡️➕": [
+      "shield-add",
+      "shield-person-add"
+    ],
+    "✏️🅰️": [
+      "text-clear-formatting",
+      "text-edit-style-character-a"
+    ],
+    "💬🖱️": [
+      "chat-cursor",
+      "slide-text-cursor"
+    ],
+    "📄#️⃣": [
+      "document-fs",
+      "document-cs"
+    ],
+    "📄🖨️": [
+      "document-border-print",
+      "document-print"
+    ],
+    "🔄🅰️": [
+      "text-direction-horizontal-left",
+      "text-direction-horizontal-right"
+    ],
+    "🖥️➡️": [
+      "desktop-arrow-right",
+      "tv-arrow-right"
+    ],
+    "🖥️⬇️": [
+      "desktop-arrow-down",
+      "desktop-arrow-down-off"
+    ],
+    "🖥️🔊": [
+      "desktop-speaker",
+      "tablet-speaker"
+    ],
+    "🖥️🔒": [
+      "desktop-toolbox",
+      "developer-board-lightning-toolbox"
+    ],
+    "🖼️✏️": [
+      "image-edit",
+      "draw-image",
+      "draw-shape"
+    ],
+    "🖼️📄": [
+      "image-copy",
+      "image-shadow"
+    ],
+    "🖼️🔍": [
+      "image-search",
+      "screen-search"
+    ],
+    "🖼️🚫": [
+      "filmstrip-off",
+      "image-prohibited"
+    ],
+    "🗂️⚙️": [
+      "table-offset-settings",
+      "content-settings",
+      "table-settings"
+    ],
+    "🗂️✏️": [
+      "table-edit",
+      "table-column-top-bottom-edit"
+    ],
+    "🗂️➡️": [
+      "stack-arrow-forward",
+      "slide-arrow-right",
+      "slide-multiple-arrow-right"
+    ],
+    "🗂️🔄": [
+      "table-column-top-bottom-arrow-repeat-all",
+      "square"
+    ],
+    "🗂️🔍": [
+      "slide-multiple-search",
+      "table-column-top-bottom-search",
+      "table-search"
+    ],
+    "🗂️🔒": [
+      "table-image",
+      "table-lock"
+    ],
+    "🗂️🔗": [
+      "table-column-top-bottom-link",
+      "slide-link",
+      "table-link"
+    ],
+    "🗳️➡️": [
+      "database-arrow-right",
+      "database-switch"
+    ],
+    "🗺️📍": [
+      "mountain-location-bottom",
+      "mountain-location-top"
+    ],
+    "🧩🛡️": [
+      "puzzle-piece-shield",
+      "apps-shield"
+    ],
+    "🚫🖼️": [
+      "image-multiple-off",
+      "image-off",
+      "video-360-off"
+    ],
+    "🛡️✔️": [
+      "shield-checkmark",
+      "shield-task"
+    ],
+    "🏳️‍🌈": [
+      "flag-pride-intersex-inclusive-progress",
+      "flag-pride-philadelphia",
+      "flag-pride",
+      "flag-pride-progress"
+    ],
+    "🖥️🖱️": [
+      "desktop-cursor",
+      "cursor-hover"
+    ],
+    "🏳️‍🌈⚧️": [
+      "flag-pride-intersex-inclusive-progress",
+      "flag-pride-progress"
+    ],
+    "🔄1️⃣5️⃣": [
+      "skip-back-15",
+      "skip-forward-15"
+    ],
+    "🧑‍🤝‍🧑": [
+      "people-interwoven",
+      "people-link",
+      "people-lock",
+      "people-prohibited",
+      "people-list",
+      "people-money"
+    ]
+  }
+}

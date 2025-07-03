@@ -1,0 +1,367 @@
+[
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "content": "Icon name: Alert\n\nRelated concepts: bell, alarm, chime"
+      },
+      {
+        "type": "image_url",
+        "image_url": {
+          "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAABQCAMAAAC5zwKfAAAARVBMVEUAAAAODg4YGBjMzMz5+flcXFwjIyP////+/v4GBgZPT0+1tbWEhITa2tqenp4uLi7t7e3h4eGtra3ExMRqamp1dXVCQkJPEv/YAAAACXBIWXMAAAsTAAALEwEAmpwYAAAB+klEQVR42u2Y3ZaEIAiAtcxR0/7r/R91l6ZzdkoMqtk7uUzOpyABIl5fFpGBGfgfwNBMi5bWSr1MTf8U2PtW7KT1/QNg6UQstgo3gV0lEjJ1d4B1sZ1o8XXolOrC4Bf7/lbUl4Fm3nzW7E7TNZtPvbkGVG9z2/gkZtDrUmWuANV6G9YrdNHbEyIOnFZHjSk/jat7Zz6wAX19EnD9anbDBQZJ8H6JcEbZM4ELKIfzH6IEPzoesE6aE7ml5gBNm9j7oAZ2tBzgCFsHOk+VoDcygBDSFSfzOVQxAiqJbvzCfS0VCQQ1bThAU2BbR0AP6YmX7cE5ngQ6Tsz8RY4jgRA0JQ9YYoETAcExHQ/Yw62QQPilFA+oIMWRQAhXdg1GdI8fTAZmYAZmIAZUV4GKAEJaL7jAAikXAqkAMxc4IzVAIO1A4AKhBhwLkIgro3uxBWke9sDO4i3VWfNguxOgZ7cNW5DpqNYLYp2Q+ASCsICQ2EeCbtDI/sYlgZLfhnzGmUwCC3FLiiSwugesksD1gXL9gCEdh8FdRh7f40SqOvRiaL91aeag9/c+4m+TC0C377gnOlAJ4AA2lrsH3vAIqMDmYiOWEKdaPRsEDetNTqNS42QFI7kJTpr/kPnxqMrsiLP5wjBtG4OA/4bvTOfUUGkpdTWoPJDMwAz8EvAHjlegaQLYXUUAAAAASUVORK5CYII="
+        }
+      }
+    ]
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "content": "Icon name: Alert Badge\n\nRelated concepts: bell, alarm, chime"
+      },
+      {
+        "type": "image_url",
+        "image_url": {
+          "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAABQCAMAAAC5zwKfAAAAP1BMVEUAAABra2vT09MNDQ0cHBxaWloHBwf///8qKir5+fl0dHTe3t7r6+uurq7Jycm3t7dMTEygoKBBQUGCgoKMjIxM/ZgGAAAACXBIWXMAAAsTAAALEwEAmpwYAAAB80lEQVR42u2Y2XaEIAyGQRYJKG7z/s/aZpw6VYSAY296yKXLd5KfEEJYe7OxCqzAvwC6ic9SaC3NbCf3KdAthu3MLO4DYKNYaFo1F4EdZ+fGrwF7+fJoXoamA+iafpnxgVq950YLw5tsoH1pNnU7rx9G4gPYvOeQBYRVPTOcKIGvx7cAM2QAV55eIO3+maTnwGdA0kdXf79IDQmcnuHGE87ugZYCOoH+dfHUOCY7BcTkEKnsFXugIIA9fjS1+UBNADGgMblfy0IegoU7T4JI3oRAte2u9pa0ARTIE0WPR7MmBGLEkqqiML95I7H1Fqo+rcTNR0sVh5HKmR8dLZYvS5cvkyFhUYHFstrdCdTfQLgTiELn/gxusLcCz76twAqswP8JhFIgEMAp54z6XYwnAmiCczFh9tg2hECPUbhcoGPhAcTCtmHMr/dj2GXsgR2eKEM+ELsC3SWAD1ySkiMKJX8kgOF7wkIPGBEBYaFGjNCYsmAV2bHVLWxDfLLHluySxYHqGlBFgU5c4UkXTxs3FiO1ciUjgkMvBsdbSfHM4dB++pPyUgZU+46b04lKAPGaprc+2qMC/UdAwNSUL6KXGbWDOj+eN0nNPYDn6B/lID1ZSl22r42qbBEvZ5jWb1vc9O0t0znolRHCqB7qQLICK/Am4BdtgJwfLD/rDAAAAABJRU5ErkJggg=="
+        }
+      }
+    ]
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "content": "Icon name: Alert Off\n\nRelated concepts: bell, alarm, chime, off, silence"
+      },
+      {
+        "type": "image_url",
+        "image_url": {
+          "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAABQCAMAAAC5zwKfAAAARVBMVEX///+zs7Pf398pKSkcHByjo6P6+voAAAAEBASpqalbW1sQEBDKysqEhITt7e10dHRNTU1paWk/Pz/AwMDU1NSampqgoKD31Q2BAAAACXBIWXMAAAsTAAALEwEAmpwYAAACH0lEQVR42u3Y23KDIBAGYDkEETxEo3n/R23X2DZEYH9Jpu1F9i4T/EZggcWqesc7/lEIrUX0D3kdJ+Wt9WoarxIHdV3bZq91qg5CdRIHd+LsbL0L62asy/ZR7Mc6HnbsEbF5EIXeHp86MffG9LPopu2NE8OdFYdtzJbgbfplG9PuqHjzVORNxI105pgoada76EOmWzvuqqOiblPNLp7E4aiYSTi5TtipZK5zopcvFFtqdq5eKC7UaSgdqzUteHH6bDUh3mVbIJzYUqsLALoaFM9YMhrKsREZR+qKN1CPvYFmRkN97ugFsbl20CZBI7Ng2bNAqai++sGLNM8KOgp6LMMlDTcLkmKwNWPobxakFERX4X1brNFNPL0OZMQCMC+WgFmxCMyJZWBGLATTYimYFIvBlFgOJsQnwLj4DBgVnwJjIgKadKP93lP/bHXJuFJ9itYUtBlfgXpgyFcpP70e+DNgLQdkBYqSfrbsyXhmK6kTXDz0liupQlHQj5455bWpcFExZ70CaoFAZN6A7cFOZMYILNDu8zE/i57Nguh9xmfLEDy+Rc8WrwfF9ChJXyTmbkhnXyAeCRtuUPf1FnifiWR6mygxi0QX7mZjkKglYkOPzMEFT1TPiIZSU29iqx9XboHY3D6DtMa0623oYeEWiEOYKANa94DiUHobDh75XuKxjySbKA7NTOOU98o1Jr336Fd+2CNR/86nwne844/iAxDpJe2Ejw+TAAAAAElFTkSuQmCC"
+        }
+      }
+    ]
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "content": "Icon name: Alert On\n\nRelated concepts: bell, alarm, chime, on, loud"
+      },
+      {
+        "type": "image_url",
+        "image_url": {
+          "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAABQCAMAAAC5zwKfAAAARVBMVEUAAAArKyv6+vqhoaFcXFwJCQkXFxf///8eHh61tbXf39+EhITs7Oz19fXV1dXGxsbNzc1NTU1qamqtra11dXVDQ0OamppUX59hAAAACXBIWXMAAAsTAAALEwEAmpwYAAACVUlEQVR42u2Y2ZaDIAxAEQEBd2n7/586A1IVDBA7fZpjnrrEGxKSECHNl4XcwBv4IdAIWSc1dL08pSBEyOdS66RaLYXagL/qhPUgra1IIFULMnv2+58IgKQaTmoTI4Cws+LgzO5Axe13HrndgTgrSxe5uz6/u+wthG4rsT7Nn60aOkq7wbRPT1zDdXR385BAP1p5+Ji9gtV0Lx/TNnJ3WwyBlt001BtQ5/gbD6DekShcJLIkDzzeUmhHabsS128y8oxEsViBiwvUmMq50YX3sQGPsSdhckrn48tZTSdxo926nJtKhkUBlZ62YZFdrsAckWtkLdvk4EO+ZCdrdMYB1eZOTlxYFApYJWwDflQY4GhND2XgZPVGBJDtOZaXGVQ8ASkHDTdwrAUtAtWW3UURkOkT0NbVggOyoEmkgDMmZ/bMmQGgkmtHWsvOJs2EA47vxDkSiO8XW6exgelwQP1u+0fCCWg/UByQWl0AGLr8VkKdwV43chlWugLM7vINvIE38F8A+6vAvgCs8WfU2gfrArDa5jSEPIDhgQBjg8YC7RkQH0DkfDLODVqA4SEEdhweqXLDA+8ywPbKlrxD3maAFTQL5MStgCaBgAcFOceIlAe04nwzJ4ECO8mFYyfPAj8QkQSyz4AsCdQfLVHodNromV/FcaavXGLwsEH18RZcvhWJxs8Rfje5AGThxL2UE7UANNbHKXjXMX8CUtuUpSdO4lS512+WjNvJZaT9uHCCaG4E0+YP8vj73dfjEg9zmWb2Id9853aOGlZxXjFD7wvJG3gDvwT8AbgjnFIyEq4WAAAAAElFTkSuQmCC"
+        }
+      }
+    ]
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "content": "Icon name: Alert Snooze\n\nRelated concepts: bell, alarm, chime, silence, snooze"
+      },
+      {
+        "type": "image_url",
+        "image_url": {
+          "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAABQCAMAAAC5zwKfAAAARVBMVEUAAABUVFTLy8v5+fkkJCQODg4GBgb///8aGhq0tLSpqal4eHg0NDTr6+v09PTa2tqHh4fk5ORvb2+cnJxkZGRHR0eWlpZFogN6AAAACXBIWXMAAAsTAAALEwEAmpwYAAACTklEQVR42u2Y14KDIBBFUUoAKWpi/v9TN5jsRso4WPZNHs144jDtArmdvMgFvID/ARz0ODEuhGRTp4fPQyVJtJiqBNqniV4Uz/fzhPciVgGHkacvygNA2mc4QkzZZXLHgf7XWdNpbykd/GszJ5/ZteJl0+BBUe/Pk/2wvsuOBSuLAp8zjj8plgSPYKfQtLnPvMaiSaWC3QPNQ7VMkdW0CsFhDgP6sH9CVdRFEwxbrFKoqeXNO9OjpdcHswp/354YigEHHiXWSuYHT7hHm8MYzGwFsI9KBARaXulwUiIgMKS0pDgvLREQaLLARa1AKqBEIKANdkn9ykKjykoEAupvjyoDJVAiEDDEuLvBLhMNlAgEnP7eKdbZ58/uaSOHZ0qIXVvkdeSbJhIYDQVgMC1mtZ67t9sMDNnqoDSWf2OUVbscfi4NQAlFAQtKGegMgYO1B7gI8CnAZYDPAOri9h8AymKCHAAyAKhk/r1VwGL7en+53BllwL2C7QU8H0i3Ah0CvOOpGyc8NuhNbRP4LXGzDmyDF74WOJB8XpBc4E71x6Ypn80x0IqiGlgVxMKuAPvlEaZmMURw5r9XKLpYWRHEA0y0Z3tE0snx2HaafaSzIQJyUDXAqjPI3VXgjsVXXd6xYJf9rk+MzwFx2vhmM5I3fsudA48blEt3bPMlRqIWW7ySCH44HGO93BwC6kjEzRpRHwLS+XTzIbaz8qfHLoJmnSTG1rl2FKSiuZGaNr9Y3fGrqm4Tr+Yy7SvQmTrndo7qhnHOGk2vC8kLeAFPAv4AhXObOjjPf6wAAAAASUVORK5CYII="
+        }
+      }
+    ]
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "content": "Icon name: Alert Urgent\n\nRelated concepts: bell, alarm, chime, loud, important"
+      },
+      {
+        "type": "image_url",
+        "image_url": {
+          "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAABQCAMAAAC5zwKfAAAAV1BMVEUAAADa2touLi6mpqb7+/tqamrw8PD///8LCwsdHR02Njbq6ur29vYXFxdRUVFdXV2Li4vCwsJJSUmxsbHi4uK6uromJiaamppAQEDS0tKBgYHMzMx2dnbVHkBHAAAACXBIWXMAAAsTAAALEwEAmpwYAAADLUlEQVR42u2Y2darIAyFUdHiPIPT+z/nabAoKAj2uP6rcoWtfsRkJwbQ6+GBfsAf8E+APaXsUWCMEGq6h4GIsOeALQEiCvFjQekGTkzS56LMuJHx+JxsPArEfHxOh1FhIH4tbBxyovdgpixApNH/At95Enym3MbmDhAbZB1m67wEYuUETINwyCEh/KKaz3nykWDmw8VoBeK2QfKgU3rME7oGw4OLwQZsfXQcZNl9P1IpvAHMg0tg1yDdyNtdgvwOuloN8xhfAPt8BfhL373vS2dWrLVAKgaYByPh1x5MmRkYrA+XciCiigcCNdn2Eycum3aoEbjyhmNCZdOBiPlb19xFMOsNwJo/N2kCP3Mjy11WcO1jYW2pB6b5KWb7f77qrHq7hBmJtMDCzHsTQS2kU9xIsZB6qwP2pvd97SIudnkRwYEiEeqAyaYFQ5mGBWfFxEIYQjXAWr1fMxLFRO47WD+DB9MzsFRu11YueHKrqDgXyvFl4WzAjIj/r00MFQuY0HZ1AsLysaW4BopCKoGv5HU24KSsbii4sWxLK3zUyoUbySJktvpfybWlF7VwhKw5AX27C991gkjS90TOQTrnJyC8TWf9RIWyMRPxecxBN+QEzGUxmdMF6V4kluJ500Lu6pNa2zjutT6c7cBaEfdVs9RcVJqjuIfMAbhsRd0u7isikmXquzRJvNIOkRUYnZsAQ6VNzO2rUm0ah9xzICI181MXYpRIX3ozUM38ayLv2n1b014duwrzyDixsACVzLeMkcj5a2qWIPMTF1xdrA2UDajP/JMQA9HuVdaNT2H9Tm2d09vdzL41s2a+F356O+QH2GXzmFyKey5F+9n0jvvlC3HjNhH9ceg57+i5uKdL1+VTeueIoDp19arrkgDfO3OoNVLcXTe0tw8x5mNVlFxXjl+cinhqC+7uOhOwkzscb9lUx7Ivz23SPec/CauobszuAkUTgAON6trB4UN73EkBA+tclzHq9OU+AsFre8Iyobp0Wrds0W1gvu8XJdeVnyWK+4dpVJOwbNvleveBi0Z1+JMqpP/iuC8rdaprG4LisPvu/DDqXq/fkekP+LfAfzXGqJIvukRRAAAAAElFTkSuQmCC"
+        }
+      }
+    ]
+  },
+  {
+    "role": "assistant",
+    "content": "[\n  {\n    \"emoji\": \"🔔\",\n    \"subEmoji\": \"\",\n    \"alternativeEmojis\": [\n      \"🛎️\"\n    ],\n    \"similarity\": 0.98\n  },\n  {\n    \"emoji\": \"🔔\",\n    \"subEmoji\": \"🔴\",\n    \"alternativeEmojis\": [\n      \"🛎️\",\n      \"🔕\"\n    ],\n    \"similarity\": 0.95\n  },\n  {\n    \"emoji\": \"🔕\",\n    \"subEmoji\": \"\",\n    \"alternativeEmojis\": [\n      \"🔇\",\n      \"🔔\"\n    ],\n    \"similarity\": 0.97\n  },\n  {\n    \"emoji\": \"🔔\",\n    \"subEmoji\": \"🚨\",\n    \"alternativeEmojis\": [\n      \"🚨\",\n      \"📣\"\n    ],\n    \"similarity\": 0.95\n  },\n  {\n    \"emoji\": \"🔔\",\n    \"subEmoji\": \"💤\",\n    \"alternativeEmojis\": [\n      \"🔔\",\n      \"😴\"\n    ],\n    \"similarity\": 0.85\n  },\n  {\n    \"emoji\": \"🔔\",\n    \"subEmoji\": \"🔊\",\n    \"alternativeEmojis\": [\n      \"🚨\",\n      \"⚠️\",\n      \"🔊\"\n    ],\n    \"similarity\": 0.95\n  }\n]"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "content": "Icon name: Accessibility\n\nRelated concepts: person, inclusive"
+      },
+      {
+        "type": "image_url",
+        "image_url": {
+          "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAABQCAMAAAC5zwKfAAAAV1BMVEUAAAB8fHwTExPQ0NDo6OgxMTGurq7///8HBwcNDQ36+vqHh4dzc3McHBz19fXb29vw8PCoqKhHR0coKCjHx8dpaWlVVVU9PT2hoaG6urqSkpJhYWGZmZkrq5+7AAAACXBIWXMAAAsTAAALEwEAmpwYAAAC9klEQVR42u2Y2RKjIBBFUdEAKu5LTP7/O8cWEVBBTTJVM1XykAqIx25u0yzo8eOCbuAN/DtAVrQVIVVbsN8AixTNJS1+AGQJ0krCvgYavJH4LbAACklqzuuEwP/oOyCD8UsDUQmgUrGvgGAgCWQtABuLr4CtOWzNWG2vAbEXUlJ52VytRkKtntbg8/w/8ypCQw+7gQWd1WwFBqpcPc7HKhXodu5IIxew0AIkhIkBwHwDZEWodYzsQEyNmEvjPNy6HOZxanSj2Ar0QNMY414aQP3xpzFF8eVXwx7jGHT3rEDgxNO/Z6ksWIXNXMrn1BQD2QqE/tL+rFneNgJbfKORYYAXmY6AY99lrEhT53m9fCGNtU5OoHJ5nnh9iDYl7PXJ53ZZiML1Jn0wtaGbCz8QRYSNb0a/Nphq6OZZ5R+EjQxs8gqMF4du/BItB+PN4EUOA/vxiPxd10bnuFlfhsKPjpKDRFZvbsso/F1JnJcfpi/eL70TvIdT4ZQO/Fw+jDqpwrB9OEiNuuhCgg3a3RHXdGuDixkbJ9Nghuv20DEYB0sAH8CSdStYPvAP1xQw5kzbDbyB/xPwCZNs3QgT8vkhELYvr3Xj62AD5gBiYu5D1G6E4I+A3l6yETu8+BPgtBt+y/TopzIBQg5KPwFGsEKKFeM5ZVsq3M+JUxY7sFwkYfMiM+/X3bJYgRkgAnMbGi2yoOwyUJMEbG3ArlKtAt5VoCaJsDVQdr1BFnYRWChJ4HDW6Xbl1HGiQg5JxF6YwWTrDbs0988CV5LQcZnjyq7AIQuyn0E78beTh6nmlCz7QOmmYes5WZBdEm61VXf/HFB71VcH0B7yI3us3D8D1CTRIDrcLgs6K8lOu3caWC2SmJZkqtbvJ0sLUB2AVmOl7N0ceM4BJzULU32fXweCy4M8J+nxNsVnvHuCcgLlMXd7TkqsT5xA/SDu57YnFF+bKbsXANNKgyz7eVdykJcZ/uatiO5fXhzlQ7huGS9RcusTfF+Z3sB/GPgHe+ijfH+12rkAAAAASUVORK5CYII="
+        }
+      }
+    ]
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "content": "Icon name: Accessibility Checkmark\n\nRelated concepts: person, inclusive, plus"
+      },
+      {
+        "type": "image_url",
+        "image_url": {
+          "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAABQCAMAAAC5zwKfAAAAV1BMVEUAAAD29vZXV1fi4uIzMzPq6uopKSn////8/PwHBwepqakNDQ0SEhJ6enpNTU3V1dXJycmGhoaXl5dbW1sdHR0/Pz9mZmZubm67u7uioqKxsbHw8PCPj487ibCqAAAACXBIWXMAAAsTAAALEwEAmpwYAAADLUlEQVR42u2Y13asIBRAQZAA9jpj+f/vvKI0FcWEycNdKzwJ4uZwKgi+PtzAH/AP+DtAyCPCGIk4/AyQt0C2ln8ASF/Aai8aDNzxFmIokAsKe5UQli8mnscwIBT6a4utU6wdGAQUArJC9QohIw8CRnu1CYU23wPGGUkYyZDskoVQmrfl0iXyGWWEJTiL74E8kdbMN4zoTub1tHSTDZ3LiQm/A3LLQTCnV0DKsTWRXwPjZOdz7Ty5tjzN7W5aGl8CM2HTKo4HJUCSno2SqlXxEMeVsHt2CRTyVOvTOzcSMC1iycxo/l6HKkG+BIr5Sv6i11+3kljqrbJe+SbSZvIBF41Wrf6+nKZSr9BW1qRboNmyDLwBg1PDgx1891vejLILVluZlurUih6jbG6T7r3fUqZRnYyqdHWF2OvYrNl/WHfLSklX7xdq5ELjXeiNqRSmO+Q9eMhaY6fcevQlB4Uk9WXmgzVROF9yWE1rZiMXzrhTO8NH+ZDq/bD6/HZmWiv0eYItlca5s8gIu5XfzNhoUyY+juMbZXhKwDQLSY6jQvJ5+mFNEcI8GQsC5tVYfBQYdHL4P4FFHeGUsRRHNQoH0n3G7QYaBnyTY/om7+8A6R4Ie+BoPXwOfIsgM0kGA2fD8WOgKCe95hFw0Uj8EIiYdQ6BGFw2DJ8BMzvZ9OCm9Y+AVOTl2lLnTRufAEdRIWWeouQeSOgDoG2Swc3JEcqPif06YwPLJG6LRFROW2LGD7RNUlzyFBAgH3BnkvqSR9XRp/YBuWWS9XLh5uk3jQ/Y2e6Fr3iNcW4PcNWarh2pTz4r5sGDKPliPvmscusGQiHTcAIqvzvJ5wUKk6Qm5FPjGwLj4Pm23OnrCUSWUdAKcvE8RrFMMoigUsrKV5SL53GbzARTl9mOHckkcOJ5HJtokxQgt+JLEc88T+iZC9ALsGnn2YK485dHyUEDYbKJOrhSFnBecS+3PKt7Uv6BBLvdqBAy9yRPCXh7SoB9EZfX68AixU/1J7SMqp8Z5p4UWujjDCcJti7GnziKHFNQ8GHpfHoKPM45ShfvdvHBafg/WFQ325G4+cGR+O8/9iPgP/ABlHr9tWl3AAAAAElFTkSuQmCC"
+        }
+      }
+    ]
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "content": "Icon name: Accessibility Error\n\nRelated concepts: person, inclusive, error"
+      },
+      {
+        "type": "image_url",
+        "image_url": {
+          "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAABQCAMAAAC5zwKfAAAAVFBMVEUAAAA1NTWtra0uLi7q6upnZ2f39/f///8QEBAICAglJSWkpKTi4uKWlpZ8fHwDAwOHh4fPz8/a2tr8/PxbW1u6urpMTEzy8vI/Pz9zc3MbGxvGxsbsjSDaAAAACXBIWXMAAAsTAAALEwEAmpwYAAADMElEQVR42u2Y2ZKrIBCGQcBpVNzX5P3f80gUASVAyszFqZq+csFPe+FvEP182dAf8A/4O8A07zPOsz5PvwNMMrRblnwB2C3IsKW7DbR4K/EuMJEUvjRp2ixcHif3gKmM36PZTpqHjGN6C5jL72vUWcPDnxgA9nbY2HrafwakJeGclO1+Kj1+6rtP6fN+3G4jqR+YwJbMatww0sdJ357WU9jQY7WNhMQHTCpdIDhfaw6cwC7HelyVvAdSsGruUU/k6jKZ6oc1DOhbYClzWlOaEzVWvoHZSQH1VpJTWsuYlG+BklO/joZRO38qGxXk4XWpluS3QDlefX/Ljqetwt7ewVQZFPIsCrhG9IgVZ89peh5veNTGoCPvfpeVEBJ0MWLJot9lmZSqtibrMNq4PXTqjXXlTcpWNmBXvxFMHbp9VkGgbFRh876xHhTz+iTMwnqy6XmwsPXUQ/Nw0rGTag0zipl6hxtSBMRb5UuFajMQEodXao/RS+HC6XLKxBSlh12i/OHieleoHM1JFy+wTb9PvcTZZNZU2HmLUOxieQUTn69jTzACLWAS53mqpqcjdHE9RX5MzLVbwLEe2q8Cb60c/k9gK3oCVQWkF+19oNU/9057BzhkZ/nOhk+AnQ1MGXIYS+OBg7GSWUUGI6dhGg0czbUWzdAby2gksKiMdUiK0VvDaRywNDskQx5jUcBO6rIwwmn00qKwu+sQA5RKyned6uwAFtsSxAhjFwEcDV9y20VVo9ryCMWWKWlMmfYB5zCwNPS/RSEgakNAKyUiDBQhoEwJTMbmIgDsQ8DZLC8SBuIA8BW1o/NCGAgB4GK1ZB4Gcj8wBau2zsBLYQeBspBBT/mzy5epF3R5PvaMaeFIiktxvMBWl2qeOMrGYf6yWfRkwqWjsB3mL2xypKRBo2PqAWNwzZMHqDdAbFMwWxxgjUYLn4jDAZxg+9T8KtDsE/k6dlRynzReBPYKJAGB3ba5RaH3SYPf5VALoPyyvWa+pISbVHL5AXC3jaodld4n3W30tMQA2NwnfWEpcpag24ul6+rp4jYZ7v0y7fLZmh+fLjidSiR6DJwD7kXx99v5d4D/ALp2ky1ey0KjAAAAAElFTkSuQmCC"
+        }
+      }
+    ]
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "content": "Icon name: Accessibility More\n\nRelated concepts: person, inclusive"
+      },
+      {
+        "type": "image_url",
+        "image_url": {
+          "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAABQCAMAAAC5zwKfAAAAVFBMVEUAAAB8fHz6+vooKCjp6emrq6sGBgb///8LCwtAQEDz8/MQEBCysrJzc3MaGhpmZmbQ0NAyMjKWlpaHh4fIyMjg4OBJSUlVVVXY2NihoaG1tbW9vb2KskhSAAAACXBIWXMAAAsTAAALEwEAmpwYAAADBklEQVR42u2Y2xajIAxFVcBB8G7V2v7/f45RwKCC1nbWvOiTUdwryYEQDP78+Apu4A38N8CI9YRz0rPoN0CWB+oi7AfAKAvQlUVfAy3eSPwWyIASZw8hHlkM9+w7YERGRl7ORgnJJNFXQHAwLrVVxscuHgB7O23FaPafAWlY8ZiErTIh4sfy9gExq/s2JDGvQuoHMqnU7GcMH2/F8lqMJp/RvRoomQ/I0ASpYGHILVDC0qnQQOYGUmnNubwReyGLJreGSeoEhqBpQ+mgHZByK4rkOoSB0gZ0D51A8KeZ7t7d4sFq2qire0+PGiA7gTBe+/8suAkdT+zp4sVTZ8nItAfkCDiONbmKC1h6RWxyiwZ5gUvIauENVbC5qgEvPn/IsygCP8LJRKnT0+hAFDqlTdqzHyVzSZ1aVfJg2uiJHRel9WGdjF/KpLa+LHVO2aml173sF0LY9qs7tfRMGLAiamfli2qicRk9LF/RsIxu93DLdCKNOFcP00SrUG9f1lqjhH1QYB/9bsaRbv3jw4rdZlMyq/XzypOMgy1A1ODJ+ikEXIuLewo4c+bZDbyB/wMYXQS+UCdj7Tvvi0BoX4r1w6MGzAOksd2HqF0LFji9BAz3is12rz0NjKAuqwJb9nneq40LalAeXQCmULHnOvWeijSfwxdgvC4AOyNJpDYZ1a+DLN3nwDYwkpg2NDVNYvB5xUaSwJZVIL+qdftxBogkeYJHJfLLK0vgOaAoSeBwlmC/JlnSD4FIEvB1sPzyyRJ4JJkn3gDb5uirkGabLj2yBO4zKJIkW/nlkSVwSzIgSYxfzyNZAqckcpaE1aVu5SpzxhANcZ0i94HJ7lF7wN3gkCfngc8lOKs3kQQp0ZLnaaCaedvVY7fY9WkgMZJMzSLnSYqbR223e+93gfhEpX5ihH9O2kfA1K40h7Y75HrRe26Az9n7QHXM1f3l3G4v/abP3gfOJ6rpKP8boKrR5c9CHolcpdEk/bUSwWE76yENE9npfOJpcWQf/+6bJu7rtH3/g72BF4B/AaMHoZck7geiAAAAAElFTkSuQmCC"
+        }
+      }
+    ]
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "content": "Icon name: Accessibility Question Mark\n\nRelated concepts: person, inclusive, question, unknown"
+      },
+      {
+        "type": "image_url",
+        "image_url": {
+          "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAABQCAMAAAC5zwKfAAAAY1BMVEUAAAAnJycyMjL7+/v19fXq6uoSEhL///8GBgYMDAykpKSHh4doaGirq6scHBzKysrT09NYWFi+vr46Ojrc3Nzv7+8uLi59fX13d3fk5OS0tLRiYmJLS0tvb2+UlJRCQkKZmZl+uTHJAAAACXBIWXMAAAsTAAALEwEAmpwYAAADpElEQVR42u2Y17arIBBAFZCAXWM3Mfn/r7xigcGGOeY83LXOPAXLzjRmBq3bl8X6A/4BfwdI3MTm3E5c/B1gEFqThMEXgPhpAXniy0CNZ1nVVWAgKOwZERI9mfgdXANi4b8wHhexWNj4ElAoyOJ5FTOzigZgIgKhOzT5DOiUBWdFlU1LuydE6m4kbJ5+Z1XBeFE6x8CAT9FM0mEtlkTdzvslH36lyfQgD46AAUgQJDaGAOYrIHYReDDYBzpcy7nQy4u1yUXuhdpj1NkFliKmXu1IBTjVg+KL97k0wak9EfdyFyj08UYXPZQGTKoYMXX1MTrZEzrvAsXzs/6ZL+0PJ2IkTeX+nAa1DJMJ2HtU+or5UZ6nPpO+VQ8dA5XJ08ZzC2slhVYWhcnIEBQCL0FnAtfNpdcQlDFtaFnDi7E0tTc9hnfqkg4OdYyJzVrtRad79f/EX532ZtwyY2L3RDop82oWfYXo6+Y1p3VzXBzyakbab7Lbtd72jKtyY/kirnq63sKpdLI7cqoeYmkP79Z3uznh7w0+X2CjZNPjIG5J9GHFrkdnouV1dOAMQwsgndBkeVVo3pEf9hShzJlrl4APr4m/Crw0OfyfwKxLEGWMoqTLrgOxe4fF8b4xgn4EbOxl+babT4BYB5LW2pCWnAc2YJLpiwyyNgU5p4GinbSSZ1s7YjsngTUDcwhBYEKJ8zwG8wgi54AlHAqU/yq8cql/CjhMwx1w5yje1jyfngEKBp86BpYOfMG/lG4Ag7d1KiSupkvehuGTaHq7ZmBmgZDI/RGK1dBxxKiNqdwzZmAJ6n+mJpFp6uwlnqwYJTMBh5C850an9oWy39Vi/zYBRXPjBBwulGm+8qa6kZiAL5heYKh7ph5T6aNuIAMwm700CF1tN+7elDeHxmoAVlrk2JJHh/ATsL3ZMXDIB3cXOI7xOSy2BqAIJFVbfmnycGiOtfJjMPkljyeknscPIMK5qX5IOg5KrELiBlp2jCJ2uH6aMqQNCMm90hJ7lHo8TkA5TmxbhiQeNlu2ePtR14vDgWHrqQOQb7EcFoc9MRQHCSR8VNVdpHXb6iEBc+kmUJ6oyqnAYC1FeG9fphFNBbYaj7ng8NporVhvMidaADyI0/y2fN+/qZpzskmBTwXNqo1aVJgMds/9RBudP2aocxJs9NT36aeN3ikR56gE56S9UeTu/PSDJPG3eD658IUzXY9z6bVPpsuBM8DXv8Fm73kkfmd/n51/B/gP8vebuAySE7MAAAAASUVORK5CYII="
+        }
+      }
+    ]
+  },
+  {
+    "role": "assistant",
+    "content": "[\n  {\n    \"emoji\": \"♿\",\n    \"subEmoji\": \"\",\n    \"alternativeEmojis\": [\n      \"🧑‍🦽\",\n      \"🚶\",\n      \"🙆\"\n    ],\n    \"similarity\": 0.81\n  },\n  {\n    \"emoji\": \"♿\",\n    \"subEmoji\": \"✔️\",\n    \"alternativeEmojis\": [\n      \"♿️\",\n      \"✅\",\n      \"🧑‍🦼\"\n    ],\n    \"similarity\": 0.85\n  },\n  {\n    \"emoji\": \"♿\",\n    \"subEmoji\": \"❗\",\n    \"alternativeEmojis\": [\n      \"🧑‍🦽\",\n      \"❗\",\n      \"🚫\"\n    ],\n    \"similarity\": 0.81\n  },\n  {\n    \"emoji\": \"♿\",\n    \"subEmoji\": \"⋯\",\n    \"alternativeEmojis\": [\n      \"🧑‍🦽\",\n      \"🧑‍🦯\",\n      \"🧑‍🦼\"\n    ],\n    \"similarity\": 0.82\n  },\n  {\n    \"emoji\": \"♿\",\n    \"subEmoji\": \"❓\",\n    \"alternativeEmojis\": [\n      \"🧑‍🦽\",\n      \"❔\",\n      \"🙋\"\n    ],\n    \"similarity\": 0.82\n  }\n]"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "content": "Icon name: Airplane\n\nRelated concepts: flight, vehicle, travel"
+      },
+      {
+        "type": "image_url",
+        "image_url": {
+          "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAABQCAMAAAC5zwKfAAAAUVBMVEUAAADKyspVVVVra2vs7OypqakuLi7///+KiooLCwt4eHgfHx9ERERLS0tlZWURERG7u7v6+vri4uKZmZnW1tb09PQ4ODjc3NyFhYWysrKVlZX44/k5AAAACXBIWXMAAAsTAAALEwEAmpwYAAACHElEQVR42u2YbbOCIBCFEVEQLd9fuv//h14gVDRKy1MzzbQfqpmmJ1zOHpYlHBzkB/xKYJElSRxWMGBNTCQXELBPiI0AAxxGHokxwLNCDaV57gICDBVJcE7V2wkCFIoUch7oJTYIYGSX1l3Bx4GB3Q4NThgAyDRIvZfpNZnHha11yGwy0xIAjK2mmSZHAOBp5GgBdQBgOOau2VV/20Ax6UWvlR4HRlONFHqJ1WFgMPuC3h95GDgK0Vpj3j4HrGiSd5FXiJy3ufpYPwWscmN9tPQIUYXctsUVkFozlT4hqv/btkVyW2dk5VShU8TbtrgCGpa2gcwnxD226AHyi369eIS4xxZ9QJ4tjCVwd2LTFr1AU7XCI8QdtugFmqMuZ7dCHG1RDFKez5RmWdzRP3YfyCyQaTlm9ifxwmXYJIQpksEPbGVKLNCsYxHRQkXrcAphBvap/XZKlRtz2hoP0CmECdjGxAFepeOEIxWVPSmFqOsoKoogEPlCm8RNNknSuLOSFvNP+p49Eoqp//AGqBVL25d6zMgVKnG1Ub3EWwr1fUD4I4+bEo+bMjy1KfKobIaVbPr3CxtfevfMods2B/E5+3qXwaKPAPQh1SOPUfhBf0K3Ig26WTLtXAZs5x673d8LDecHWmJ40w6/VsAvPpMMz6CrGfzyOMpwAF1v4Rdw+IgAPsSAj1nggyD4qAo+TIOP++ADSfzI9DfH/n7gP+DGoU/WQuIcAAAAAElFTkSuQmCC"
+        }
+      }
+    ]
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "content": "Icon name: Airplane Landing\n\nRelated concepts: flight, vehicle, travel, take off"
+      },
+      {
+        "type": "image_url",
+        "image_url": {
+          "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAABQCAMAAAC5zwKfAAAAVFBMVEUAAADv7+88PDwQEBAfHx/c3NwYGBj////7+/sHBwcqKir19fXm5uaqqqpoaGi1tbVKSkqUlJTHx8cxMTHS0tJycnJVVVV8fHygoKBeXl6IiIi+vr45eScNAAAACXBIWXMAAAsTAAALEwEAmpwYAAACkklEQVR42u2X6ZKkIAyAQQFB8L7t93/PBdoDGVDsmand2jI/WhvlMyEhCSD5YQEP8AE+wH8CiHsSR6M5wseIsGbmnwFrBpRMxhdSPQJS/AkQkvdssOnIF54k0g+A+Tq7WUdmsMl8H9iqeUMtf9g61Mg/pRClvBB+Gxi9LVPYdUitqZBrEctrdRc4KlKRHIDrfSeviN4DcuWRMnEDBTNdFQZUSjDsAWp/BTjaAGKlw5D4gPpxdgeoHIm4F5hMZjQFAAuwaaDu4r4SRyBeXBYIpEi+Hu2hovdGV3BD235/IwCoQoa1+8xFmAHUYf8KBaqYzrf80sfAkGkU2yqXoUBFMPIJrYeIGUxpPUzUngR1IFDNhlbqyXIEfMJIk2f8BIjcLsTV0XqLmmMvUEUZcuZQ2/ojcuAeoHYhK0foXBlpfePRNBKewO6WT/qYlvC2WFYYtW4gnfaPViKoftBKVwwkPNkma8BdJiz1y9RbAobUYM4BttPcqjZf6nI77HrGdQBR6RiL084BzyszpCzpyttdtSJ4jgAISqhJUikV+XVvg1FgnaPE/LIXyPugfLpWm/wKCKPw7qMwE68HKLRbUFh/pHYtOQe+O640bL8kUHnlFNjqHRVBZ5aYEGBpXhiLQc1eyAWsdV4puSuYtjwWTwUPBGLNmyx/0FeXWokrnt4pG1+YrOOlsww18zbZ71mfQd3qnXiZbx2Jw1DpqaGm9JUTS9vKDzwEwdFQVlZ4e3BgNvQCqJ/DQ3kmUwatWtOtRTE9yzZ6a+ai/WKoK8DqrmHHI4fDKZ1d2HZDPztJQbO6x31YzTrNhy25MPT2WQ8OaUxuGfocbx/gA/xvgQUB3xBUOM8p3yH+PrBAP2zyE4cP8C8C/wB3mZ76AkuUWQAAAABJRU5ErkJggg=="
+        }
+      }
+    ]
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "content": "Icon name: Airplane Take Off\n\nRelated concepts: flight, vehicle, travel, take off"
+      },
+      {
+        "type": "image_url",
+        "image_url": {
+          "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAABQCAMAAAC5zwKfAAAAV1BMVEUAAAD09PRkZGT+/v76+voJCQkoKCj///8cHBwTExM9PT00NDRxcXHt7e3g4OBZWVlMTEy1tbXOzs58fHzExMSbm5vm5ubY2NiKioqRkZGnp6e6urqwsLACKJgmAAAACXBIWXMAAAsTAAALEwEAmpwYAAACj0lEQVR42u2X2bKjIBBARUARRXBf4v9/5xUQRcVoJk5NzS15ySIce+/GC29e3gN8gA/wAf4uYCkIDvzm6GlBCcaB6OqLQOR7eiXA8bALPLOwn14C+vOJIN8+y4hnL9zBc2BpnyiQ/Yhxb7sEOAVKAYMSTLLEliVz/RfmfQpA3mrdY3YGlKfK8RNo1XFrtBqwtqzxBawiRQQnQLmL2QajyvSw0ALZZk2VkBy+B8pN/cpmuArREGvxVjYNGVWGdgBhRUncqt3JuCUy8dBHWi794VXbtwP1nnwHRMKbzZFKU8VGklosHiXlXp9UvorvgJ0JZfmjld98/aKXH808XrsslMmg2AFN9GN5Bgqt3YoW+bk7EV9OoDIEMSKyQOWVTXshNy5t3SrLU2ElMSpgcjsXjmlNq13vlW4gIioEUJlYsvHhkEY92/IOoHLNJU1hXlg1p4VHQBBd0RSWiVVyaOfMZQ3UAfNWU7Sh1Qf1cAJqEY+9EA6LDlhU7LhiT8CxHJBj2uh9bGi8B297igG+XyAwsoGzJnUJqDOIZ+hC17sEtHL8D4BlEkR02CbtUoUuAK2teUF29a8mdp08AxKrSjZ2FsyRgVSiZVcnB2lugVT1iFddciYk61p/BuxVWy8KusjGB2oB1QYBLwMhXbdvOkYalFkxdeVGRjRhHwxLdWDT1MlGOgEuEY3zj6YvNk008ZzvUkuqv3Jnxzsb5+qqKHorLJK5dKoWxr8eOKlp+KU0YAC+BpLJJ0xFdPP9SDw5Wc8Aww0ztlRZMD2DJXcM7XqaUCWVojuAYA5NUt9zrUintCZ5eNM9BXUjkiQsvPHiA0AYPne9B/gA/xvg5qL+4SKZc7b5hvj3gber/MThA/yHwB8+dqDiFpJ4DgAAAABJRU5ErkJggg=="
+        }
+      }
+    ]
+  },
+  {
+    "role": "assistant",
+    "content": "[\n  {\n    \"emoji\": \"✈️\",\n    \"subEmoji\": \"\",\n    \"alternativeEmojis\": [\n      \"🛩️\",\n      \"🛫\",\n      \"🛬\"\n    ],\n    \"similarity\": 0.99\n  },\n  {\n    \"emoji\": \"🛬\",\n    \"subEmoji\": \"\",\n    \"alternativeEmojis\": [\n      \"✈️\",\n      \"🛫\"\n    ],\n    \"similarity\": 0.99\n  },\n  {\n    \"emoji\": \"🛫\",\n    \"subEmoji\": \"\",\n    \"alternativeEmojis\": [\n      \"✈️\",\n      \"🛬\"\n    ],\n    \"similarity\": 0.99\n  }\n]"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "content": "Icon name: Arrow Bidirectional Left Right\n\nRelated concepts: left, right, arrows, width"
+      },
+      {
+        "type": "image_url",
+        "image_url": {
+          "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAABQCAMAAAC5zwKfAAAAFVBMVEX///8AAAADAwOsrKykpKQcHBwdHR2/W1kdAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAlElEQVR42u2WwQ7EIAgFBYv//8lN3T22q5DXPc0cFSahKUJrAAAA0HpEz5yvONws7i7CzI+az8aDsGCcPr8v2QvGn0kF4yIlbVwmJI0b4SnjVnDCuBm6bVQHqktRf2z17zAD0vjz2xNWItTC8b+S6VF69PUeFQ4V9dgrDWb1oP8aQ7eKfIxDuCxda9vomXMAAACALCdQxAQW/PALfQAAAABJRU5ErkJggg=="
+        }
+      }
+    ]
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "content": "Icon name: Arrow Bidirectional Up Down\n\nRelated concepts: up, down, height"
+      },
+      {
+        "type": "image_url",
+        "image_url": {
+          "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAABQCAMAAAC5zwKfAAAAFVBMVEX///8AAACoqKgDAwMcHBwdHR22trYQxOYIAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAyElEQVR42u3YwQ6EIAyEYcTC+z+yK6zS7k34D5s4c+8XNVGmpqQoymuSzTLq7du2Z9Yjxe5x4uVR4vAYsXn9GSJi9/IJZkK8kBNMgHgTDVwXB9DBVdGNf8E10Q9f4IoYRm9wXoyDA5wWLYw5sIs2A7rL8GATy2OwWnG3FcDP57bUxTcwgkAEChQoUOCLwBp6/+8hZZU+Ro0+6J+fy3gVwcsSX+f4wslXYr6082sFv/jwqxm/PPLrLb+A878I+J8YrfejnqIo/58DoRID1m2g9LwAAAAASUVORK5CYII="
+        }
+      }
+    ]
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "content": "Icon name: Arrow Down"
+      },
+      {
+        "type": "image_url",
+        "image_url": {
+          "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAABQCAMAAAC5zwKfAAAARVBMVEX///+2trb39/cwMDAfHx8XFxcLCwsAAAADAwP8/PxnZ2dERETu7u7b29tUVFSrq6uCgoKRkZHExMTl5eXOzs53d3egoKAWZaXyAAAACXBIWXMAAAsTAAALEwEAmpwYAAABZklEQVR42u2Y27KCMAxFKVICtXJR8f8/9dALyiUtqVMfzkz2Ay/EVZpmpxmLgsX6NxKyElmBEqDKyWsBoGEgAxnIQAYykIEMZGBeoKikSAX2sclxngIbkQYUTWxyrObf1fcU4L2GGLCflwN5owNv0rzow0kcwSz4oAIfZkswxo5lMBEXTQPqi4ke4getLLGkAEvLU2cV15moa3kObK8msmvParHE4jCgwlbGpJGdIMAJzzZKrA65PgKHQD2gstUFrxjwBYGKxfWsd/W6BxrDQf2kdwnrqJUJd8D9a0rf2X7CFnjYAEXbJG2AxxSTtDnGNVCfGxjXutBWQE0yXNjWzgofoDfSdxfJx4RvoLd6+xXQf41aA/FmRNa74S3ABAPjWlqyB44pBo7a2gGDV06KnCuEfTTJhgubEPyjyfB3kN2oV6qBI3er01hk0bTwhlzDl3I8VWSb5jrajZlgwknKKSOPxfqx/gCZMxX3jYfW4gAAAABJRU5ErkJggg=="
+        }
+      }
+    ]
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "content": "Icon name: Arrow Down Exclamation\n\nRelated concepts: priority, edit, create, letter, sort"
+      },
+      {
+        "type": "image_url",
+        "image_url": {
+          "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAABQCAMAAAC5zwKfAAAAQlBMVEUAAADU1NSSkpJxcXEsLCwMDAwcHBz///8EBASoqKj6+vrz8/NnZ2evr69ERETi4uK3t7fs7OyDg4O/v7+enp5YWFgUcy07AAAACXBIWXMAAAsTAAALEwEAmpwYAAACZklEQVR42u3Y23KDIBAAULyACCJqzP//al2jEViwIM60D/rQmWg8UfYClDQ3H+QBH/AeUJd9TWndl/rkxoGxIQ7UHSfbwbswyQhhUaCixDioCr7acsSAJXGOMg9UK1KXhZRFWa8fVA6o4X35/lCihNGkOgPswHsdn18gdtdBzd1BgyHl+jIIt9fWZVGH4hIF9vhu+I3+MgiPU9jXC/TQKSDEWNrXJcT5MggxEfZ1AVG58wnHrCdcCp44OaJJqAn8SVAgbV5O28tKm/fypdm+Pi+n3pfBavnSZF+fllNVVuk5j/POKr0BRwDiNFzvNpDFVmYLijMppR9SN2+KUF5HgvCCrXmiDaVhQsee3CBndGycdZ7MTAILt3IZLsYkUDhRgbBTkTMv9/YrzqFKjgadIHS4FhNBp1aCdRINSpgFRrNdc5m3WKrN1YwKpnU8WJmD2IV6VwI4mJnIwkMYDZqZWJwMYTRoLkfKcBYmgIbSnyxg40F4z8/U9yLBQk4B18Sh8zjO9CRpUsDBXLIPN4BrKm5H1dwBNtO28+FTcw/Y6Aq2ZpVu7gKjNokPeAoWn6AUnj2y8oHK2Dt7QNF9t8sC7ZF5i8GWGy0Pg6I/ErsXLvgVDxC8M7AzS89ehih+iF9w9bg67zZMSamgS3B7HNtD3EHjlB+ESmbrvDcyXM3H7Rvoehg0pj3fWu4LfEDkYdDYTXn3eTuxgthLB3cEQI+X/MpfkWx/HM8flDoYlEPck7/9dZJa07SVsmU4bZCIvN8SOzAH7CL20krPFT2evznsv1+JYPcC0eeltS+rro1W9vzL9AH/G/gD1L6etw6ulQoAAAAASUVORK5CYII="
+        }
+      }
+    ]
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "content": "Icon name: Arrow Down Left"
+      },
+      {
+        "type": "image_url",
+        "image_url": {
+          "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAABQCAMAAAC5zwKfAAAAElBMVEX///8AAACoqKgDAwMbGxsdHR0cEIZcAAAACXBIWXMAAAsTAAALEwEAmpwYAAAA1ElEQVR42u3YyRKEIAxFUcH4/7/cjt0OgEVyF714b22dQoUkxTAoiqLMyWYZ9caUDPbSBHtjlidPnjx5wf7QvT5rl/P+952fT+j3a4Ke/9ECXf+3Afr2Sx107r8q6N3PNdB9Piqg/7yVwcD5LYKRelACQ/WlAMbq1RMM1r8HGK2ndzBcn29gvN5fQaB/XECiH51BpL+dQKZf/kCo/35Bqp8fIDYf7CA3b2wgOL+sIDkPLSA6Xy0gOq+lLdz8R3vHChuxDIOd1wFGg/lVnNArFUVR/jcfj+0DzEIMTgYAAAAASUVORK5CYII="
+        }
+      }
+    ]
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "content": "Icon name: Arrow Down Right\n\nRelated concepts: arrow, up, direction, point"
+      },
+      {
+        "type": "image_url",
+        "image_url": {
+          "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAABQCAMAAAC5zwKfAAAAGFBMVEX///8AAAADAwOsrKyjo6McHBwdHR0bGxvwIC59AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAwUlEQVR42u3YXQvDIAyF4dpM+///cQvdun6oIclZKeO8t+IDeqGQYWCM/V2Ss0DBnNIoYBAryvgb8UWRIkWKFO0vrkymf0gXl2+jQE+9LCfoPZpBTbSDiugA+6IH7IousCf6wI7oBNuiF2yKbrAl+sGGGADrYgSsiiGwJsbAihgEr2IUvIhh8CzGwZMIAI8iAjyIEHAvYsCdCAK/IgrcRBj4EXHgWwSCq4gEN9G2aUpq5rHB3WCxHVkVC3Y0wxh7RDOr/QQNoLmRtAAAAABJRU5ErkJggg=="
+        }
+      }
+    ]
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "content": "Icon name: Arrow Sort Down Lines\n\nRelated concepts: arrow, direction, text"
+      },
+      {
+        "type": "image_url",
+        "image_url": {
+          "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAABQCAMAAAC5zwKfAAAAFVBMVEUAAAD///+oqKgbGxu0tLQdHR0HBwdGGGV1AAAACXBIWXMAAAsTAAALEwEAmpwYAAAA4klEQVR42u3Y0Q6DIAwF0K5F/v+T54BBGTECVjPN5cEHE09suG0C9DJeBBDghaATcaagEC2mIK0L4N1AJ9SxSvZ2wS5PZe96sK/kxSE2AG8Lbodc5oItFq13KrhdMnoZ4EPAOuRyPNhi0XqngnXJ6GWAAAHunJE1WL0fPCN7bkH26+SdBbNYwI+n5uRQyb6IGQyenys5fkysQfVqZpfL5wn89YZjk4EINt54Dr9EAFtvItgJCY/Wm+mUuK2UHp6Pt178sbTYopeVyDbDIYtsNW2SyHbjK4hse923OFyZAvxX8A1UdhflMwFyLgAAAABJRU5ErkJggg=="
+        }
+      }
+    ]
+  },
+  {
+    "role": "assistant",
+    "content": "[\n  {\n    \"emoji\": \"↔️\",\n    \"subEmoji\": \"\",\n    \"alternativeEmojis\": [\n      \"⬅️\",\n      \"➡️\",\n      \"🔁\"\n    ],\n    \"similarity\": 0.98\n  },\n  {\n    \"emoji\": \"↕️\",\n    \"subEmoji\": \"\",\n    \"alternativeEmojis\": [\n      \"🔃\",\n      \"🔄\",\n      \"⬆️\",\n      \"⬇️\"\n    ],\n    \"similarity\": 0.98\n  },\n  {\n    \"emoji\": \"⬇️\",\n    \"subEmoji\": \"\",\n    \"alternativeEmojis\": [\n      \"👇\",\n      \"🔽\"\n    ],\n    \"similarity\": 0.98\n  },\n  {\n    \"emoji\": \"⬇️\",\n    \"subEmoji\": \"❗\",\n    \"alternativeEmojis\": [\n      \"⚠️\",\n      \"🔽\",\n      \"⬇️\"\n    ],\n    \"similarity\": 0.85\n  },\n  {\n    \"emoji\": \"↙️\",\n    \"subEmoji\": \"\",\n    \"alternativeEmojis\": [\n      \"⬇️\",\n      \"⬅️\"\n    ],\n    \"similarity\": 0.98\n  },\n  {\n    \"emoji\": \"↘️\",\n    \"subEmoji\": \"\",\n    \"alternativeEmojis\": [\n      \"➡️\",\n      \"⬇️\",\n      \"🔽\"\n    ],\n    \"similarity\": 0.98\n  },\n  {\n    \"emoji\": \"⬇️\",\n    \"subEmoji\": \"\",\n    \"alternativeEmojis\": [\n      \"🔽\",\n      \"👇\"\n    ],\n    \"similarity\": 0.73\n  }\n]"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "content": "Icon name: Align Space Between Horizontal\n\nRelated concepts: alignment, edit, design"
+      },
+      {
+        "type": "image_url",
+        "image_url": {
+          "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAABQCAMAAAC5zwKfAAAAJFBMVEUAAAD///8lJSVubm7w8PDU1NT5+fkMDAyqqqpCQkKsrKyvr694OyukAAAACXBIWXMAAAsTAAALEwEAmpwYAAAArElEQVR42u2YwQrDMAxDPdtJ0/b//3doO65gFVzYQTqbl5DINshezTIBPxrhmxXaPAYJnGGkYjLAuRutfRLAsBuKGjhQ50dWj5+no3KUQFzQk/nP9Ksr/gBRdXAOWTi7BMIvyQET7imBeBjaxBe1Aj7wKbDN2WmbdmN/W2/VrbfI1msfDv3jq33A9q8A7WUBBRRQQAEFFFBAAZU5KHNQ5qDMQZmDMgdlDn8AfAPybhg9BcCUrQAAAABJRU5ErkJggg=="
+        }
+      }
+    ]
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "content": "Icon name: Align Space Between Vertical\n\nRelated concepts: alignment, edit, design"
+      },
+      {
+        "type": "image_url",
+        "image_url": {
+          "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAABQCAMAAAC5zwKfAAAAJFBMVEUAAAD///8lJSVubm7w8PDU1NT5+fkMDAyqqqpCQkKsrKyvr694OyukAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAzElEQVR42u3Y0Q7CIAwF0NoWxrb//18tuMxNGtDgw+Ltk0Tu2YI8tNJtcBFAgAABXhwMwhM9amIJveFa5glGoZeS2MPVMwWMMx1q7hCdTAGFTiVt0MlkMNiaF7XPurKtmufoZWh7GOu2VbnnFb1MBm217HuT7W2BXiaD9tvr/qXaTWiBXiaDdgCHy3laVy+wkwEIECBAgAABAgR4fXB4w2nt7fpFS7x6LfHwpr2MCKmMCOmTseI985vBZ/xoNnx4HD/e4j8HgAAB/j14BxV9GD2kMOBFAAAAAElFTkSuQmCC"
+        }
+      }
+    ]
+  },
+  {
+    "role": "assistant",
+    "content": "[\n  {\n    \"emoji\": \"🥪\",\n    \"subEmoji\": \"\",\n    \"alternativeEmojis\": [\n      \"🔲\",\n      \"➖\"\n    ],\n    \"similarity\": 0.11\n  },\n  {\n    \"emoji\": \"⏸️\",\n    \"subEmoji\": \"\",\n    \"alternativeEmojis\": [\n      \"〰️\",\n      \"⎸⎸\"\n    ],\n    \"similarity\": 0.32\n  }\n]"
+  }
+]

@@ -1,0 +1,6079 @@
+[
+  {
+    "name": "access",
+    "files": [
+      "access-time"
+    ]
+  },
+  {
+    "name": "accessibility",
+    "files": [
+      "accessibility-checkmark",
+      "accessibility-error",
+      "accessibility-more",
+      "accessibility-question-mark",
+      "accessibility"
+    ]
+  },
+  {
+    "name": "add",
+    "files": [
+      "add-circle",
+      "add-square-multiple",
+      "add-square",
+      "add-starburst",
+      "add-subtract-circle",
+      "add"
+    ]
+  },
+  {
+    "name": "agents",
+    "files": [
+      "agents-add",
+      "agents"
+    ]
+  },
+  {
+    "name": "airplane",
+    "files": [
+      "airplane-landing",
+      "airplane-take-off",
+      "airplane"
+    ]
+  },
+  {
+    "name": "album",
+    "files": [
+      "album-add",
+      "album"
+    ]
+  },
+  {
+    "name": "alert",
+    "files": [
+      "alert-badge",
+      "alert-off",
+      "alert-on",
+      "alert-snooze",
+      "alert-urgent",
+      "alert"
+    ]
+  },
+  {
+    "name": "align-distribute",
+    "files": [
+      "align-distribute-bottom",
+      "align-distribute-left",
+      "align-distribute-right",
+      "align-distribute-top"
+    ]
+  },
+  {
+    "name": "align-space",
+    "files": [
+      "align-space-around-horizontal",
+      "align-space-around-vertical",
+      "align-space-between-horizontal",
+      "align-space-between-vertical",
+      "align-space-evenly-horizontal",
+      "align-space-evenly-vertical",
+      "align-space-fit-vertical"
+    ]
+  },
+  {
+    "name": "align-extras-1",
+    "files": [
+      "align-bottom",
+      "align-center-horizontal",
+      "align-center-vertical",
+      "align-end-horizontal",
+      "align-end-vertical",
+      "align-left",
+      "align-right",
+      "align-start-horizontal",
+      "align-start-vertical",
+      "align-straighten"
+    ]
+  },
+  {
+    "name": "align-extras-2",
+    "files": [
+      "align-stretch-horizontal",
+      "align-stretch-vertical",
+      "align-top"
+    ]
+  },
+  {
+    "name": "animal",
+    "files": [
+      "animal-cat",
+      "animal-dog",
+      "animal-paw-print",
+      "animal-rabbit-off",
+      "animal-rabbit",
+      "animal-turtle"
+    ]
+  },
+  {
+    "name": "app",
+    "files": [
+      "app-folder",
+      "app-generic",
+      "app-recent",
+      "app-store",
+      "app-title"
+    ]
+  },
+  {
+    "name": "approvals",
+    "files": [
+      "approvals-app"
+    ]
+  },
+  {
+    "name": "apps",
+    "files": [
+      "apps-add-in-off",
+      "apps-add-in",
+      "apps-list-detail",
+      "apps-list",
+      "apps-settings",
+      "apps-shield",
+      "apps"
+    ]
+  },
+  {
+    "name": "archive",
+    "files": [
+      "archive-arrow-back",
+      "archive-multiple",
+      "archive-settings",
+      "archive"
+    ]
+  },
+  {
+    "name": "arrow-autofit",
+    "files": [
+      "arrow-autofit-content",
+      "arrow-autofit-down",
+      "arrow-autofit-height-dotted",
+      "arrow-autofit-height-in",
+      "arrow-autofit-height",
+      "arrow-autofit-up",
+      "arrow-autofit-width-dotted",
+      "arrow-autofit-width"
+    ]
+  },
+  {
+    "name": "arrow-up",
+    "files": [
+      "arrow-bidirectional-left-right",
+      "arrow-bidirectional-up-down",
+      "arrow-down-exclamation",
+      "arrow-down-left",
+      "arrow-down-right",
+      "arrow-down",
+      "arrow-left",
+      "arrow-right",
+      "arrow-up-exclamation",
+      "arrow-up-left",
+      "arrow-up-right-dashes",
+      "arrow-up-right",
+      "arrow-up-square-settings",
+      "arrow-up"
+    ]
+  },
+  {
+    "name": "arrow-circle",
+    "files": [
+      "arrow-circle-down-double",
+      "arrow-circle-down-right",
+      "arrow-circle-down-split",
+      "arrow-circle-down-up",
+      "arrow-circle-down",
+      "arrow-circle-left",
+      "arrow-circle-right",
+      "arrow-circle-up-left",
+      "arrow-circle-up-right",
+      "arrow-circle-up-sparkle",
+      "arrow-circle-up"
+    ]
+  },
+  {
+    "name": "arrow-clockwise",
+    "files": [
+      "arrow-clockwise-dashes-settings",
+      "arrow-clockwise-dashes",
+      "arrow-clockwise"
+    ]
+  },
+  {
+    "name": "arrow-counterclockwise",
+    "files": [
+      "arrow-counterclockwise-dashes",
+      "arrow-counterclockwise-info",
+      "arrow-counterclockwise"
+    ]
+  },
+  {
+    "name": "arrow-curve",
+    "files": [
+      "arrow-curve-down-left",
+      "arrow-curve-down-right",
+      "arrow-curve-up-left",
+      "arrow-curve-up-right"
+    ]
+  },
+  {
+    "name": "arrow-enter",
+    "files": [
+      "arrow-enter-left",
+      "arrow-enter-up",
+      "arrow-enter"
+    ]
+  },
+  {
+    "name": "arrow-flow",
+    "files": [
+      "arrow-flow-diagonal-up-right",
+      "arrow-flow-up-right-rectangle-multiple",
+      "arrow-flow-up-right"
+    ]
+  },
+  {
+    "name": "arrow-forward",
+    "files": [
+      "arrow-forward-down-lightning",
+      "arrow-forward-down-person",
+      "arrow-forward"
+    ]
+  },
+  {
+    "name": "arrow-hook",
+    "files": [
+      "arrow-hook-down-left",
+      "arrow-hook-down-right",
+      "arrow-hook-up-left",
+      "arrow-hook-up-right"
+    ]
+  },
+  {
+    "name": "arrow-repeat",
+    "files": [
+      "arrow-repeat-1",
+      "arrow-repeat-all-off",
+      "arrow-repeat-all"
+    ]
+  },
+  {
+    "name": "arrow-reply",
+    "files": [
+      "arrow-reply-all",
+      "arrow-reply-down",
+      "arrow-reply"
+    ]
+  },
+  {
+    "name": "arrow-sort",
+    "files": [
+      "arrow-sort-down-lines",
+      "arrow-sort-down",
+      "arrow-sort-up-lines",
+      "arrow-sort-up",
+      "arrow-sort"
+    ]
+  },
+  {
+    "name": "arrow-square",
+    "files": [
+      "arrow-square-down",
+      "arrow-square-up-right",
+      "arrow-square"
+    ]
+  },
+  {
+    "name": "arrow-step",
+    "files": [
+      "arrow-step-back",
+      "arrow-step-in-diagonal-down-left",
+      "arrow-step-in-left",
+      "arrow-step-in-right",
+      "arrow-step-in",
+      "arrow-step-out",
+      "arrow-step-over"
+    ]
+  },
+  {
+    "name": "arrow-sync",
+    "files": [
+      "arrow-sync-checkmark",
+      "arrow-sync-circle",
+      "arrow-sync-dismiss",
+      "arrow-sync-off",
+      "arrow-sync"
+    ]
+  },
+  {
+    "name": "arrow-trending",
+    "files": [
+      "arrow-trending-checkmark",
+      "arrow-trending-down",
+      "arrow-trending-lines",
+      "arrow-trending-settings",
+      "arrow-trending-sparkle",
+      "arrow-trending-text",
+      "arrow-trending-wrench",
+      "arrow-trending"
+    ]
+  },
+  {
+    "name": "arrow-turn",
+    "files": [
+      "arrow-turn-bidirectional-down-right",
+      "arrow-turn-down-left",
+      "arrow-turn-down-right",
+      "arrow-turn-down-up",
+      "arrow-turn-left-down",
+      "arrow-turn-left-right",
+      "arrow-turn-left-up",
+      "arrow-turn-right-down",
+      "arrow-turn-right-left",
+      "arrow-turn-right-up",
+      "arrow-turn-right",
+      "arrow-turn-up-down",
+      "arrow-turn-up-left"
+    ]
+  },
+  {
+    "name": "arrow-wrap",
+    "files": [
+      "arrow-wrap-off",
+      "arrow-wrap-up-to-down",
+      "arrow-wrap"
+    ]
+  },
+  {
+    "name": "arrow-extras-1",
+    "files": [
+      "arrow-between-down",
+      "arrow-between-up",
+      "arrow-bounce",
+      "arrow-collapse-all",
+      "arrow-download-off",
+      "arrow-download",
+      "arrow-eject",
+      "arrow-exit",
+      "arrow-expand-all",
+      "arrow-expand"
+    ]
+  },
+  {
+    "name": "arrow-extras-2",
+    "files": [
+      "arrow-export-up",
+      "arrow-export",
+      "arrow-fit-in",
+      "arrow-fit",
+      "arrow-import",
+      "arrow-join",
+      "arrow-maximize-vertical",
+      "arrow-maximize",
+      "arrow-minimize-vertical",
+      "arrow-minimize"
+    ]
+  },
+  {
+    "name": "arrow-extras-3",
+    "files": [
+      "arrow-move-inward",
+      "arrow-move",
+      "arrow-next",
+      "arrow-outline-down-left",
+      "arrow-outline-up-right",
+      "arrow-paragraph",
+      "arrow-previous",
+      "arrow-redo",
+      "arrow-reset",
+      "arrow-rotate-clockwise"
+    ]
+  },
+  {
+    "name": "arrow-extras-4",
+    "files": [
+      "arrow-rotate-counterclockwise",
+      "arrow-routing-rectangle-multiple",
+      "arrow-routing",
+      "arrow-shuffle-off",
+      "arrow-shuffle",
+      "arrow-split",
+      "arrow-sprint",
+      "arrow-swap",
+      "arrow-undo",
+      "arrow-upload"
+    ]
+  },
+  {
+    "name": "arrows",
+    "files": [
+      "arrows-bidirectional"
+    ]
+  },
+  {
+    "name": "attach",
+    "files": [
+      "attach-arrow-right",
+      "attach-text",
+      "attach"
+    ]
+  },
+  {
+    "name": "auto",
+    "files": [
+      "auto-fit-height",
+      "auto-fit-width"
+    ]
+  },
+  {
+    "name": "autocorrect",
+    "files": [
+      "autocorrect"
+    ]
+  },
+  {
+    "name": "autosum",
+    "files": [
+      "autosum"
+    ]
+  },
+  {
+    "name": "backpack",
+    "files": [
+      "backpack-add",
+      "backpack"
+    ]
+  },
+  {
+    "name": "backspace",
+    "files": [
+      "backspace"
+    ]
+  },
+  {
+    "name": "badge",
+    "files": [
+      "badge"
+    ]
+  },
+  {
+    "name": "balloon",
+    "files": [
+      "balloon"
+    ]
+  },
+  {
+    "name": "barcode",
+    "files": [
+      "barcode-scanner-add",
+      "barcode-scanner-dismiss",
+      "barcode-scanner"
+    ]
+  },
+  {
+    "name": "battery",
+    "files": [
+      "battery-0",
+      "battery-1",
+      "battery-10",
+      "battery-2",
+      "battery-3",
+      "battery-4",
+      "battery-5",
+      "battery-6",
+      "battery-7",
+      "battery-8",
+      "battery-9",
+      "battery-charge",
+      "battery-checkmark",
+      "battery-saver",
+      "battery-warning"
+    ]
+  },
+  {
+    "name": "beach",
+    "files": [
+      "beach"
+    ]
+  },
+  {
+    "name": "beaker",
+    "files": [
+      "beaker-add",
+      "beaker-dismiss",
+      "beaker-edit",
+      "beaker-empty",
+      "beaker-off",
+      "beaker-settings",
+      "beaker"
+    ]
+  },
+  {
+    "name": "bed",
+    "files": [
+      "bed"
+    ]
+  },
+  {
+    "name": "bench",
+    "files": [
+      "bench"
+    ]
+  },
+  {
+    "name": "bezier",
+    "files": [
+      "bezier-curve-square"
+    ]
+  },
+  {
+    "name": "bin",
+    "files": [
+      "bin-full",
+      "bin-recycle-full",
+      "bin-recycle"
+    ]
+  },
+  {
+    "name": "binder",
+    "files": [
+      "binder-triangle"
+    ]
+  },
+  {
+    "name": "bluetooth",
+    "files": [
+      "bluetooth-connected",
+      "bluetooth-disabled",
+      "bluetooth-searching",
+      "bluetooth"
+    ]
+  },
+  {
+    "name": "blur",
+    "files": [
+      "blur"
+    ]
+  },
+  {
+    "name": "board",
+    "files": [
+      "board-games",
+      "board-heart",
+      "board-split",
+      "board"
+    ]
+  },
+  {
+    "name": "book-open",
+    "files": [
+      "book-open-globe",
+      "book-open-lightbulb",
+      "book-open-microphone",
+      "book-open"
+    ]
+  },
+  {
+    "name": "book-extras-1",
+    "files": [
+      "book-add",
+      "book-arrow-clockwise",
+      "book-clock",
+      "book-coins",
+      "book-compass",
+      "book-contacts",
+      "book-database",
+      "book-default",
+      "book-dismiss",
+      "book-exclamation-mark"
+    ]
+  },
+  {
+    "name": "book-extras-2",
+    "files": [
+      "book-globe",
+      "book-information",
+      "book-letter",
+      "book-number",
+      "book-pulse",
+      "book-question-mark",
+      "book-search",
+      "book-star",
+      "book-template",
+      "book-theta"
+    ]
+  },
+  {
+    "name": "book-extras-3",
+    "files": [
+      "book-toolbox",
+      "book"
+    ]
+  },
+  {
+    "name": "bookmark",
+    "files": [
+      "bookmark-add",
+      "bookmark-multiple",
+      "bookmark-off",
+      "bookmark-search",
+      "bookmark"
+    ]
+  },
+  {
+    "name": "border",
+    "files": [
+      "border-all",
+      "border-bottom-double",
+      "border-bottom-thick",
+      "border-bottom",
+      "border-inside",
+      "border-left-right",
+      "border-left",
+      "border-none",
+      "border-outside-thick",
+      "border-outside",
+      "border-right",
+      "border-top-bottom-double",
+      "border-top-bottom-thick",
+      "border-top-bottom",
+      "border-top"
+    ]
+  },
+  {
+    "name": "bot",
+    "files": [
+      "bot-add",
+      "bot-sparkle",
+      "bot"
+    ]
+  },
+  {
+    "name": "bow",
+    "files": [
+      "bow-tie"
+    ]
+  },
+  {
+    "name": "bowl",
+    "files": [
+      "bowl-chopsticks",
+      "bowl-salad"
+    ]
+  },
+  {
+    "name": "box",
+    "files": [
+      "box-arrow-left",
+      "box-arrow-up",
+      "box-checkmark",
+      "box-dismiss",
+      "box-edit",
+      "box-multiple-arrow-left",
+      "box-multiple-arrow-right",
+      "box-multiple-checkmark",
+      "box-multiple-search",
+      "box-multiple",
+      "box-search",
+      "box-toolbox",
+      "box"
+    ]
+  },
+  {
+    "name": "braces",
+    "files": [
+      "braces-checkmark",
+      "braces-dismiss",
+      "braces-variable",
+      "braces"
+    ]
+  },
+  {
+    "name": "brain",
+    "files": [
+      "brain-circuit",
+      "brain-sparkle",
+      "brain"
+    ]
+  },
+  {
+    "name": "branch",
+    "files": [
+      "branch-compare",
+      "branch-fork-hint",
+      "branch-fork-link",
+      "branch-fork",
+      "branch-request-closed",
+      "branch-request-draft",
+      "branch-request",
+      "branch"
+    ]
+  },
+  {
+    "name": "breakout",
+    "files": [
+      "breakout-room"
+    ]
+  },
+  {
+    "name": "briefcase",
+    "files": [
+      "briefcase-medical",
+      "briefcase-off",
+      "briefcase-person",
+      "briefcase-search",
+      "briefcase"
+    ]
+  },
+  {
+    "name": "brightness",
+    "files": [
+      "brightness-high",
+      "brightness-low"
+    ]
+  },
+  {
+    "name": "broad",
+    "files": [
+      "broad-activity-feed"
+    ]
+  },
+  {
+    "name": "broom",
+    "files": [
+      "broom-sparkle",
+      "broom"
+    ]
+  },
+  {
+    "name": "bubble",
+    "files": [
+      "bubble-multiple"
+    ]
+  },
+  {
+    "name": "bug",
+    "files": [
+      "bug-arrow-counterclockwise",
+      "bug-prohibited",
+      "bug"
+    ]
+  },
+  {
+    "name": "building-bank",
+    "files": [
+      "building-bank-link",
+      "building-bank-toolbox",
+      "building-bank"
+    ]
+  },
+  {
+    "name": "building-retail",
+    "files": [
+      "building-retail-money",
+      "building-retail-more",
+      "building-retail-shield",
+      "building-retail-toolbox",
+      "building-retail"
+    ]
+  },
+  {
+    "name": "building-extras-1",
+    "files": [
+      "building-checkmark",
+      "building-cloud",
+      "building-desktop",
+      "building-factory",
+      "building-government-search",
+      "building-government",
+      "building-home",
+      "building-lighthouse",
+      "building-mosque",
+      "building-multiple"
+    ]
+  },
+  {
+    "name": "building-extras-2",
+    "files": [
+      "building-people",
+      "building-shop",
+      "building-skyscraper",
+      "building-swap",
+      "building-townhouse",
+      "building"
+    ]
+  },
+  {
+    "name": "button",
+    "files": [
+      "button"
+    ]
+  },
+  {
+    "name": "calculator",
+    "files": [
+      "calculator-arrow-clockwise",
+      "calculator-multiple",
+      "calculator"
+    ]
+  },
+  {
+    "name": "calendar-arrow",
+    "files": [
+      "calendar-arrow-counterclockwise",
+      "calendar-arrow-down",
+      "calendar-arrow-repeat-all",
+      "calendar-arrow-right"
+    ]
+  },
+  {
+    "name": "calendar-extras-1",
+    "files": [
+      "calendar-3-day",
+      "calendar-add",
+      "calendar-agenda",
+      "calendar-assistant",
+      "calendar-cancel",
+      "calendar-chat",
+      "calendar-checkmark",
+      "calendar-clock",
+      "calendar-data-bar",
+      "calendar-date"
+    ]
+  },
+  {
+    "name": "calendar-extras-2",
+    "files": [
+      "calendar-day",
+      "calendar-edit",
+      "calendar-empty",
+      "calendar-error",
+      "calendar-eye",
+      "calendar-info",
+      "calendar-link",
+      "calendar-lock",
+      "calendar-mail",
+      "calendar-mention"
+    ]
+  },
+  {
+    "name": "calendar-extras-3",
+    "files": [
+      "calendar-month",
+      "calendar-multiple",
+      "calendar-note",
+      "calendar-pattern",
+      "calendar-person",
+      "calendar-phone",
+      "calendar-play",
+      "calendar-question-mark",
+      "calendar-record",
+      "calendar-reply"
+    ]
+  },
+  {
+    "name": "calendar-extras-4",
+    "files": [
+      "calendar-search",
+      "calendar-settings",
+      "calendar-shield",
+      "calendar-sparkle",
+      "calendar-star",
+      "calendar-sync",
+      "calendar-template",
+      "calendar-today",
+      "calendar-toolbox",
+      "calendar-video"
+    ]
+  },
+  {
+    "name": "calendar-extras-5",
+    "files": [
+      "calendar-week-numbers",
+      "calendar-week-start",
+      "calendar-work-week",
+      "calendar"
+    ]
+  },
+  {
+    "name": "call-extras-1",
+    "files": [
+      "call-add",
+      "call-checkmark",
+      "call-connecting",
+      "call-dismiss",
+      "call-end",
+      "call-exclamation",
+      "call-forward",
+      "call-inbound",
+      "call-missed",
+      "call-outbound"
+    ]
+  },
+  {
+    "name": "call-extras-2",
+    "files": [
+      "call-park",
+      "call-pause",
+      "call-prohibited",
+      "call-rectangle-landscape",
+      "call-square",
+      "call-transfer",
+      "call-warning",
+      "call"
+    ]
+  },
+  {
+    "name": "calligraphy",
+    "files": [
+      "calligraphy-pen-checkmark",
+      "calligraphy-pen-error",
+      "calligraphy-pen-question-mark",
+      "calligraphy-pen"
+    ]
+  },
+  {
+    "name": "camera",
+    "files": [
+      "camera-add",
+      "camera-arrow-up",
+      "camera-dome",
+      "camera-edit",
+      "camera-off",
+      "camera-sparkles",
+      "camera-switch",
+      "camera"
+    ]
+  },
+  {
+    "name": "card",
+    "files": [
+      "card-ui-portrait-flip",
+      "card-ui"
+    ]
+  },
+  {
+    "name": "caret",
+    "files": [
+      "caret-down-right",
+      "caret-down",
+      "caret-left",
+      "caret-right",
+      "caret-up"
+    ]
+  },
+  {
+    "name": "cart",
+    "files": [
+      "cart"
+    ]
+  },
+  {
+    "name": "cast",
+    "files": [
+      "cast-multiple",
+      "cast"
+    ]
+  },
+  {
+    "name": "catch",
+    "files": [
+      "catch-up"
+    ]
+  },
+  {
+    "name": "cd",
+    "files": [
+      "cd"
+    ]
+  },
+  {
+    "name": "cellular",
+    "files": [
+      "cellular-3g",
+      "cellular-4g",
+      "cellular-5g",
+      "cellular-data-1",
+      "cellular-data-2",
+      "cellular-data-3",
+      "cellular-data-4",
+      "cellular-data-5",
+      "cellular-off",
+      "cellular-warning"
+    ]
+  },
+  {
+    "name": "center",
+    "files": [
+      "center-horizontal",
+      "center-vertical"
+    ]
+  },
+  {
+    "name": "certificate",
+    "files": [
+      "certificate"
+    ]
+  },
+  {
+    "name": "channel",
+    "files": [
+      "channel-add",
+      "channel-alert",
+      "channel-arrow-left",
+      "channel-dismiss",
+      "channel-share",
+      "channel-subtract",
+      "channel"
+    ]
+  },
+  {
+    "name": "chart",
+    "files": [
+      "chart-multiple",
+      "chart-person"
+    ]
+  },
+  {
+    "name": "chat-arrow",
+    "files": [
+      "chat-arrow-back-down",
+      "chat-arrow-back",
+      "chat-arrow-double-back"
+    ]
+  },
+  {
+    "name": "chat-multiple",
+    "files": [
+      "chat-multiple-checkmark",
+      "chat-multiple-heart",
+      "chat-multiple-minus",
+      "chat-multiple"
+    ]
+  },
+  {
+    "name": "chat-extras-1",
+    "files": [
+      "chat-add",
+      "chat-bubbles-question",
+      "chat-cursor",
+      "chat-dismiss",
+      "chat-empty",
+      "chat-help",
+      "chat-history",
+      "chat-lock",
+      "chat-mail",
+      "chat-off"
+    ]
+  },
+  {
+    "name": "chat-extras-2",
+    "files": [
+      "chat-settings",
+      "chat-sparkle",
+      "chat-video",
+      "chat-warning",
+      "chat"
+    ]
+  },
+  {
+    "name": "check",
+    "files": [
+      "check"
+    ]
+  },
+  {
+    "name": "checkbox",
+    "files": [
+      "checkbox-1",
+      "checkbox-2",
+      "checkbox-arrow-right",
+      "checkbox-checked-sync",
+      "checkbox-checked",
+      "checkbox-indeterminate",
+      "checkbox-person",
+      "checkbox-unchecked",
+      "checkbox-warning"
+    ]
+  },
+  {
+    "name": "checkmark",
+    "files": [
+      "checkmark-circle-square",
+      "checkmark-circle-warning",
+      "checkmark-circle",
+      "checkmark-lock",
+      "checkmark-note",
+      "checkmark-square",
+      "checkmark-starburst",
+      "checkmark-underline-circle",
+      "checkmark"
+    ]
+  },
+  {
+    "name": "chess",
+    "files": [
+      "chess"
+    ]
+  },
+  {
+    "name": "chevron",
+    "files": [
+      "chevron-circle-down",
+      "chevron-circle-left",
+      "chevron-circle-right",
+      "chevron-circle-up",
+      "chevron-double-down",
+      "chevron-double-left",
+      "chevron-double-right",
+      "chevron-double-up",
+      "chevron-down-up",
+      "chevron-down",
+      "chevron-left",
+      "chevron-right",
+      "chevron-up-down",
+      "chevron-up"
+    ]
+  },
+  {
+    "name": "circle-hint",
+    "files": [
+      "circle-hint-cursor",
+      "circle-hint-dismiss",
+      "circle-hint-half-vertical",
+      "circle-hint"
+    ]
+  },
+  {
+    "name": "circle-multiple",
+    "files": [
+      "circle-multiple-concentric",
+      "circle-multiple-hint-checkmark",
+      "circle-multiple-subtract-checkmark"
+    ]
+  },
+  {
+    "name": "circle-extras-1",
+    "files": [
+      "circle-edit",
+      "circle-eraser",
+      "circle-half-fill",
+      "circle-highlight",
+      "circle-image",
+      "circle-line",
+      "circle-off",
+      "circle-shadow",
+      "circle-small",
+      "circle-sparkle"
+    ]
+  },
+  {
+    "name": "circle-extras-2",
+    "files": [
+      "circle"
+    ]
+  },
+  {
+    "name": "city",
+    "files": [
+      "city"
+    ]
+  },
+  {
+    "name": "class",
+    "files": [
+      "class"
+    ]
+  },
+  {
+    "name": "classification",
+    "files": [
+      "classification"
+    ]
+  },
+  {
+    "name": "clear",
+    "files": [
+      "clear-formatting"
+    ]
+  },
+  {
+    "name": "clipboard-task",
+    "files": [
+      "clipboard-task-add",
+      "clipboard-task-list",
+      "clipboard-task"
+    ]
+  },
+  {
+    "name": "clipboard-extras-1",
+    "files": [
+      "clipboard-3-day",
+      "clipboard-arrow-right",
+      "clipboard-brush",
+      "clipboard-bullet-list",
+      "clipboard-checkmark",
+      "clipboard-clock",
+      "clipboard-code",
+      "clipboard-data-bar",
+      "clipboard-day",
+      "clipboard-edit"
+    ]
+  },
+  {
+    "name": "clipboard-extras-2",
+    "files": [
+      "clipboard-error",
+      "clipboard-heart",
+      "clipboard-image",
+      "clipboard-letter",
+      "clipboard-link",
+      "clipboard-math-formula",
+      "clipboard-month",
+      "clipboard-more",
+      "clipboard-multiple",
+      "clipboard-note"
+    ]
+  },
+  {
+    "name": "clipboard-extras-3",
+    "files": [
+      "clipboard-number-123",
+      "clipboard-paste",
+      "clipboard-pulse",
+      "clipboard-search",
+      "clipboard-settings",
+      "clipboard-text-edit",
+      "clipboard-text",
+      "clipboard"
+    ]
+  },
+  {
+    "name": "clock",
+    "files": [
+      "clock-alarm",
+      "clock-arrow-download",
+      "clock-bill",
+      "clock-dismiss",
+      "clock-lock",
+      "clock-pause",
+      "clock-sparkle",
+      "clock-toolbox",
+      "clock"
+    ]
+  },
+  {
+    "name": "closed",
+    "files": [
+      "closed-caption-off",
+      "closed-caption"
+    ]
+  },
+  {
+    "name": "clothes",
+    "files": [
+      "clothes-hanger"
+    ]
+  },
+  {
+    "name": "cloud-arrow",
+    "files": [
+      "cloud-arrow-down",
+      "cloud-arrow-right",
+      "cloud-arrow-up"
+    ]
+  },
+  {
+    "name": "cloud-extras-1",
+    "files": [
+      "cloud-add",
+      "cloud-archive",
+      "cloud-beaker",
+      "cloud-bidirectional",
+      "cloud-checkmark",
+      "cloud-cube",
+      "cloud-database",
+      "cloud-desktop",
+      "cloud-dismiss",
+      "cloud-edit"
+    ]
+  },
+  {
+    "name": "cloud-extras-2",
+    "files": [
+      "cloud-error",
+      "cloud-flow",
+      "cloud-link",
+      "cloud-off",
+      "cloud-swap",
+      "cloud-sync",
+      "cloud-words",
+      "cloud"
+    ]
+  },
+  {
+    "name": "clover",
+    "files": [
+      "clover"
+    ]
+  },
+  {
+    "name": "code-text",
+    "files": [
+      "code-text-edit",
+      "code-text-off",
+      "code-text"
+    ]
+  },
+  {
+    "name": "code-extras-1",
+    "files": [
+      "code-block-edit",
+      "code-block",
+      "code-circle",
+      "code-cs-rectangle",
+      "code-cs",
+      "code-fs-rectangle",
+      "code-fs",
+      "code-js-rectangle",
+      "code-js",
+      "code-py-rectangle"
+    ]
+  },
+  {
+    "name": "code-extras-2",
+    "files": [
+      "code-py",
+      "code-rb-rectangle",
+      "code-rb",
+      "code-ts-rectangle",
+      "code-ts",
+      "code-vb-rectangle",
+      "code-vb",
+      "code"
+    ]
+  },
+  {
+    "name": "coin",
+    "files": [
+      "coin-multiple",
+      "coin-stack"
+    ]
+  },
+  {
+    "name": "collections",
+    "files": [
+      "collections-add",
+      "collections-empty",
+      "collections"
+    ]
+  },
+  {
+    "name": "color",
+    "files": [
+      "color-background-accent",
+      "color-background",
+      "color-fill-accent",
+      "color-fill",
+      "color-line-accent",
+      "color-line",
+      "color"
+    ]
+  },
+  {
+    "name": "column",
+    "files": [
+      "column-arrow-right",
+      "column-double-compare",
+      "column-edit",
+      "column-single-compare",
+      "column-single",
+      "column-triple-edit",
+      "column-triple",
+      "column"
+    ]
+  },
+  {
+    "name": "comma",
+    "files": [
+      "comma"
+    ]
+  },
+  {
+    "name": "comment-multiple",
+    "files": [
+      "comment-multiple-checkmark",
+      "comment-multiple-link",
+      "comment-multiple-mention",
+      "comment-multiple"
+    ]
+  },
+  {
+    "name": "comment-extras-1",
+    "files": [
+      "comment-add",
+      "comment-arrow-left",
+      "comment-arrow-right",
+      "comment-badge",
+      "comment-checkmark",
+      "comment-dismiss",
+      "comment-edit",
+      "comment-error",
+      "comment-lightning",
+      "comment-link"
+    ]
+  },
+  {
+    "name": "comment-extras-2",
+    "files": [
+      "comment-mention",
+      "comment-note",
+      "comment-off",
+      "comment-quote",
+      "comment-text",
+      "comment"
+    ]
+  },
+  {
+    "name": "communication",
+    "files": [
+      "communication-person",
+      "communication-shield",
+      "communication"
+    ]
+  },
+  {
+    "name": "compass",
+    "files": [
+      "compass-northwest"
+    ]
+  },
+  {
+    "name": "component",
+    "files": [
+      "component-2-double-tap-swipe-down",
+      "component-2-double-tap-swipe-up"
+    ]
+  },
+  {
+    "name": "compose",
+    "files": [
+      "compose"
+    ]
+  },
+  {
+    "name": "cone",
+    "files": [
+      "cone"
+    ]
+  },
+  {
+    "name": "conference",
+    "files": [
+      "conference-room"
+    ]
+  },
+  {
+    "name": "connected",
+    "files": [
+      "connected"
+    ]
+  },
+  {
+    "name": "connector",
+    "files": [
+      "connector"
+    ]
+  },
+  {
+    "name": "contact",
+    "files": [
+      "contact-card-group",
+      "contact-card-link",
+      "contact-card-ribbon",
+      "contact-card"
+    ]
+  },
+  {
+    "name": "content",
+    "files": [
+      "content-settings",
+      "content-view-gallery-lightning",
+      "content-view-gallery",
+      "content-view"
+    ]
+  },
+  {
+    "name": "contract",
+    "files": [
+      "contract-down-left",
+      "contract-up-right"
+    ]
+  },
+  {
+    "name": "control",
+    "files": [
+      "control-button"
+    ]
+  },
+  {
+    "name": "convert",
+    "files": [
+      "convert-range"
+    ]
+  },
+  {
+    "name": "cookies",
+    "files": [
+      "cookies"
+    ]
+  },
+  {
+    "name": "copy",
+    "files": [
+      "copy-add",
+      "copy-arrow-right",
+      "copy-select",
+      "copy"
+    ]
+  },
+  {
+    "name": "couch",
+    "files": [
+      "couch"
+    ]
+  },
+  {
+    "name": "credit",
+    "files": [
+      "credit-card-clock",
+      "credit-card-person",
+      "credit-card-toolbox"
+    ]
+  },
+  {
+    "name": "crop",
+    "files": [
+      "crop-arrow-rotate",
+      "crop-interim-off",
+      "crop-interim",
+      "crop-sparkle",
+      "crop"
+    ]
+  },
+  {
+    "name": "crown",
+    "files": [
+      "crown-subtract",
+      "crown"
+    ]
+  },
+  {
+    "name": "cube",
+    "files": [
+      "cube-add",
+      "cube-arrow-curve-down",
+      "cube-checkmark",
+      "cube-link",
+      "cube-multiple",
+      "cube-quick",
+      "cube-rotate",
+      "cube-sync",
+      "cube-tree",
+      "cube"
+    ]
+  },
+  {
+    "name": "currency",
+    "files": [
+      "currency-dollar-euro",
+      "currency-dollar-rupee"
+    ]
+  },
+  {
+    "name": "cursor",
+    "files": [
+      "cursor-click",
+      "cursor-hover-off",
+      "cursor-hover",
+      "cursor-prohibited",
+      "cursor"
+    ]
+  },
+  {
+    "name": "cut",
+    "files": [
+      "cut"
+    ]
+  },
+  {
+    "name": "dark",
+    "files": [
+      "dark-theme"
+    ]
+  },
+  {
+    "name": "data-bar",
+    "files": [
+      "data-bar-horizontal-descending",
+      "data-bar-horizontal",
+      "data-bar-vertical-add",
+      "data-bar-vertical-arrow-down",
+      "data-bar-vertical-ascending",
+      "data-bar-vertical-edit",
+      "data-bar-vertical-star",
+      "data-bar-vertical"
+    ]
+  },
+  {
+    "name": "data-usage",
+    "files": [
+      "data-usage-checkmark",
+      "data-usage-edit",
+      "data-usage-settings",
+      "data-usage-sparkle",
+      "data-usage-toolbox",
+      "data-usage"
+    ]
+  },
+  {
+    "name": "data-extras-1",
+    "files": [
+      "data-area",
+      "data-funnel",
+      "data-histogram",
+      "data-line",
+      "data-pie",
+      "data-scatter",
+      "data-sunburst",
+      "data-treemap",
+      "data-trending",
+      "data-waterfall"
+    ]
+  },
+  {
+    "name": "data-extras-2",
+    "files": [
+      "data-whisker"
+    ]
+  },
+  {
+    "name": "database",
+    "files": [
+      "database-arrow-down",
+      "database-arrow-right",
+      "database-arrow-up",
+      "database-checkmark",
+      "database-lightning",
+      "database-link",
+      "database-multiple",
+      "database-person",
+      "database-plug-connected",
+      "database-search",
+      "database-stack",
+      "database-switch",
+      "database-warning",
+      "database-window",
+      "database"
+    ]
+  },
+  {
+    "name": "decimal",
+    "files": [
+      "decimal-arrow-left",
+      "decimal-arrow-right"
+    ]
+  },
+  {
+    "name": "delete",
+    "files": [
+      "delete-arrow-back",
+      "delete-dismiss",
+      "delete-lines",
+      "delete-off",
+      "delete"
+    ]
+  },
+  {
+    "name": "dentist",
+    "files": [
+      "dentist"
+    ]
+  },
+  {
+    "name": "design",
+    "files": [
+      "design-ideas"
+    ]
+  },
+  {
+    "name": "desk",
+    "files": [
+      "desk-multiple",
+      "desk-sparkle",
+      "desk"
+    ]
+  },
+  {
+    "name": "desktop-arrow",
+    "files": [
+      "desktop-arrow-down-off",
+      "desktop-arrow-down",
+      "desktop-arrow-right"
+    ]
+  },
+  {
+    "name": "desktop-extras-1",
+    "files": [
+      "desktop-checkmark",
+      "desktop-cursor",
+      "desktop-edit",
+      "desktop-flow",
+      "desktop-keyboard",
+      "desktop-mac",
+      "desktop-off",
+      "desktop-pulse",
+      "desktop-signal",
+      "desktop-speaker-off"
+    ]
+  },
+  {
+    "name": "desktop-extras-2",
+    "files": [
+      "desktop-speaker",
+      "desktop-sync",
+      "desktop-toolbox",
+      "desktop-tower",
+      "desktop"
+    ]
+  },
+  {
+    "name": "developer",
+    "files": [
+      "developer-board-lightning-toolbox",
+      "developer-board-lightning",
+      "developer-board-search",
+      "developer-board"
+    ]
+  },
+  {
+    "name": "device",
+    "files": [
+      "device-eq",
+      "device-meeting-room-remote",
+      "device-meeting-room"
+    ]
+  },
+  {
+    "name": "diagram",
+    "files": [
+      "diagram"
+    ]
+  },
+  {
+    "name": "dialpad",
+    "files": [
+      "dialpad-off",
+      "dialpad-question-mark",
+      "dialpad"
+    ]
+  },
+  {
+    "name": "diamond",
+    "files": [
+      "diamond-dismiss",
+      "diamond"
+    ]
+  },
+  {
+    "name": "directions",
+    "files": [
+      "directions"
+    ]
+  },
+  {
+    "name": "dishwasher",
+    "files": [
+      "dishwasher"
+    ]
+  },
+  {
+    "name": "dismiss",
+    "files": [
+      "dismiss-circle",
+      "dismiss-square-multiple",
+      "dismiss-square",
+      "dismiss"
+    ]
+  },
+  {
+    "name": "diversity",
+    "files": [
+      "diversity"
+    ]
+  },
+  {
+    "name": "divider",
+    "files": [
+      "divider-short",
+      "divider-tall"
+    ]
+  },
+  {
+    "name": "dock",
+    "files": [
+      "dock-row",
+      "dock"
+    ]
+  },
+  {
+    "name": "doctor",
+    "files": [
+      "doctor"
+    ]
+  },
+  {
+    "name": "document-arrow",
+    "files": [
+      "document-arrow-down",
+      "document-arrow-left",
+      "document-arrow-right",
+      "document-arrow-up"
+    ]
+  },
+  {
+    "name": "document-bullet",
+    "files": [
+      "document-bullet-list-arrow-left",
+      "document-bullet-list-clock",
+      "document-bullet-list-cube",
+      "document-bullet-list-multiple",
+      "document-bullet-list-off",
+      "document-bullet-list"
+    ]
+  },
+  {
+    "name": "document-data",
+    "files": [
+      "document-data-link",
+      "document-data-lock",
+      "document-data"
+    ]
+  },
+  {
+    "name": "document-header",
+    "files": [
+      "document-header-arrow-down",
+      "document-header-dismiss",
+      "document-header-footer",
+      "document-header"
+    ]
+  },
+  {
+    "name": "document-landscape",
+    "files": [
+      "document-landscape-data",
+      "document-landscape-split-hint",
+      "document-landscape-split",
+      "document-landscape"
+    ]
+  },
+  {
+    "name": "document-multiple",
+    "files": [
+      "document-multiple-percent",
+      "document-multiple-prohibited",
+      "document-multiple-sync",
+      "document-multiple"
+    ]
+  },
+  {
+    "name": "document-one",
+    "files": [
+      "document-one-page-add",
+      "document-one-page-beaker",
+      "document-one-page-columns",
+      "document-one-page-link",
+      "document-one-page-multiple-sparkle",
+      "document-one-page-multiple",
+      "document-one-page-sparkle",
+      "document-one-page"
+    ]
+  },
+  {
+    "name": "document-page",
+    "files": [
+      "document-page-bottom-center",
+      "document-page-bottom-left",
+      "document-page-bottom-right",
+      "document-page-break",
+      "document-page-number",
+      "document-page-top-center",
+      "document-page-top-left",
+      "document-page-top-right"
+    ]
+  },
+  {
+    "name": "document-queue",
+    "files": [
+      "document-queue-add",
+      "document-queue-multiple",
+      "document-queue"
+    ]
+  },
+  {
+    "name": "document-table",
+    "files": [
+      "document-table-arrow-right",
+      "document-table-checkmark",
+      "document-table-cube",
+      "document-table-search",
+      "document-table-truck",
+      "document-table"
+    ]
+  },
+  {
+    "name": "document-text",
+    "files": [
+      "document-text-clock",
+      "document-text-extract",
+      "document-text-link",
+      "document-text-toolbox",
+      "document-text"
+    ]
+  },
+  {
+    "name": "document-extras-1",
+    "files": [
+      "document-100",
+      "document-add",
+      "document-border-print",
+      "document-border",
+      "document-briefcase",
+      "document-catch-up",
+      "document-checkmark",
+      "document-chevron-double",
+      "document-contract",
+      "document-copy"
+    ]
+  },
+  {
+    "name": "document-extras-2",
+    "files": [
+      "document-cs",
+      "document-css",
+      "document-cube",
+      "document-database",
+      "document-dismiss",
+      "document-edit",
+      "document-endnote",
+      "document-error",
+      "document-fit",
+      "document-flowchart"
+    ]
+  },
+  {
+    "name": "document-extras-3",
+    "files": [
+      "document-folder",
+      "document-footer-dismiss",
+      "document-footer",
+      "document-fs",
+      "document-globe",
+      "document-heart-pulse",
+      "document-heart",
+      "document-image",
+      "document-java",
+      "document-javascript"
+    ]
+  },
+  {
+    "name": "document-extras-4",
+    "files": [
+      "document-js",
+      "document-key",
+      "document-lightning",
+      "document-link",
+      "document-lock",
+      "document-margins",
+      "document-mention",
+      "document-number-1",
+      "document-pdf",
+      "document-percent"
+    ]
+  },
+  {
+    "name": "document-extras-5",
+    "files": [
+      "document-person",
+      "document-pill",
+      "document-print",
+      "document-prohibited",
+      "document-py",
+      "document-question-mark",
+      "document-rb",
+      "document-ribbon",
+      "document-sass",
+      "document-save"
+    ]
+  },
+  {
+    "name": "document-extras-6",
+    "files": [
+      "document-search",
+      "document-settings",
+      "document-signature",
+      "document-sparkle",
+      "document-split-hint-off",
+      "document-split-hint",
+      "document-sync",
+      "document-target",
+      "document-toolbox",
+      "document-ts"
+    ]
+  },
+  {
+    "name": "document-extras-7",
+    "files": [
+      "document-vb",
+      "document-width",
+      "document-yml",
+      "document"
+    ]
+  },
+  {
+    "name": "door",
+    "files": [
+      "door-arrow-left",
+      "door-arrow-right",
+      "door-tag",
+      "door"
+    ]
+  },
+  {
+    "name": "double",
+    "files": [
+      "double-swipe-down",
+      "double-swipe-up",
+      "double-tap-swipe-down",
+      "double-tap-swipe-up"
+    ]
+  },
+  {
+    "name": "drafts",
+    "files": [
+      "drafts"
+    ]
+  },
+  {
+    "name": "drag",
+    "files": [
+      "drag"
+    ]
+  },
+  {
+    "name": "draw",
+    "files": [
+      "draw-image",
+      "draw-shape",
+      "draw-text"
+    ]
+  },
+  {
+    "name": "drawer",
+    "files": [
+      "drawer-add",
+      "drawer-arrow-download",
+      "drawer-dismiss",
+      "drawer-play",
+      "drawer-subtract",
+      "drawer"
+    ]
+  },
+  {
+    "name": "drink",
+    "files": [
+      "drink-beer",
+      "drink-bottle-off",
+      "drink-bottle",
+      "drink-coffee",
+      "drink-margarita",
+      "drink-to-go",
+      "drink-wine"
+    ]
+  },
+  {
+    "name": "drive",
+    "files": [
+      "drive-train"
+    ]
+  },
+  {
+    "name": "drop",
+    "files": [
+      "drop"
+    ]
+  },
+  {
+    "name": "dual-screen",
+    "files": [
+      "dual-screen-add",
+      "dual-screen-arrow-right",
+      "dual-screen-arrow-up",
+      "dual-screen-clock",
+      "dual-screen-closed-alert",
+      "dual-screen-desktop",
+      "dual-screen-dismiss",
+      "dual-screen-group",
+      "dual-screen-header",
+      "dual-screen-lock",
+      "dual-screen-mirror",
+      "dual-screen-pagination",
+      "dual-screen-settings",
+      "dual-screen-span",
+      "dual-screen-speaker",
+      "dual-screen-status-bar",
+      "dual-screen-tablet",
+      "dual-screen-update",
+      "dual-screen-vertical-scroll",
+      "dual-screen-vibrate",
+      "dual-screen"
+    ]
+  },
+  {
+    "name": "dumbbell",
+    "files": [
+      "dumbbell"
+    ]
+  },
+  {
+    "name": "dust",
+    "files": [
+      "dust"
+    ]
+  },
+  {
+    "name": "earth",
+    "files": [
+      "earth-leaf",
+      "earth"
+    ]
+  },
+  {
+    "name": "edit",
+    "files": [
+      "edit-arrow-back",
+      "edit-line-horizontal-3",
+      "edit-lock",
+      "edit-off",
+      "edit-person",
+      "edit-prohibited",
+      "edit-settings",
+      "edit"
+    ]
+  },
+  {
+    "name": "elevator",
+    "files": [
+      "elevator"
+    ]
+  },
+  {
+    "name": "emoji",
+    "files": [
+      "emoji-add",
+      "emoji-angry",
+      "emoji-edit",
+      "emoji-hand",
+      "emoji-hint",
+      "emoji-laugh",
+      "emoji-meh",
+      "emoji-meme",
+      "emoji-multiple",
+      "emoji-sad-slight",
+      "emoji-sad",
+      "emoji-smile-slight",
+      "emoji-sparkle",
+      "emoji-surprise",
+      "emoji"
+    ]
+  },
+  {
+    "name": "engine",
+    "files": [
+      "engine"
+    ]
+  },
+  {
+    "name": "equal",
+    "files": [
+      "equal-circle",
+      "equal-off"
+    ]
+  },
+  {
+    "name": "eraser",
+    "files": [
+      "eraser-medium",
+      "eraser-segment",
+      "eraser-small",
+      "eraser-tool",
+      "eraser"
+    ]
+  },
+  {
+    "name": "error",
+    "files": [
+      "error-circle-settings",
+      "error-circle"
+    ]
+  },
+  {
+    "name": "expand",
+    "files": [
+      "expand-up-left",
+      "expand-up-right"
+    ]
+  },
+  {
+    "name": "extended",
+    "files": [
+      "extended-dock"
+    ]
+  },
+  {
+    "name": "eye",
+    "files": [
+      "eye-lines",
+      "eye-off",
+      "eye-tracking-off",
+      "eye-tracking",
+      "eye"
+    ]
+  },
+  {
+    "name": "eyedropper",
+    "files": [
+      "eyedropper-off",
+      "eyedropper"
+    ]
+  },
+  {
+    "name": "f",
+    "files": [
+      "f-stop"
+    ]
+  },
+  {
+    "name": "fast",
+    "files": [
+      "fast-acceleration",
+      "fast-forward"
+    ]
+  },
+  {
+    "name": "fax",
+    "files": [
+      "fax"
+    ]
+  },
+  {
+    "name": "feed",
+    "files": [
+      "feed"
+    ]
+  },
+  {
+    "name": "filmstrip",
+    "files": [
+      "filmstrip-image",
+      "filmstrip-off",
+      "filmstrip-play",
+      "filmstrip-split",
+      "filmstrip"
+    ]
+  },
+  {
+    "name": "filter",
+    "files": [
+      "filter-add",
+      "filter-dismiss",
+      "filter-sync",
+      "filter"
+    ]
+  },
+  {
+    "name": "fingerprint",
+    "files": [
+      "fingerprint"
+    ]
+  },
+  {
+    "name": "fire",
+    "files": [
+      "fire"
+    ]
+  },
+  {
+    "name": "fireplace",
+    "files": [
+      "fireplace"
+    ]
+  },
+  {
+    "name": "fixed",
+    "files": [
+      "fixed-width"
+    ]
+  },
+  {
+    "name": "flag",
+    "files": [
+      "flag-checkered",
+      "flag-clock",
+      "flag-off",
+      "flag-pride-intersex-inclusive-progress",
+      "flag-pride-philadelphia",
+      "flag-pride-progress",
+      "flag-pride",
+      "flag"
+    ]
+  },
+  {
+    "name": "flash",
+    "files": [
+      "flash-add",
+      "flash-auto",
+      "flash-checkmark",
+      "flash-flow",
+      "flash-off",
+      "flash-play",
+      "flash-settings",
+      "flash-sparkle",
+      "flash"
+    ]
+  },
+  {
+    "name": "flashlight",
+    "files": [
+      "flashlight-off",
+      "flashlight"
+    ]
+  },
+  {
+    "name": "flip",
+    "files": [
+      "flip-horizontal",
+      "flip-vertical"
+    ]
+  },
+  {
+    "name": "flow",
+    "files": [
+      "flow-sparkle",
+      "flow"
+    ]
+  },
+  {
+    "name": "flowchart",
+    "files": [
+      "flowchart-circle",
+      "flowchart"
+    ]
+  },
+  {
+    "name": "fluent",
+    "files": [
+      "fluent"
+    ]
+  },
+  {
+    "name": "fluid",
+    "files": [
+      "fluid"
+    ]
+  },
+  {
+    "name": "folder-arrow",
+    "files": [
+      "folder-arrow-left",
+      "folder-arrow-right",
+      "folder-arrow-up"
+    ]
+  },
+  {
+    "name": "folder-open",
+    "files": [
+      "folder-open-down",
+      "folder-open-vertical",
+      "folder-open"
+    ]
+  },
+  {
+    "name": "folder-extras-1",
+    "files": [
+      "folder-add",
+      "folder-briefcase",
+      "folder-document",
+      "folder-globe",
+      "folder-lightning",
+      "folder-link",
+      "folder-list",
+      "folder-mail",
+      "folder-multiple",
+      "folder-people"
+    ]
+  },
+  {
+    "name": "folder-extras-2",
+    "files": [
+      "folder-person",
+      "folder-prohibited",
+      "folder-search",
+      "folder-swap",
+      "folder-sync",
+      "folder-zip",
+      "folder"
+    ]
+  },
+  {
+    "name": "font",
+    "files": [
+      "font-decrease",
+      "font-increase",
+      "font-space-tracking-in",
+      "font-space-tracking-out"
+    ]
+  },
+  {
+    "name": "food",
+    "files": [
+      "food-apple",
+      "food-cake",
+      "food-carrot",
+      "food-chicken-leg",
+      "food-egg",
+      "food-fish",
+      "food-grains",
+      "food-pizza",
+      "food-toast",
+      "food"
+    ]
+  },
+  {
+    "name": "form",
+    "files": [
+      "form-multiple",
+      "form-new",
+      "form-sparkle",
+      "form"
+    ]
+  },
+  {
+    "name": "fps",
+    "files": [
+      "fps-120",
+      "fps-240",
+      "fps-30",
+      "fps-60",
+      "fps-960"
+    ]
+  },
+  {
+    "name": "frame",
+    "files": [
+      "frame"
+    ]
+  },
+  {
+    "name": "full",
+    "files": [
+      "full-screen-maximize",
+      "full-screen-minimize"
+    ]
+  },
+  {
+    "name": "game",
+    "files": [
+      "game-chat"
+    ]
+  },
+  {
+    "name": "games",
+    "files": [
+      "games"
+    ]
+  },
+  {
+    "name": "gantt",
+    "files": [
+      "gantt-chart"
+    ]
+  },
+  {
+    "name": "gas",
+    "files": [
+      "gas-pump",
+      "gas"
+    ]
+  },
+  {
+    "name": "gather",
+    "files": [
+      "gather"
+    ]
+  },
+  {
+    "name": "gauge",
+    "files": [
+      "gauge-add",
+      "gauge"
+    ]
+  },
+  {
+    "name": "gavel",
+    "files": [
+      "gavel-prohibited",
+      "gavel"
+    ]
+  },
+  {
+    "name": "gesture",
+    "files": [
+      "gesture"
+    ]
+  },
+  {
+    "name": "gif",
+    "files": [
+      "gif"
+    ]
+  },
+  {
+    "name": "gift",
+    "files": [
+      "gift-card-add",
+      "gift-card-arrow-right",
+      "gift-card-money",
+      "gift-card-multiple",
+      "gift-card",
+      "gift-open",
+      "gift"
+    ]
+  },
+  {
+    "name": "glance",
+    "files": [
+      "glance-default",
+      "glance-horizontal-sparkle",
+      "glance-horizontal-sparkles",
+      "glance-horizontal",
+      "glance"
+    ]
+  },
+  {
+    "name": "glasses",
+    "files": [
+      "glasses-off",
+      "glasses"
+    ]
+  },
+  {
+    "name": "globe-extras-1",
+    "files": [
+      "globe-add",
+      "globe-arrow-forward",
+      "globe-arrow-up",
+      "globe-clock",
+      "globe-desktop",
+      "globe-error",
+      "globe-location",
+      "globe-off",
+      "globe-person",
+      "globe-prohibited"
+    ]
+  },
+  {
+    "name": "globe-extras-2",
+    "files": [
+      "globe-search",
+      "globe-shield",
+      "globe-star",
+      "globe-surface",
+      "globe-sync",
+      "globe-video",
+      "globe-warning",
+      "globe"
+    ]
+  },
+  {
+    "name": "grid",
+    "files": [
+      "grid-circles",
+      "grid-dots",
+      "grid-kanban",
+      "grid"
+    ]
+  },
+  {
+    "name": "group",
+    "files": [
+      "group-dismiss",
+      "group-list",
+      "group-return",
+      "group"
+    ]
+  },
+  {
+    "name": "guardian",
+    "files": [
+      "guardian"
+    ]
+  },
+  {
+    "name": "guest",
+    "files": [
+      "guest-add",
+      "guest"
+    ]
+  },
+  {
+    "name": "guitar",
+    "files": [
+      "guitar"
+    ]
+  },
+  {
+    "name": "hand",
+    "files": [
+      "hand-draw",
+      "hand-left-chat",
+      "hand-left",
+      "hand-multiple",
+      "hand-open-heart",
+      "hand-point",
+      "hand-right-off",
+      "hand-right",
+      "hand-wave"
+    ]
+  },
+  {
+    "name": "handshake",
+    "files": [
+      "handshake"
+    ]
+  },
+  {
+    "name": "haptic",
+    "files": [
+      "haptic-strong",
+      "haptic-weak"
+    ]
+  },
+  {
+    "name": "hard",
+    "files": [
+      "hard-drive-call",
+      "hard-drive"
+    ]
+  },
+  {
+    "name": "hat",
+    "files": [
+      "hat-graduation-add",
+      "hat-graduation-sparkle",
+      "hat-graduation"
+    ]
+  },
+  {
+    "name": "hd",
+    "files": [
+      "hd-off",
+      "hd"
+    ]
+  },
+  {
+    "name": "hdr",
+    "files": [
+      "hdr-off",
+      "hdr"
+    ]
+  },
+  {
+    "name": "headphones",
+    "files": [
+      "headphones-sound-wave",
+      "headphones"
+    ]
+  },
+  {
+    "name": "headset",
+    "files": [
+      "headset-add",
+      "headset-vr",
+      "headset"
+    ]
+  },
+  {
+    "name": "heart",
+    "files": [
+      "heart-broken",
+      "heart-circle-hint",
+      "heart-circle",
+      "heart-off",
+      "heart-pulse-checkmark",
+      "heart-pulse-error",
+      "heart-pulse-warning",
+      "heart-pulse",
+      "heart"
+    ]
+  },
+  {
+    "name": "hexagon",
+    "files": [
+      "hexagon-sparkle",
+      "hexagon-three",
+      "hexagon"
+    ]
+  },
+  {
+    "name": "highlight",
+    "files": [
+      "highlight-accent",
+      "highlight-link",
+      "highlight"
+    ]
+  },
+  {
+    "name": "highway",
+    "files": [
+      "highway"
+    ]
+  },
+  {
+    "name": "history",
+    "files": [
+      "history-dismiss",
+      "history"
+    ]
+  },
+  {
+    "name": "home",
+    "files": [
+      "home-add",
+      "home-checkmark",
+      "home-database",
+      "home-empty",
+      "home-garage",
+      "home-heart",
+      "home-more",
+      "home-person",
+      "home-split",
+      "home"
+    ]
+  },
+  {
+    "name": "hourglass",
+    "files": [
+      "hourglass-half",
+      "hourglass-one-quarter",
+      "hourglass-three-quarter",
+      "hourglass"
+    ]
+  },
+  {
+    "name": "icons",
+    "files": [
+      "icons"
+    ]
+  },
+  {
+    "name": "image-arrow",
+    "files": [
+      "image-arrow-back",
+      "image-arrow-counterclockwise",
+      "image-arrow-forward"
+    ]
+  },
+  {
+    "name": "image-extras-1",
+    "files": [
+      "image-add",
+      "image-alt-text",
+      "image-border",
+      "image-circle",
+      "image-copy",
+      "image-edit",
+      "image-globe",
+      "image-multiple-off",
+      "image-multiple",
+      "image-off"
+    ]
+  },
+  {
+    "name": "image-extras-2",
+    "files": [
+      "image-prohibited",
+      "image-reflection",
+      "image-search",
+      "image-shadow",
+      "image-sparkle",
+      "image-split",
+      "image-stack",
+      "image-table",
+      "image"
+    ]
+  },
+  {
+    "name": "immersive",
+    "files": [
+      "immersive-reader"
+    ]
+  },
+  {
+    "name": "important",
+    "files": [
+      "important"
+    ]
+  },
+  {
+    "name": "incognito",
+    "files": [
+      "incognito"
+    ]
+  },
+  {
+    "name": "info",
+    "files": [
+      "info-shield",
+      "info-sparkle",
+      "info"
+    ]
+  },
+  {
+    "name": "ink",
+    "files": [
+      "ink-stroke-arrow-down",
+      "ink-stroke-arrow-up-down",
+      "ink-stroke"
+    ]
+  },
+  {
+    "name": "inking",
+    "files": [
+      "inking-tool-accent",
+      "inking-tool"
+    ]
+  },
+  {
+    "name": "inprivate",
+    "files": [
+      "inprivate-account"
+    ]
+  },
+  {
+    "name": "insert",
+    "files": [
+      "insert"
+    ]
+  },
+  {
+    "name": "ios",
+    "files": [
+      "ios-arrow",
+      "ios-chevron-right"
+    ]
+  },
+  {
+    "name": "iot",
+    "files": [
+      "iot-alert",
+      "iot"
+    ]
+  },
+  {
+    "name": "javascript",
+    "files": [
+      "javascript"
+    ]
+  },
+  {
+    "name": "joystick",
+    "files": [
+      "joystick"
+    ]
+  },
+  {
+    "name": "key",
+    "files": [
+      "key-command",
+      "key-multiple",
+      "key-reset",
+      "key"
+    ]
+  },
+  {
+    "name": "keyboard",
+    "files": [
+      "keyboard-123",
+      "keyboard-dock",
+      "keyboard-layout-float",
+      "keyboard-layout-one-handed-left",
+      "keyboard-layout-resize",
+      "keyboard-layout-split",
+      "keyboard-mouse",
+      "keyboard-shift-uppercase",
+      "keyboard-shift",
+      "keyboard-tab",
+      "keyboard"
+    ]
+  },
+  {
+    "name": "kiosk",
+    "files": [
+      "kiosk"
+    ]
+  },
+  {
+    "name": "laptop",
+    "files": [
+      "laptop-briefcase",
+      "laptop-dismiss",
+      "laptop-multiple",
+      "laptop-person",
+      "laptop-settings",
+      "laptop-shield",
+      "laptop"
+    ]
+  },
+  {
+    "name": "laser",
+    "files": [
+      "laser-tool"
+    ]
+  },
+  {
+    "name": "lasso",
+    "files": [
+      "lasso"
+    ]
+  },
+  {
+    "name": "launcher",
+    "files": [
+      "launcher-settings"
+    ]
+  },
+  {
+    "name": "layer",
+    "files": [
+      "layer-diagonal-add",
+      "layer-diagonal-person",
+      "layer-diagonal-sparkle",
+      "layer-diagonal",
+      "layer"
+    ]
+  },
+  {
+    "name": "layout-cell",
+    "files": [
+      "layout-cell-four-focus-bottom-left",
+      "layout-cell-four-focus-bottom-right",
+      "layout-cell-four-focus-top-left",
+      "layout-cell-four-focus-top-right",
+      "layout-cell-four"
+    ]
+  },
+  {
+    "name": "layout-column",
+    "files": [
+      "layout-column-four-focus-center-left",
+      "layout-column-four-focus-center-right",
+      "layout-column-four-focus-left",
+      "layout-column-four-focus-right",
+      "layout-column-four",
+      "layout-column-one-third-left",
+      "layout-column-one-third-right-hint",
+      "layout-column-one-third-right",
+      "layout-column-three-focus-center",
+      "layout-column-three-focus-left",
+      "layout-column-three-focus-right",
+      "layout-column-three",
+      "layout-column-two-focus-left",
+      "layout-column-two-focus-right",
+      "layout-column-two-split-left-focus-bottom-left",
+      "layout-column-two-split-left-focus-right",
+      "layout-column-two-split-left-focus-top-left",
+      "layout-column-two-split-left",
+      "layout-column-two-split-right-focus-bottom-right",
+      "layout-column-two-split-right-focus-left",
+      "layout-column-two-split-right-focus-top-right",
+      "layout-column-two-split-right",
+      "layout-column-two"
+    ]
+  },
+  {
+    "name": "layout-row",
+    "files": [
+      "layout-row-four-focus-bottom",
+      "layout-row-four-focus-center-bottom",
+      "layout-row-four-focus-center-top",
+      "layout-row-four-focus-top",
+      "layout-row-four",
+      "layout-row-three-focus-bottom",
+      "layout-row-three-focus-center",
+      "layout-row-three-focus-top",
+      "layout-row-three",
+      "layout-row-two-focus-bottom",
+      "layout-row-two-focus-top-settings",
+      "layout-row-two-focus-top",
+      "layout-row-two-settings",
+      "layout-row-two-split-bottom-focus-bottom-left",
+      "layout-row-two-split-bottom-focus-bottom-right",
+      "layout-row-two-split-bottom-focus-top",
+      "layout-row-two-split-bottom",
+      "layout-row-two-split-top-focus-bottom",
+      "layout-row-two-split-top-focus-top-left",
+      "layout-row-two-split-top-focus-top-right",
+      "layout-row-two-split-top",
+      "layout-row-two"
+    ]
+  },
+  {
+    "name": "leaf",
+    "files": [
+      "leaf-one",
+      "leaf-three",
+      "leaf-two"
+    ]
+  },
+  {
+    "name": "learning",
+    "files": [
+      "learning-app"
+    ]
+  },
+  {
+    "name": "library",
+    "files": [
+      "library"
+    ]
+  },
+  {
+    "name": "lightbulb",
+    "files": [
+      "lightbulb-checkmark",
+      "lightbulb-circle",
+      "lightbulb-filament",
+      "lightbulb-person",
+      "lightbulb"
+    ]
+  },
+  {
+    "name": "likert",
+    "files": [
+      "likert"
+    ]
+  },
+  {
+    "name": "line-horizontal",
+    "files": [
+      "line-horizontal-1-dash-dot-dash",
+      "line-horizontal-1-dashes",
+      "line-horizontal-1-dot",
+      "line-horizontal-1",
+      "line-horizontal-2-dashes-solid",
+      "line-horizontal-3",
+      "line-horizontal-4-search",
+      "line-horizontal-4",
+      "line-horizontal-5-error",
+      "line-horizontal-5"
+    ]
+  },
+  {
+    "name": "line-extras-1",
+    "files": [
+      "line-dashes",
+      "line-flow-diagonal-up-right",
+      "line-style-sketch",
+      "line-style",
+      "line-thickness",
+      "line"
+    ]
+  },
+  {
+    "name": "link",
+    "files": [
+      "link-add",
+      "link-dismiss",
+      "link-edit",
+      "link-multiple",
+      "link-person",
+      "link-settings",
+      "link-square",
+      "link-toolbox",
+      "link"
+    ]
+  },
+  {
+    "name": "list",
+    "files": [
+      "list-bar-tree-offset",
+      "list-bar-tree",
+      "list-bar",
+      "list"
+    ]
+  },
+  {
+    "name": "live",
+    "files": [
+      "live-off",
+      "live"
+    ]
+  },
+  {
+    "name": "local",
+    "files": [
+      "local-language"
+    ]
+  },
+  {
+    "name": "location-add",
+    "files": [
+      "location-add-left",
+      "location-add-right",
+      "location-add-up",
+      "location-add"
+    ]
+  },
+  {
+    "name": "location-arrow",
+    "files": [
+      "location-arrow-left",
+      "location-arrow-right",
+      "location-arrow-up",
+      "location-arrow"
+    ]
+  },
+  {
+    "name": "location-extras-1",
+    "files": [
+      "location-checkmark",
+      "location-dismiss",
+      "location-live",
+      "location-off",
+      "location-ripple",
+      "location-settings",
+      "location-target-square",
+      "location"
+    ]
+  },
+  {
+    "name": "lock",
+    "files": [
+      "lock-closed-key",
+      "lock-closed-ribbon",
+      "lock-closed",
+      "lock-multiple",
+      "lock-open",
+      "lock-shield"
+    ]
+  },
+  {
+    "name": "lottery",
+    "files": [
+      "lottery"
+    ]
+  },
+  {
+    "name": "luggage",
+    "files": [
+      "luggage"
+    ]
+  },
+  {
+    "name": "mail-arrow",
+    "files": [
+      "mail-arrow-clockwise",
+      "mail-arrow-double-back",
+      "mail-arrow-down",
+      "mail-arrow-forward",
+      "mail-arrow-up"
+    ]
+  },
+  {
+    "name": "mail-inbox",
+    "files": [
+      "mail-inbox-add",
+      "mail-inbox-all",
+      "mail-inbox-arrow-down",
+      "mail-inbox-arrow-right",
+      "mail-inbox-arrow-up",
+      "mail-inbox-checkmark",
+      "mail-inbox-dismiss",
+      "mail-inbox-person",
+      "mail-inbox"
+    ]
+  },
+  {
+    "name": "mail-read",
+    "files": [
+      "mail-read-briefcase",
+      "mail-read-multiple",
+      "mail-read"
+    ]
+  },
+  {
+    "name": "mail-extras-1",
+    "files": [
+      "mail-add",
+      "mail-alert",
+      "mail-all-read",
+      "mail-all-unread",
+      "mail-attach",
+      "mail-briefcase",
+      "mail-checkmark",
+      "mail-clock",
+      "mail-copy",
+      "mail-data-bar"
+    ]
+  },
+  {
+    "name": "mail-extras-2",
+    "files": [
+      "mail-dismiss",
+      "mail-edit",
+      "mail-error",
+      "mail-fish-hook",
+      "mail-link",
+      "mail-list",
+      "mail-multiple",
+      "mail-off",
+      "mail-open-person",
+      "mail-pause"
+    ]
+  },
+  {
+    "name": "mail-extras-3",
+    "files": [
+      "mail-prohibited",
+      "mail-rewind",
+      "mail-settings",
+      "mail-shield",
+      "mail-template",
+      "mail-unread",
+      "mail-warning",
+      "mail"
+    ]
+  },
+  {
+    "name": "mailbox",
+    "files": [
+      "mailbox"
+    ]
+  },
+  {
+    "name": "map",
+    "files": [
+      "map-drive",
+      "map"
+    ]
+  },
+  {
+    "name": "markdown",
+    "files": [
+      "markdown"
+    ]
+  },
+  {
+    "name": "match",
+    "files": [
+      "match-app-layout"
+    ]
+  },
+  {
+    "name": "math",
+    "files": [
+      "math-format-linear",
+      "math-format-professional",
+      "math-formula-sparkle",
+      "math-formula",
+      "math-symbols"
+    ]
+  },
+  {
+    "name": "maximize",
+    "files": [
+      "maximize"
+    ]
+  },
+  {
+    "name": "meet",
+    "files": [
+      "meet-now"
+    ]
+  },
+  {
+    "name": "megaphone",
+    "files": [
+      "megaphone-circle",
+      "megaphone-loud",
+      "megaphone-off",
+      "megaphone"
+    ]
+  },
+  {
+    "name": "memory",
+    "files": [
+      "memory"
+    ]
+  },
+  {
+    "name": "mention",
+    "files": [
+      "mention-arrow-down",
+      "mention-brackets",
+      "mention"
+    ]
+  },
+  {
+    "name": "merge",
+    "files": [
+      "merge"
+    ]
+  },
+  {
+    "name": "mic",
+    "files": [
+      "mic-link",
+      "mic-off",
+      "mic-prohibited",
+      "mic-pulse-off",
+      "mic-pulse",
+      "mic-record",
+      "mic-settings",
+      "mic-sparkle",
+      "mic-sync",
+      "mic"
+    ]
+  },
+  {
+    "name": "microscope",
+    "files": [
+      "microscope"
+    ]
+  },
+  {
+    "name": "midi",
+    "files": [
+      "midi"
+    ]
+  },
+  {
+    "name": "mobile",
+    "files": [
+      "mobile-optimized"
+    ]
+  },
+  {
+    "name": "mold",
+    "files": [
+      "mold"
+    ]
+  },
+  {
+    "name": "molecule",
+    "files": [
+      "molecule"
+    ]
+  },
+  {
+    "name": "money",
+    "files": [
+      "money-calculator",
+      "money-dismiss",
+      "money-hand",
+      "money-off",
+      "money-settings",
+      "money"
+    ]
+  },
+  {
+    "name": "more",
+    "files": [
+      "more-circle",
+      "more-horizontal",
+      "more-vertical"
+    ]
+  },
+  {
+    "name": "mountain",
+    "files": [
+      "mountain-location-bottom",
+      "mountain-location-top",
+      "mountain-trail"
+    ]
+  },
+  {
+    "name": "movies",
+    "files": [
+      "movies-and-tv"
+    ]
+  },
+  {
+    "name": "multiplier",
+    "files": [
+      "multiplier-1x",
+      "multiplier-1_2x",
+      "multiplier-1_5x",
+      "multiplier-1_8x",
+      "multiplier-2x",
+      "multiplier-_5x"
+    ]
+  },
+  {
+    "name": "music",
+    "files": [
+      "music-note-1",
+      "music-note-2-play",
+      "music-note-2",
+      "music-note-off-1",
+      "music-note-off-2"
+    ]
+  },
+  {
+    "name": "my",
+    "files": [
+      "my-location"
+    ]
+  },
+  {
+    "name": "navigation",
+    "files": [
+      "navigation-briefcase",
+      "navigation-location-target",
+      "navigation-person",
+      "navigation-play",
+      "navigation-unread",
+      "navigation"
+    ]
+  },
+  {
+    "name": "network",
+    "files": [
+      "network-adapter",
+      "network-check"
+    ]
+  },
+  {
+    "name": "new",
+    "files": [
+      "new"
+    ]
+  },
+  {
+    "name": "news",
+    "files": [
+      "news"
+    ]
+  },
+  {
+    "name": "next",
+    "files": [
+      "next-frame",
+      "next"
+    ]
+  },
+  {
+    "name": "note",
+    "files": [
+      "note-add",
+      "note-edit",
+      "note-pin",
+      "note"
+    ]
+  },
+  {
+    "name": "notebook",
+    "files": [
+      "notebook-add",
+      "notebook-arrow-curve-down",
+      "notebook-error",
+      "notebook-eye",
+      "notebook-lightning",
+      "notebook-question-mark",
+      "notebook-section-arrow-right",
+      "notebook-section",
+      "notebook-subsection",
+      "notebook-sync",
+      "notebook"
+    ]
+  },
+  {
+    "name": "notepad",
+    "files": [
+      "notepad-edit",
+      "notepad-person-off",
+      "notepad-person",
+      "notepad-sparkle",
+      "notepad"
+    ]
+  },
+  {
+    "name": "number",
+    "files": [
+      "number-circle-0",
+      "number-circle-1",
+      "number-circle-2",
+      "number-circle-3",
+      "number-circle-4",
+      "number-circle-5",
+      "number-circle-6",
+      "number-circle-7",
+      "number-circle-8",
+      "number-circle-9",
+      "number-row",
+      "number-symbol-dismiss",
+      "number-symbol-square",
+      "number-symbol"
+    ]
+  },
+  {
+    "name": "open",
+    "files": [
+      "open-folder",
+      "open-off",
+      "open"
+    ]
+  },
+  {
+    "name": "options",
+    "files": [
+      "options"
+    ]
+  },
+  {
+    "name": "organization",
+    "files": [
+      "organization-horizontal",
+      "organization"
+    ]
+  },
+  {
+    "name": "orientation",
+    "files": [
+      "orientation"
+    ]
+  },
+  {
+    "name": "oval",
+    "files": [
+      "oval"
+    ]
+  },
+  {
+    "name": "oven",
+    "files": [
+      "oven"
+    ]
+  },
+  {
+    "name": "padding",
+    "files": [
+      "padding-down",
+      "padding-left",
+      "padding-right",
+      "padding-top"
+    ]
+  },
+  {
+    "name": "page",
+    "files": [
+      "page-fit"
+    ]
+  },
+  {
+    "name": "paint",
+    "files": [
+      "paint-brush-arrow-down",
+      "paint-brush-arrow-up",
+      "paint-brush-sparkle",
+      "paint-brush-subtract",
+      "paint-brush",
+      "paint-bucket-brush",
+      "paint-bucket"
+    ]
+  },
+  {
+    "name": "pair",
+    "files": [
+      "pair"
+    ]
+  },
+  {
+    "name": "panel-bottom",
+    "files": [
+      "panel-bottom-contract",
+      "panel-bottom-expand",
+      "panel-bottom"
+    ]
+  },
+  {
+    "name": "panel-left",
+    "files": [
+      "panel-left-add",
+      "panel-left-contract",
+      "panel-left-expand",
+      "panel-left-focus-right",
+      "panel-left-header-add",
+      "panel-left-header-key",
+      "panel-left-header",
+      "panel-left-key",
+      "panel-left-text-add",
+      "panel-left-text-dismiss",
+      "panel-left-text",
+      "panel-left",
+      "panel-right-add",
+      "panel-right-contract",
+      "panel-right-cursor",
+      "panel-right-expand",
+      "panel-right-gallery",
+      "panel-right"
+    ]
+  },
+  {
+    "name": "panel-top",
+    "files": [
+      "panel-top-contract",
+      "panel-top-expand",
+      "panel-top-gallery"
+    ]
+  },
+  {
+    "name": "panel-extras-1",
+    "files": [
+      "panel-separate-window"
+    ]
+  },
+  {
+    "name": "password",
+    "files": [
+      "password-clock",
+      "password-reset",
+      "password"
+    ]
+  },
+  {
+    "name": "patch",
+    "files": [
+      "patch"
+    ]
+  },
+  {
+    "name": "patient",
+    "files": [
+      "patient"
+    ]
+  },
+  {
+    "name": "pause",
+    "files": [
+      "pause-circle",
+      "pause-off",
+      "pause-settings",
+      "pause"
+    ]
+  },
+  {
+    "name": "payment",
+    "files": [
+      "payment-wireless",
+      "payment"
+    ]
+  },
+  {
+    "name": "pen",
+    "files": [
+      "pen-dismiss",
+      "pen-off",
+      "pen-prohibited",
+      "pen-sparkle",
+      "pen-sync",
+      "pen"
+    ]
+  },
+  {
+    "name": "pentagon",
+    "files": [
+      "pentagon"
+    ]
+  },
+  {
+    "name": "people-team",
+    "files": [
+      "people-team-add",
+      "people-team-delete",
+      "people-team-toolbox",
+      "people-team"
+    ]
+  },
+  {
+    "name": "people-extras-1",
+    "files": [
+      "people-add",
+      "people-audience",
+      "people-call",
+      "people-chat",
+      "people-checkmark",
+      "people-community-add",
+      "people-community",
+      "people-edit",
+      "people-error",
+      "people-eye"
+    ]
+  },
+  {
+    "name": "people-extras-2",
+    "files": [
+      "people-interwoven",
+      "people-link",
+      "people-list",
+      "people-lock",
+      "people-money",
+      "people-prohibited",
+      "people-queue",
+      "people-search",
+      "people-settings",
+      "people-star"
+    ]
+  },
+  {
+    "name": "people-extras-3",
+    "files": [
+      "people-subtract",
+      "people-swap",
+      "people-sync",
+      "people-toolbox",
+      "people"
+    ]
+  },
+  {
+    "name": "person-arrow",
+    "files": [
+      "person-arrow-back",
+      "person-arrow-left",
+      "person-arrow-right"
+    ]
+  },
+  {
+    "name": "person-square",
+    "files": [
+      "person-square-add",
+      "person-square-checkmark",
+      "person-square"
+    ]
+  },
+  {
+    "name": "person-extras-1",
+    "files": [
+      "person-5",
+      "person-6",
+      "person-account",
+      "person-accounts",
+      "person-add",
+      "person-alert-off",
+      "person-alert",
+      "person-available",
+      "person-board-add",
+      "person-board"
+    ]
+  },
+  {
+    "name": "person-extras-2",
+    "files": [
+      "person-briefcase",
+      "person-call",
+      "person-chat",
+      "person-circle",
+      "person-clock",
+      "person-delete",
+      "person-desktop",
+      "person-edit",
+      "person-error",
+      "person-feedback"
+    ]
+  },
+  {
+    "name": "person-extras-3",
+    "files": [
+      "person-head-hint",
+      "person-heart",
+      "person-home",
+      "person-info",
+      "person-key",
+      "person-lightbulb",
+      "person-lightning",
+      "person-link",
+      "person-lock",
+      "person-mail"
+    ]
+  },
+  {
+    "name": "person-extras-4",
+    "files": [
+      "person-money",
+      "person-note",
+      "person-passkey",
+      "person-phone",
+      "person-pill",
+      "person-prohibited",
+      "person-question-mark",
+      "person-ribbon",
+      "person-running",
+      "person-search"
+    ]
+  },
+  {
+    "name": "person-extras-5",
+    "files": [
+      "person-settings",
+      "person-shield",
+      "person-sound-spatial",
+      "person-standing",
+      "person-star",
+      "person-starburst",
+      "person-subtract",
+      "person-support",
+      "person-swap",
+      "person-sync"
+    ]
+  },
+  {
+    "name": "person-extras-6",
+    "files": [
+      "person-tag",
+      "person-tentative",
+      "person-voice",
+      "person-walking",
+      "person-warning",
+      "person-wrench",
+      "person"
+    ]
+  },
+  {
+    "name": "phone-extras-1",
+    "files": [
+      "phone-add",
+      "phone-arrow-right",
+      "phone-briefcase",
+      "phone-chat",
+      "phone-checkmark",
+      "phone-desktop-add",
+      "phone-desktop",
+      "phone-dismiss",
+      "phone-edit",
+      "phone-eraser"
+    ]
+  },
+  {
+    "name": "phone-extras-2",
+    "files": [
+      "phone-footer-arrow-down",
+      "phone-header-arrow-up",
+      "phone-key",
+      "phone-laptop",
+      "phone-link-setup",
+      "phone-lock",
+      "phone-multiple-settings",
+      "phone-multiple",
+      "phone-page-header",
+      "phone-pagination"
+    ]
+  },
+  {
+    "name": "phone-extras-3",
+    "files": [
+      "phone-person",
+      "phone-screen-time",
+      "phone-shake",
+      "phone-span-in",
+      "phone-span-out",
+      "phone-speaker",
+      "phone-status-bar",
+      "phone-subtract",
+      "phone-tablet",
+      "phone-update-checkmark"
+    ]
+  },
+  {
+    "name": "phone-extras-4",
+    "files": [
+      "phone-update",
+      "phone-vertical-scroll",
+      "phone-vibrate",
+      "phone"
+    ]
+  },
+  {
+    "name": "photo",
+    "files": [
+      "photo-filter"
+    ]
+  },
+  {
+    "name": "pi",
+    "files": [
+      "pi"
+    ]
+  },
+  {
+    "name": "picture",
+    "files": [
+      "picture-in-picture-enter",
+      "picture-in-picture-exit",
+      "picture-in-picture"
+    ]
+  },
+  {
+    "name": "pill",
+    "files": [
+      "pill"
+    ]
+  },
+  {
+    "name": "pin",
+    "files": [
+      "pin-globe",
+      "pin-off",
+      "pin"
+    ]
+  },
+  {
+    "name": "pipeline",
+    "files": [
+      "pipeline-add",
+      "pipeline-arrow-curve-down",
+      "pipeline-play",
+      "pipeline"
+    ]
+  },
+  {
+    "name": "pivot",
+    "files": [
+      "pivot"
+    ]
+  },
+  {
+    "name": "planet",
+    "files": [
+      "planet"
+    ]
+  },
+  {
+    "name": "plant",
+    "files": [
+      "plant-cattail",
+      "plant-grass",
+      "plant-ragweed"
+    ]
+  },
+  {
+    "name": "play",
+    "files": [
+      "play-circle-hint-half",
+      "play-circle-hint",
+      "play-circle-sparkle",
+      "play-circle",
+      "play-multiple",
+      "play-settings",
+      "play"
+    ]
+  },
+  {
+    "name": "playing",
+    "files": [
+      "playing-cards"
+    ]
+  },
+  {
+    "name": "plug",
+    "files": [
+      "plug-connected-add",
+      "plug-connected-checkmark",
+      "plug-connected-settings",
+      "plug-connected",
+      "plug-disconnected"
+    ]
+  },
+  {
+    "name": "point",
+    "files": [
+      "point-scan"
+    ]
+  },
+  {
+    "name": "poll",
+    "files": [
+      "poll-horizontal",
+      "poll-off",
+      "poll"
+    ]
+  },
+  {
+    "name": "port",
+    "files": [
+      "port-hdmi",
+      "port-micro-usb",
+      "port-usb-a",
+      "port-usb-c"
+    ]
+  },
+  {
+    "name": "position",
+    "files": [
+      "position-backward",
+      "position-forward",
+      "position-to-back",
+      "position-to-front"
+    ]
+  },
+  {
+    "name": "power",
+    "files": [
+      "power"
+    ]
+  },
+  {
+    "name": "predictions",
+    "files": [
+      "predictions"
+    ]
+  },
+  {
+    "name": "premium",
+    "files": [
+      "premium-person",
+      "premium"
+    ]
+  },
+  {
+    "name": "presence",
+    "files": [
+      "presence-available",
+      "presence-away",
+      "presence-blocked",
+      "presence-busy",
+      "presence-dnd",
+      "presence-offline",
+      "presence-oof",
+      "presence-tentative",
+      "presence-unknown"
+    ]
+  },
+  {
+    "name": "presenter",
+    "files": [
+      "presenter-off",
+      "presenter"
+    ]
+  },
+  {
+    "name": "preview",
+    "files": [
+      "preview-link"
+    ]
+  },
+  {
+    "name": "previous",
+    "files": [
+      "previous-frame",
+      "previous"
+    ]
+  },
+  {
+    "name": "print",
+    "files": [
+      "print-add",
+      "print"
+    ]
+  },
+  {
+    "name": "production",
+    "files": [
+      "production-checkmark",
+      "production"
+    ]
+  },
+  {
+    "name": "prohibited",
+    "files": [
+      "prohibited-multiple",
+      "prohibited-note",
+      "prohibited"
+    ]
+  },
+  {
+    "name": "projection",
+    "files": [
+      "projection-screen-dismiss",
+      "projection-screen-text-sparkle",
+      "projection-screen-text",
+      "projection-screen"
+    ]
+  },
+  {
+    "name": "prompt",
+    "files": [
+      "prompt"
+    ]
+  },
+  {
+    "name": "protocol",
+    "files": [
+      "protocol-handler"
+    ]
+  },
+  {
+    "name": "pulse",
+    "files": [
+      "pulse-square",
+      "pulse"
+    ]
+  },
+  {
+    "name": "puzzle",
+    "files": [
+      "puzzle-cube-piece",
+      "puzzle-cube",
+      "puzzle-piece-shield",
+      "puzzle-piece"
+    ]
+  },
+  {
+    "name": "qr",
+    "files": [
+      "qr-code"
+    ]
+  },
+  {
+    "name": "question",
+    "files": [
+      "question-circle",
+      "question"
+    ]
+  },
+  {
+    "name": "quiz",
+    "files": [
+      "quiz-new"
+    ]
+  },
+  {
+    "name": "radar",
+    "files": [
+      "radar-checkmark",
+      "radar-rectangle-multiple",
+      "radar"
+    ]
+  },
+  {
+    "name": "radio",
+    "files": [
+      "radio-button-off",
+      "radio-button"
+    ]
+  },
+  {
+    "name": "ram",
+    "files": [
+      "ram"
+    ]
+  },
+  {
+    "name": "rating",
+    "files": [
+      "rating-mature"
+    ]
+  },
+  {
+    "name": "ratio",
+    "files": [
+      "ratio-one-to-one"
+    ]
+  },
+  {
+    "name": "re",
+    "files": [
+      "re-order-dots-horizontal",
+      "re-order-dots-vertical",
+      "re-order-vertical",
+      "re-order"
+    ]
+  },
+  {
+    "name": "read",
+    "files": [
+      "read-aloud"
+    ]
+  },
+  {
+    "name": "reading",
+    "files": [
+      "reading-list-add",
+      "reading-list",
+      "reading-mode-mobile"
+    ]
+  },
+  {
+    "name": "real",
+    "files": [
+      "real-estate"
+    ]
+  },
+  {
+    "name": "receipt",
+    "files": [
+      "receipt-add",
+      "receipt-bag",
+      "receipt-cube",
+      "receipt-money",
+      "receipt-play",
+      "receipt-search",
+      "receipt-sparkles",
+      "receipt"
+    ]
+  },
+  {
+    "name": "record",
+    "files": [
+      "record-stop",
+      "record"
+    ]
+  },
+  {
+    "name": "rectangle",
+    "files": [
+      "rectangle-landscape-hint-copy",
+      "rectangle-landscape-sparkle",
+      "rectangle-landscape-sync-off",
+      "rectangle-landscape-sync",
+      "rectangle-landscape",
+      "rectangle-portrait-location-target",
+      "rectangle-portrait"
+    ]
+  },
+  {
+    "name": "recycle",
+    "files": [
+      "recycle"
+    ]
+  },
+  {
+    "name": "remix",
+    "files": [
+      "remix-add"
+    ]
+  },
+  {
+    "name": "remote",
+    "files": [
+      "remote"
+    ]
+  },
+  {
+    "name": "rename",
+    "files": [
+      "rename"
+    ]
+  },
+  {
+    "name": "reorder",
+    "files": [
+      "reorder"
+    ]
+  },
+  {
+    "name": "replay",
+    "files": [
+      "replay"
+    ]
+  },
+  {
+    "name": "resize",
+    "files": [
+      "resize-image",
+      "resize-large",
+      "resize-small",
+      "resize-table",
+      "resize-video",
+      "resize"
+    ]
+  },
+  {
+    "name": "reward",
+    "files": [
+      "reward"
+    ]
+  },
+  {
+    "name": "rewind",
+    "files": [
+      "rewind"
+    ]
+  },
+  {
+    "name": "rhombus",
+    "files": [
+      "rhombus"
+    ]
+  },
+  {
+    "name": "ribbon",
+    "files": [
+      "ribbon-add",
+      "ribbon-off",
+      "ribbon-star",
+      "ribbon"
+    ]
+  },
+  {
+    "name": "road",
+    "files": [
+      "road-cone",
+      "road"
+    ]
+  },
+  {
+    "name": "rocket",
+    "files": [
+      "rocket"
+    ]
+  },
+  {
+    "name": "rotate",
+    "files": [
+      "rotate-left",
+      "rotate-right"
+    ]
+  },
+  {
+    "name": "router",
+    "files": [
+      "router"
+    ]
+  },
+  {
+    "name": "row",
+    "files": [
+      "row-child",
+      "row-triple"
+    ]
+  },
+  {
+    "name": "rss",
+    "files": [
+      "rss"
+    ]
+  },
+  {
+    "name": "ruler",
+    "files": [
+      "ruler"
+    ]
+  },
+  {
+    "name": "run",
+    "files": [
+      "run"
+    ]
+  },
+  {
+    "name": "sanitize",
+    "files": [
+      "sanitize"
+    ]
+  },
+  {
+    "name": "save",
+    "files": [
+      "save-arrow-right",
+      "save-copy",
+      "save-edit",
+      "save-image",
+      "save-multiple",
+      "save-search",
+      "save-sync",
+      "save"
+    ]
+  },
+  {
+    "name": "savings",
+    "files": [
+      "savings"
+    ]
+  },
+  {
+    "name": "scale",
+    "files": [
+      "scale-fill",
+      "scale-fit"
+    ]
+  },
+  {
+    "name": "scales",
+    "files": [
+      "scales"
+    ]
+  },
+  {
+    "name": "scan",
+    "files": [
+      "scan-camera",
+      "scan-dash",
+      "scan-object",
+      "scan-person",
+      "scan-qr-code",
+      "scan-table",
+      "scan-text",
+      "scan-thumb-up-off",
+      "scan-thumb-up",
+      "scan-type-checkmark",
+      "scan-type-off",
+      "scan-type",
+      "scan"
+    ]
+  },
+  {
+    "name": "scratchpad",
+    "files": [
+      "scratchpad"
+    ]
+  },
+  {
+    "name": "screen",
+    "files": [
+      "screen-cut",
+      "screen-person",
+      "screen-search"
+    ]
+  },
+  {
+    "name": "screenshot",
+    "files": [
+      "screenshot-record",
+      "screenshot"
+    ]
+  },
+  {
+    "name": "script",
+    "files": [
+      "script"
+    ]
+  },
+  {
+    "name": "search",
+    "files": [
+      "search-info",
+      "search-settings",
+      "search-shield",
+      "search-sparkle",
+      "search-square",
+      "search-visual",
+      "search"
+    ]
+  },
+  {
+    "name": "seat",
+    "files": [
+      "seat-add",
+      "seat"
+    ]
+  },
+  {
+    "name": "select",
+    "files": [
+      "select-all-off",
+      "select-all-on",
+      "select-object-skew-dismiss",
+      "select-object-skew-edit",
+      "select-object-skew",
+      "select-object"
+    ]
+  },
+  {
+    "name": "send",
+    "files": [
+      "send-beaker",
+      "send-clock",
+      "send-copy",
+      "send-person",
+      "send"
+    ]
+  },
+  {
+    "name": "serial",
+    "files": [
+      "serial-port"
+    ]
+  },
+  {
+    "name": "server",
+    "files": [
+      "server-link",
+      "server-multiple",
+      "server-play",
+      "server-surface-multiple",
+      "server-surface",
+      "server"
+    ]
+  },
+  {
+    "name": "service",
+    "files": [
+      "service-bell"
+    ]
+  },
+  {
+    "name": "settings",
+    "files": [
+      "settings-chat",
+      "settings-cog-multiple",
+      "settings"
+    ]
+  },
+  {
+    "name": "shape",
+    "files": [
+      "shape-exclude",
+      "shape-intersect",
+      "shape-organic",
+      "shape-subtract",
+      "shape-union"
+    ]
+  },
+  {
+    "name": "shapes",
+    "files": [
+      "shapes"
+    ]
+  },
+  {
+    "name": "share",
+    "files": [
+      "share-android",
+      "share-close-tray",
+      "share-ios",
+      "share-multiple",
+      "share-screen-person-overlay-inside",
+      "share-screen-person-overlay",
+      "share-screen-person-p",
+      "share-screen-person",
+      "share-screen-start",
+      "share-screen-stop",
+      "share"
+    ]
+  },
+  {
+    "name": "shield-extras-1",
+    "files": [
+      "shield-add",
+      "shield-arrow-right",
+      "shield-badge",
+      "shield-checkmark",
+      "shield-dismiss-shield",
+      "shield-dismiss",
+      "shield-error",
+      "shield-globe",
+      "shield-keyhole",
+      "shield-lock"
+    ]
+  },
+  {
+    "name": "shield-extras-2",
+    "files": [
+      "shield-person-add",
+      "shield-person",
+      "shield-prohibited",
+      "shield-question",
+      "shield-settings",
+      "shield-task",
+      "shield"
+    ]
+  },
+  {
+    "name": "shifts",
+    "files": [
+      "shifts-30-minutes",
+      "shifts-activity",
+      "shifts-add",
+      "shifts-availability",
+      "shifts-checkmark",
+      "shifts-day",
+      "shifts-open",
+      "shifts-prohibited",
+      "shifts-question-mark",
+      "shifts-team",
+      "shifts"
+    ]
+  },
+  {
+    "name": "shopping",
+    "files": [
+      "shopping-bag-add",
+      "shopping-bag-arrow-left",
+      "shopping-bag-checkmark",
+      "shopping-bag-dismiss",
+      "shopping-bag-pause",
+      "shopping-bag-percent",
+      "shopping-bag-play",
+      "shopping-bag-tag",
+      "shopping-bag"
+    ]
+  },
+  {
+    "name": "shortpick",
+    "files": [
+      "shortpick"
+    ]
+  },
+  {
+    "name": "showerhead",
+    "files": [
+      "showerhead"
+    ]
+  },
+  {
+    "name": "sign",
+    "files": [
+      "sign-out"
+    ]
+  },
+  {
+    "name": "signature",
+    "files": [
+      "signature"
+    ]
+  },
+  {
+    "name": "sim",
+    "files": [
+      "sim"
+    ]
+  },
+  {
+    "name": "skip",
+    "files": [
+      "skip-back-10",
+      "skip-back-15",
+      "skip-forward-10",
+      "skip-forward-15",
+      "skip-forward-30",
+      "skip-forward-tab"
+    ]
+  },
+  {
+    "name": "slash",
+    "files": [
+      "slash-forward"
+    ]
+  },
+  {
+    "name": "sleep",
+    "files": [
+      "sleep"
+    ]
+  },
+  {
+    "name": "slide-multiple",
+    "files": [
+      "slide-multiple-arrow-right",
+      "slide-multiple-search",
+      "slide-multiple"
+    ]
+  },
+  {
+    "name": "slide-text",
+    "files": [
+      "slide-text-call",
+      "slide-text-cursor",
+      "slide-text-edit",
+      "slide-text-multiple",
+      "slide-text-person",
+      "slide-text-sparkle",
+      "slide-text-title-add",
+      "slide-text-title-checkmark",
+      "slide-text-title-edit",
+      "slide-text-title",
+      "slide-text"
+    ]
+  },
+  {
+    "name": "slide-extras-1",
+    "files": [
+      "slide-add",
+      "slide-arrow-right",
+      "slide-content",
+      "slide-eraser",
+      "slide-grid",
+      "slide-hide",
+      "slide-layout",
+      "slide-link",
+      "slide-microphone",
+      "slide-play"
+    ]
+  },
+  {
+    "name": "slide-extras-2",
+    "files": [
+      "slide-record",
+      "slide-search",
+      "slide-settings",
+      "slide-size",
+      "slide-transition"
+    ]
+  },
+  {
+    "name": "smartwatch",
+    "files": [
+      "smartwatch-dot",
+      "smartwatch"
+    ]
+  },
+  {
+    "name": "snooze",
+    "files": [
+      "snooze"
+    ]
+  },
+  {
+    "name": "sound",
+    "files": [
+      "sound-source",
+      "sound-wave-circle-sparkle",
+      "sound-wave-circle"
+    ]
+  },
+  {
+    "name": "space",
+    "files": [
+      "space-3d"
+    ]
+  },
+  {
+    "name": "spacebar",
+    "files": [
+      "spacebar"
+    ]
+  },
+  {
+    "name": "sparkle",
+    "files": [
+      "sparkle-action",
+      "sparkle-circle",
+      "sparkle-info",
+      "sparkle"
+    ]
+  },
+  {
+    "name": "spatula",
+    "files": [
+      "spatula-spoon"
+    ]
+  },
+  {
+    "name": "speaker",
+    "files": [
+      "speaker-0",
+      "speaker-1",
+      "speaker-2",
+      "speaker-bluetooth",
+      "speaker-box",
+      "speaker-edit",
+      "speaker-mute",
+      "speaker-off",
+      "speaker-settings",
+      "speaker-usb"
+    ]
+  },
+  {
+    "name": "spinner",
+    "files": [
+      "spinner-ios"
+    ]
+  },
+  {
+    "name": "split",
+    "files": [
+      "split-hint",
+      "split-horizontal",
+      "split-vertical"
+    ]
+  },
+  {
+    "name": "sport",
+    "files": [
+      "sport-american-football",
+      "sport-baseball",
+      "sport-basketball",
+      "sport-hockey",
+      "sport-soccer",
+      "sport"
+    ]
+  },
+  {
+    "name": "spray",
+    "files": [
+      "spray-can"
+    ]
+  },
+  {
+    "name": "square",
+    "files": [
+      "square-add",
+      "square-arrow-forward",
+      "square-dismiss",
+      "square-dovetail-joint",
+      "square-eraser",
+      "square-hint-apps",
+      "square-hint-arrow-back",
+      "square-hint-hexagon",
+      "square-hint-sparkles",
+      "square-hint",
+      "square-multiple",
+      "square-shadow",
+      "square-text-arrow-repeat-all",
+      "square"
+    ]
+  },
+  {
+    "name": "squares",
+    "files": [
+      "squares-nested"
+    ]
+  },
+  {
+    "name": "stack",
+    "files": [
+      "stack-add",
+      "stack-arrow-forward",
+      "stack-off",
+      "stack-star",
+      "stack-vertical",
+      "stack"
+    ]
+  },
+  {
+    "name": "star-arrow",
+    "files": [
+      "star-arrow-back",
+      "star-arrow-right-end",
+      "star-arrow-right-start"
+    ]
+  },
+  {
+    "name": "star-extras-1",
+    "files": [
+      "star-add",
+      "star-checkmark",
+      "star-dismiss",
+      "star-edit",
+      "star-emphasis",
+      "star-half",
+      "star-line-horizontal-3",
+      "star-off",
+      "star-one-quarter",
+      "star-prohibited"
+    ]
+  },
+  {
+    "name": "star-extras-2",
+    "files": [
+      "star-settings",
+      "star-three-quarter",
+      "star"
+    ]
+  },
+  {
+    "name": "status",
+    "files": [
+      "status"
+    ]
+  },
+  {
+    "name": "step",
+    "files": [
+      "step"
+    ]
+  },
+  {
+    "name": "steps",
+    "files": [
+      "steps"
+    ]
+  },
+  {
+    "name": "stethoscope",
+    "files": [
+      "stethoscope"
+    ]
+  },
+  {
+    "name": "sticker",
+    "files": [
+      "sticker-add",
+      "sticker"
+    ]
+  },
+  {
+    "name": "stop",
+    "files": [
+      "stop"
+    ]
+  },
+  {
+    "name": "storage",
+    "files": [
+      "storage"
+    ]
+  },
+  {
+    "name": "store",
+    "files": [
+      "store-microsoft"
+    ]
+  },
+  {
+    "name": "stream",
+    "files": [
+      "stream-input-output",
+      "stream-input",
+      "stream-output",
+      "stream"
+    ]
+  },
+  {
+    "name": "street",
+    "files": [
+      "street-sign"
+    ]
+  },
+  {
+    "name": "style",
+    "files": [
+      "style-guide"
+    ]
+  },
+  {
+    "name": "sub",
+    "files": [
+      "sub-grid"
+    ]
+  },
+  {
+    "name": "subtitles",
+    "files": [
+      "subtitles"
+    ]
+  },
+  {
+    "name": "subtract",
+    "files": [
+      "subtract-circle-arrow-back",
+      "subtract-circle-arrow-forward",
+      "subtract-circle",
+      "subtract-parentheses",
+      "subtract-square-multiple",
+      "subtract-square",
+      "subtract"
+    ]
+  },
+  {
+    "name": "surface",
+    "files": [
+      "surface-earbuds",
+      "surface-hub"
+    ]
+  },
+  {
+    "name": "swimming",
+    "files": [
+      "swimming-pool"
+    ]
+  },
+  {
+    "name": "swipe",
+    "files": [
+      "swipe-down",
+      "swipe-right",
+      "swipe-up"
+    ]
+  },
+  {
+    "name": "symbols",
+    "files": [
+      "symbols"
+    ]
+  },
+  {
+    "name": "sync",
+    "files": [
+      "sync-off"
+    ]
+  },
+  {
+    "name": "syringe",
+    "files": [
+      "syringe"
+    ]
+  },
+  {
+    "name": "system",
+    "files": [
+      "system"
+    ]
+  },
+  {
+    "name": "tab-desktop",
+    "files": [
+      "tab-desktop-arrow-clockwise",
+      "tab-desktop-arrow-left",
+      "tab-desktop-bottom",
+      "tab-desktop-clock",
+      "tab-desktop-copy",
+      "tab-desktop-image",
+      "tab-desktop-link",
+      "tab-desktop-multiple-add",
+      "tab-desktop-multiple-bottom",
+      "tab-desktop-multiple-sparkle",
+      "tab-desktop-multiple",
+      "tab-desktop-new-page",
+      "tab-desktop-search",
+      "tab-desktop"
+    ]
+  },
+  {
+    "name": "tab-extras-1",
+    "files": [
+      "tab-add",
+      "tab-arrow-left",
+      "tab-group",
+      "tab-in-private",
+      "tab-inprivate-account",
+      "tab-prohibited",
+      "tab-shield-dismiss",
+      "tab"
+    ]
+  },
+  {
+    "name": "table-cell",
+    "files": [
+      "table-cell-add",
+      "table-cell-center-arrow-repeat-all",
+      "table-cell-center-edit",
+      "table-cell-center-link",
+      "table-cell-center-search",
+      "table-cell-center",
+      "table-cell-edit"
+    ]
+  },
+  {
+    "name": "table-column",
+    "files": [
+      "table-column-top-bottom-arrow-repeat-all",
+      "table-column-top-bottom-edit",
+      "table-column-top-bottom-link",
+      "table-column-top-bottom-search",
+      "table-column-top-bottom"
+    ]
+  },
+  {
+    "name": "table-freeze",
+    "files": [
+      "table-freeze-column-and-row",
+      "table-freeze-column",
+      "table-freeze-row"
+    ]
+  },
+  {
+    "name": "table-move",
+    "files": [
+      "table-move-above",
+      "table-move-below",
+      "table-move-left",
+      "table-move-right"
+    ]
+  },
+  {
+    "name": "table-offset",
+    "files": [
+      "table-offset-add",
+      "table-offset-less-than-or-equal-to",
+      "table-offset-settings",
+      "table-offset"
+    ]
+  },
+  {
+    "name": "table-simple",
+    "files": [
+      "table-simple-checkmark",
+      "table-simple-exclude",
+      "table-simple-include",
+      "table-simple-multiple",
+      "table-simple"
+    ]
+  },
+  {
+    "name": "table-stack",
+    "files": [
+      "table-stack-above",
+      "table-stack-below",
+      "table-stack-left",
+      "table-stack-right"
+    ]
+  },
+  {
+    "name": "table-extras-1",
+    "files": [
+      "table-add",
+      "table-alt-text",
+      "table-arrow-repeat-all",
+      "table-arrow-up",
+      "table-bottom-row",
+      "table-calculator",
+      "table-cells-merge",
+      "table-cells-split",
+      "table-checker",
+      "table-copy"
+    ]
+  },
+  {
+    "name": "table-extras-2",
+    "files": [
+      "table-cursor",
+      "table-default",
+      "table-delete-column",
+      "table-delete-row",
+      "table-dismiss",
+      "table-edit",
+      "table-image",
+      "table-insert-column",
+      "table-insert-row",
+      "table-lightning"
+    ]
+  },
+  {
+    "name": "table-extras-3",
+    "files": [
+      "table-link",
+      "table-lock",
+      "table-multiple",
+      "table-resize-column",
+      "table-resize-row",
+      "table-search",
+      "table-settings",
+      "table-sparkle",
+      "table-split",
+      "table-switch"
+    ]
+  },
+  {
+    "name": "table-extras-4",
+    "files": [
+      "table"
+    ]
+  },
+  {
+    "name": "tablet",
+    "files": [
+      "tablet-laptop",
+      "tablet-speaker",
+      "tablet"
+    ]
+  },
+  {
+    "name": "tabs",
+    "files": [
+      "tabs"
+    ]
+  },
+  {
+    "name": "tag",
+    "files": [
+      "tag-add",
+      "tag-circle",
+      "tag-dismiss",
+      "tag-edit",
+      "tag-error",
+      "tag-lock-accent",
+      "tag-lock",
+      "tag-multiple",
+      "tag-off",
+      "tag-percent",
+      "tag-question-mark",
+      "tag-reset",
+      "tag-search",
+      "tag"
+    ]
+  },
+  {
+    "name": "tap",
+    "files": [
+      "tap-double",
+      "tap-single"
+    ]
+  },
+  {
+    "name": "target",
+    "files": [
+      "target-add",
+      "target-arrow",
+      "target-dismiss",
+      "target-edit",
+      "target-sparkle",
+      "target"
+    ]
+  },
+  {
+    "name": "task",
+    "files": [
+      "task-list-add",
+      "task-list-square-add",
+      "task-list-square-database",
+      "task-list-square-person",
+      "task-list-square-settings",
+      "task-list-square-sparkle"
+    ]
+  },
+  {
+    "name": "tasks",
+    "files": [
+      "tasks-app"
+    ]
+  },
+  {
+    "name": "teaching",
+    "files": [
+      "teaching"
+    ]
+  },
+  {
+    "name": "teardrop",
+    "files": [
+      "teardrop-bottom-right"
+    ]
+  },
+  {
+    "name": "teddy",
+    "files": [
+      "teddy"
+    ]
+  },
+  {
+    "name": "temperature",
+    "files": [
+      "temperature-degree-celsius",
+      "temperature-degree-fahrenheit",
+      "temperature"
+    ]
+  },
+  {
+    "name": "tent",
+    "files": [
+      "tent"
+    ]
+  },
+  {
+    "name": "tetris",
+    "files": [
+      "tetris-app"
+    ]
+  },
+  {
+    "name": "text-add",
+    "files": [
+      "text-add-space-after",
+      "text-add-space-before",
+      "text-add-t",
+      "text-add"
+    ]
+  },
+  {
+    "name": "text-align",
+    "files": [
+      "text-align-center-rotate-270",
+      "text-align-center-rotate-90",
+      "text-align-center",
+      "text-align-distributed-evenly",
+      "text-align-distributed-vertical",
+      "text-align-distributed",
+      "text-align-justify-low-90",
+      "text-align-justify-low-rotate-270",
+      "text-align-justify-low-rotate-90",
+      "text-align-justify-low",
+      "text-align-justify-rotate-270",
+      "text-align-justify-rotate-90",
+      "text-align-justify",
+      "text-align-left-rotate-270",
+      "text-align-left-rotate-90",
+      "text-align-left",
+      "text-align-right-rotate-270",
+      "text-align-right-rotate-90",
+      "text-align-right"
+    ]
+  },
+  {
+    "name": "text-bullet",
+    "files": [
+      "text-bullet-list-270",
+      "text-bullet-list-90",
+      "text-bullet-list-add",
+      "text-bullet-list-checkmark",
+      "text-bullet-list-dismiss",
+      "text-bullet-list-square-clock",
+      "text-bullet-list-square-edit",
+      "text-bullet-list-square-person",
+      "text-bullet-list-square-search",
+      "text-bullet-list-square-settings",
+      "text-bullet-list-square-shield",
+      "text-bullet-list-square-sparkle",
+      "text-bullet-list-square-toolbox",
+      "text-bullet-list-square-warning",
+      "text-bullet-list-square",
+      "text-bullet-list-tree",
+      "text-bullet-list"
+    ]
+  },
+  {
+    "name": "text-case",
+    "files": [
+      "text-case-lowercase",
+      "text-case-title",
+      "text-case-uppercase"
+    ]
+  },
+  {
+    "name": "text-column",
+    "files": [
+      "text-column-one-narrow",
+      "text-column-one-semi-narrow",
+      "text-column-one-wide-lightning",
+      "text-column-one-wide",
+      "text-column-one",
+      "text-column-three",
+      "text-column-two-left",
+      "text-column-two-right",
+      "text-column-two",
+      "text-column-wide"
+    ]
+  },
+  {
+    "name": "text-direction",
+    "files": [
+      "text-direction-horizontal-left",
+      "text-direction-horizontal-right",
+      "text-direction-rotate-270-right",
+      "text-direction-rotate-315-right",
+      "text-direction-rotate-45-right",
+      "text-direction-rotate-90-left",
+      "text-direction-rotate-90-right",
+      "text-direction-vertical"
+    ]
+  },
+  {
+    "name": "text-edit",
+    "files": [
+      "text-edit-style-character-a",
+      "text-edit-style-character-ga",
+      "text-edit-style"
+    ]
+  },
+  {
+    "name": "text-font",
+    "files": [
+      "text-font-info",
+      "text-font-size",
+      "text-font"
+    ]
+  },
+  {
+    "name": "text-grammar",
+    "files": [
+      "text-grammar-arrow-left",
+      "text-grammar-arrow-right",
+      "text-grammar-checkmark",
+      "text-grammar-dismiss",
+      "text-grammar-error",
+      "text-grammar-lightning",
+      "text-grammar-settings",
+      "text-grammar-wand"
+    ]
+  },
+  {
+    "name": "text-header",
+    "files": [
+      "text-header-1-lines-caret",
+      "text-header-1-lines",
+      "text-header-1",
+      "text-header-2-lines-caret",
+      "text-header-2-lines",
+      "text-header-2",
+      "text-header-3-lines-caret",
+      "text-header-3-lines",
+      "text-header-3",
+      "text-header-4-lines-caret",
+      "text-header-4",
+      "text-header-5",
+      "text-header-6"
+    ]
+  },
+  {
+    "name": "text-indent",
+    "files": [
+      "text-indent-decrease-rotate-270",
+      "text-indent-decrease-rotate-90",
+      "text-indent-decrease",
+      "text-indent-increase-rotate-270",
+      "text-indent-increase-rotate-90",
+      "text-indent-increase"
+    ]
+  },
+  {
+    "name": "text-number",
+    "files": [
+      "text-number-format",
+      "text-number-list-rotate-270",
+      "text-number-list-rotate-90"
+    ]
+  },
+  {
+    "name": "text-paragraph",
+    "files": [
+      "text-paragraph-direction-left",
+      "text-paragraph-direction-right",
+      "text-paragraph-direction",
+      "text-paragraph"
+    ]
+  },
+  {
+    "name": "text-position",
+    "files": [
+      "text-position-behind",
+      "text-position-front",
+      "text-position-line",
+      "text-position-square-left",
+      "text-position-square-right",
+      "text-position-square",
+      "text-position-through",
+      "text-position-tight",
+      "text-position-top-bottom"
+    ]
+  },
+  {
+    "name": "text-proofing",
+    "files": [
+      "text-proofing-tools-abc",
+      "text-proofing-tools-ga-na-da",
+      "text-proofing-tools-zi",
+      "text-proofing-tools"
+    ]
+  },
+  {
+    "name": "text-underline",
+    "files": [
+      "text-underline-character-u",
+      "text-underline-double",
+      "text-underline"
+    ]
+  },
+  {
+    "name": "text-extras-1",
+    "files": [
+      "text-abc-underline-double",
+      "text-arrow-down-right-column",
+      "text-asterisk",
+      "text-baseline",
+      "text-bold",
+      "text-box-settings",
+      "text-change-case",
+      "text-clear-formatting",
+      "text-collapse",
+      "text-color-accent"
+    ]
+  },
+  {
+    "name": "text-extras-2",
+    "files": [
+      "text-color",
+      "text-continuous",
+      "text-density",
+      "text-description",
+      "text-effects-sparkle",
+      "text-effects",
+      "text-expand",
+      "text-field",
+      "text-first-line",
+      "text-footnote"
+    ]
+  },
+  {
+    "name": "text-extras-3",
+    "files": [
+      "text-hanging",
+      "text-italic",
+      "text-line-spacing",
+      "text-list-roman-numeral-lowercase",
+      "text-list-roman-numeral-uppercase",
+      "text-more",
+      "text-percent",
+      "text-period-asterisk",
+      "text-quote",
+      "text-sort-ascending"
+    ]
+  },
+  {
+    "name": "text-extras-4",
+    "files": [
+      "text-sort-descending",
+      "text-strikethrough",
+      "text-subscript",
+      "text-superscript",
+      "text-t-tag",
+      "text-t",
+      "text-whole-word",
+      "text-word-count",
+      "text-wrap-off",
+      "text-wrap"
+    ]
+  },
+  {
+    "name": "text-extras-5",
+    "files": [
+      "text"
+    ]
+  },
+  {
+    "name": "textbox-align",
+    "files": [
+      "textbox-align-bottom-center",
+      "textbox-align-bottom-left",
+      "textbox-align-bottom-right",
+      "textbox-align-bottom-rotate-90",
+      "textbox-align-bottom",
+      "textbox-align-center",
+      "textbox-align-middle-left",
+      "textbox-align-middle-right",
+      "textbox-align-middle-rotate-90",
+      "textbox-align-middle",
+      "textbox-align-top-center",
+      "textbox-align-top-left",
+      "textbox-align-top-right",
+      "textbox-align-top-rotate-90",
+      "textbox-align-top"
+    ]
+  },
+  {
+    "name": "textbox-extras-1",
+    "files": [
+      "textbox-checkmark",
+      "textbox-more",
+      "textbox-rotate-90",
+      "textbox-settings",
+      "textbox"
+    ]
+  },
+  {
+    "name": "thinking",
+    "files": [
+      "thinking"
+    ]
+  },
+  {
+    "name": "thumb",
+    "files": [
+      "thumb-dislike",
+      "thumb-like-dislike",
+      "thumb-like"
+    ]
+  },
+  {
+    "name": "ticket",
+    "files": [
+      "ticket-diagonal",
+      "ticket-horizontal"
+    ]
+  },
+  {
+    "name": "time",
+    "files": [
+      "time-and-weather",
+      "time-picker"
+    ]
+  },
+  {
+    "name": "timeline",
+    "files": [
+      "timeline"
+    ]
+  },
+  {
+    "name": "timer",
+    "files": [
+      "timer-10",
+      "timer-2",
+      "timer-3",
+      "timer-off",
+      "timer"
+    ]
+  },
+  {
+    "name": "toggle",
+    "files": [
+      "toggle-left",
+      "toggle-multiple",
+      "toggle-right"
+    ]
+  },
+  {
+    "name": "toolbox",
+    "files": [
+      "toolbox"
+    ]
+  },
+  {
+    "name": "tooltip",
+    "files": [
+      "tooltip-quote-off",
+      "tooltip-quote"
+    ]
+  },
+  {
+    "name": "top",
+    "files": [
+      "top-speed"
+    ]
+  },
+  {
+    "name": "translate",
+    "files": [
+      "translate-auto",
+      "translate-off",
+      "translate"
+    ]
+  },
+  {
+    "name": "transmission",
+    "files": [
+      "transmission"
+    ]
+  },
+  {
+    "name": "transparency",
+    "files": [
+      "transparency-square"
+    ]
+  },
+  {
+    "name": "tray",
+    "files": [
+      "tray-item-add",
+      "tray-item-remove"
+    ]
+  },
+  {
+    "name": "tree",
+    "files": [
+      "tree-deciduous",
+      "tree-evergreen"
+    ]
+  },
+  {
+    "name": "triangle",
+    "files": [
+      "triangle-down",
+      "triangle-left",
+      "triangle-right",
+      "triangle-up",
+      "triangle"
+    ]
+  },
+  {
+    "name": "trophy",
+    "files": [
+      "trophy-lock",
+      "trophy-off",
+      "trophy"
+    ]
+  },
+  {
+    "name": "tv",
+    "files": [
+      "tv-arrow-right",
+      "tv-usb",
+      "tv"
+    ]
+  },
+  {
+    "name": "umbrella",
+    "files": [
+      "umbrella"
+    ]
+  },
+  {
+    "name": "uninstall",
+    "files": [
+      "uninstall-app"
+    ]
+  },
+  {
+    "name": "usb",
+    "files": [
+      "usb-plug",
+      "usb-stick"
+    ]
+  },
+  {
+    "name": "vault",
+    "files": [
+      "vault"
+    ]
+  },
+  {
+    "name": "vehicle-car",
+    "files": [
+      "vehicle-car-collision",
+      "vehicle-car-parking",
+      "vehicle-car-profile",
+      "vehicle-car"
+    ]
+  },
+  {
+    "name": "vehicle-truck",
+    "files": [
+      "vehicle-truck-bag",
+      "vehicle-truck-checkmark",
+      "vehicle-truck-cube",
+      "vehicle-truck-profile",
+      "vehicle-truck"
+    ]
+  },
+  {
+    "name": "vehicle-extras-1",
+    "files": [
+      "vehicle-bicycle",
+      "vehicle-bus",
+      "vehicle-cab",
+      "vehicle-cable-car",
+      "vehicle-motorcycle",
+      "vehicle-ship",
+      "vehicle-subway-clock",
+      "vehicle-subway",
+      "vehicle-tractor"
+    ]
+  },
+  {
+    "name": "video-clip",
+    "files": [
+      "video-clip-multiple",
+      "video-clip-off",
+      "video-clip-optimize",
+      "video-clip-wand",
+      "video-clip"
+    ]
+  },
+  {
+    "name": "video-person",
+    "files": [
+      "video-person-call",
+      "video-person-clock",
+      "video-person-off",
+      "video-person-pulse",
+      "video-person-sparkle-off",
+      "video-person-sparkle",
+      "video-person-star-off",
+      "video-person-star",
+      "video-person"
+    ]
+  },
+  {
+    "name": "video-extras-1",
+    "files": [
+      "video-360-off",
+      "video-360",
+      "video-add",
+      "video-background-effect-horizontal",
+      "video-background-effect",
+      "video-bluetooth",
+      "video-chat",
+      "video-link",
+      "video-multiple",
+      "video-off"
+    ]
+  },
+  {
+    "name": "video-extras-2",
+    "files": [
+      "video-people",
+      "video-play-pause",
+      "video-prohibited",
+      "video-recording",
+      "video-security",
+      "video-settings",
+      "video-switch",
+      "video-sync",
+      "video-usb",
+      "video"
+    ]
+  },
+  {
+    "name": "view",
+    "files": [
+      "view-desktop-mobile",
+      "view-desktop"
+    ]
+  },
+  {
+    "name": "virtual",
+    "files": [
+      "virtual-network-toolbox",
+      "virtual-network"
+    ]
+  },
+  {
+    "name": "voicemail",
+    "files": [
+      "voicemail-arrow-back",
+      "voicemail-arrow-forward",
+      "voicemail-arrow-subtract",
+      "voicemail-shield",
+      "voicemail-subtract",
+      "voicemail"
+    ]
+  },
+  {
+    "name": "vote",
+    "files": [
+      "vote"
+    ]
+  },
+  {
+    "name": "walkie",
+    "files": [
+      "walkie-talkie"
+    ]
+  },
+  {
+    "name": "wallet",
+    "files": [
+      "wallet-credit-card",
+      "wallet"
+    ]
+  },
+  {
+    "name": "wallpaper",
+    "files": [
+      "wallpaper"
+    ]
+  },
+  {
+    "name": "wand",
+    "files": [
+      "wand"
+    ]
+  },
+  {
+    "name": "warning",
+    "files": [
+      "warning-lock-open",
+      "warning-shield",
+      "warning"
+    ]
+  },
+  {
+    "name": "washer",
+    "files": [
+      "washer"
+    ]
+  },
+  {
+    "name": "water",
+    "files": [
+      "water"
+    ]
+  },
+  {
+    "name": "weather-rain",
+    "files": [
+      "weather-rain-showers-day",
+      "weather-rain-showers-night",
+      "weather-rain-snow",
+      "weather-rain"
+    ]
+  },
+  {
+    "name": "weather-snow",
+    "files": [
+      "weather-snow-shower-day",
+      "weather-snow-shower-night",
+      "weather-snow"
+    ]
+  },
+  {
+    "name": "weather-sunny",
+    "files": [
+      "weather-sunny-high",
+      "weather-sunny-low",
+      "weather-sunny"
+    ]
+  },
+  {
+    "name": "weather-extras-1",
+    "files": [
+      "weather-blowing-snow",
+      "weather-cloudy",
+      "weather-drizzle",
+      "weather-duststorm",
+      "weather-fog",
+      "weather-hail-day",
+      "weather-hail-night",
+      "weather-haze",
+      "weather-moon-off",
+      "weather-moon"
+    ]
+  },
+  {
+    "name": "weather-extras-2",
+    "files": [
+      "weather-partly-cloudy-day",
+      "weather-partly-cloudy-night",
+      "weather-snowflake",
+      "weather-squalls",
+      "weather-thunderstorm"
+    ]
+  },
+  {
+    "name": "web",
+    "files": [
+      "web-asset"
+    ]
+  },
+  {
+    "name": "whiteboard",
+    "files": [
+      "whiteboard-off",
+      "whiteboard"
+    ]
+  },
+  {
+    "name": "wifi",
+    "files": [
+      "wifi-1",
+      "wifi-2",
+      "wifi-3",
+      "wifi-4",
+      "wifi-lock",
+      "wifi-off",
+      "wifi-settings",
+      "wifi-warning"
+    ]
+  },
+  {
+    "name": "window-ad",
+    "files": [
+      "window-ad-off",
+      "window-ad-person",
+      "window-ad"
+    ]
+  },
+  {
+    "name": "window-column",
+    "files": [
+      "window-column-one-fourth-left-focus-left",
+      "window-column-one-fourth-left-focus-top",
+      "window-column-one-fourth-left"
+    ]
+  },
+  {
+    "name": "window-header",
+    "files": [
+      "window-header-horizontal-off",
+      "window-header-horizontal",
+      "window-header-vertical"
+    ]
+  },
+  {
+    "name": "window-extras-1",
+    "files": [
+      "window-apps",
+      "window-arrow-up",
+      "window-brush",
+      "window-bullet-list-add",
+      "window-bullet-list",
+      "window-console",
+      "window-database",
+      "window-dev-edit",
+      "window-dev-tools",
+      "window-edit"
+    ]
+  },
+  {
+    "name": "window-extras-2",
+    "files": [
+      "window-fingerprint",
+      "window-inprivate-account",
+      "window-inprivate",
+      "window-location-target",
+      "window-multiple-swap",
+      "window-multiple",
+      "window-new",
+      "window-play",
+      "window-settings",
+      "window-shield"
+    ]
+  },
+  {
+    "name": "window-extras-3",
+    "files": [
+      "window-text",
+      "window-wrench",
+      "window"
+    ]
+  },
+  {
+    "name": "wrench",
+    "files": [
+      "wrench-screwdriver",
+      "wrench-settings",
+      "wrench"
+    ]
+  },
+  {
+    "name": "xbox",
+    "files": [
+      "xbox-console",
+      "xbox-controller-error",
+      "xbox-controller"
+    ]
+  },
+  {
+    "name": "xray",
+    "files": [
+      "xray"
+    ]
+  },
+  {
+    "name": "zoom",
+    "files": [
+      "zoom-fit",
+      "zoom-in",
+      "zoom-out"
+    ]
+  }
+]
